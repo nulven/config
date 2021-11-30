@@ -1,0 +1,15 @@
+2021/11/02-19:12:17.390 7929 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/02-19:12:17.390 7929 Recovering log #4
+2021/11/02-19:12:17.390 7929 Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/000004.log 
+2021/11/02-23:14:00.888 1c4f1 Level-0 table #8: started
+2021/11/02-23:14:00.892 1c4f1 Level-0 table #8: 9940 bytes OK
+2021/11/02-23:14:00.897 1c4f1 Delete type=0 #4
+2021/11/02-23:14:00.897 1c4f1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/02-23:14:00.897 1c4f1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x02!\x03\x00P\xa0\xa4-\xd0wB\x00\x01\x0a\x002\x000\x002\x001\x00-\x001\x001\x00-\x000\x002' @ 21227 : 1
+2021/11/02-23:14:00.897 1c4f1 Compacting 1@1 + 1@2 files
+2021/11/02-23:14:00.906 1c4f1 Generated table #9@1: 162 keys, 6351 bytes
+2021/11/02-23:14:00.906 1c4f1 Compacted 1@1 + 1@2 files => 6351 bytes
+2021/11/02-23:14:00.910 1c4f1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/02-23:14:00.910 1c4f1 Delete type=2 #8
+2021/11/02-23:14:00.910 1c4f1 Delete type=2 #5
+2021/11/02-23:14:00.911 1c4f1 Manual compaction at level-1 from '\x00\x04\x02!\x03\x00P\xa0\xa4-\xd0wB\x00\x01\x0a\x002\x000\x002\x001\x00-\x001\x001\x00-\x000\x002' @ 21227 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/06/03-13:18:18.430 301d Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_c43.qbo.intuit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/03-15:32:48.989 1106 Level-0 table #5: started
+2020/06/03-15:32:48.996 1106 Level-0 table #5: 1542 bytes OK
+2020/06/03-15:32:49.006 1106 Delete type=0 #3
+2020/06/03-15:32:49.007 1106 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

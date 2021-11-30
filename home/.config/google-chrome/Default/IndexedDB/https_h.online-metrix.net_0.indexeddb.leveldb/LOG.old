@@ -1,0 +1,7 @@
+2020/06/16-13:22:51.886 34b2 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/16-13:22:51.886 34b2 Recovering log #3
+2020/06/16-13:22:51.886 34b2 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/000003.log 
+2020/06/16-13:23:02.246 16cc Level-0 table #5: started
+2020/06/16-13:23:02.250 16cc Level-0 table #5: 1324 bytes OK
+2020/06/16-13:23:02.254 16cc Delete type=0 #3
+2020/06/16-13:23:02.254 16cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

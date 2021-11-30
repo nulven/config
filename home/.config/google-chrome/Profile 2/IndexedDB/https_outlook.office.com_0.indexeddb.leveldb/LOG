@@ -1,0 +1,15 @@
+2021/11/02-16:13:50.316 168c4 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/02-16:13:50.316 168c4 Recovering log #4
+2021/11/02-16:13:50.316 168c4 Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000004.log 
+2021/11/02-16:24:25.639 154b7 Level-0 table #8: started
+2021/11/02-16:24:25.643 154b7 Level-0 table #8: 209 bytes OK
+2021/11/02-16:24:25.648 154b7 Delete type=0 #4
+2021/11/02-16:24:25.648 154b7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/02-16:24:25.648 154b7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 47 : 1
+2021/11/02-16:24:25.648 154b7 Compacting 1@1 + 1@2 files
+2021/11/02-16:24:25.652 154b7 Generated table #9@1: 19 keys, 513 bytes
+2021/11/02-16:24:25.652 154b7 Compacted 1@1 + 1@2 files => 513 bytes
+2021/11/02-16:24:25.656 154b7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/02-16:24:25.656 154b7 Delete type=2 #8
+2021/11/02-16:24:25.656 154b7 Delete type=2 #5
+2021/11/02-16:24:25.656 154b7 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 47 : 1 .. (end); will stop at (end)

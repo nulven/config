@@ -1,0 +1,206 @@
+{
+   "ariaGrid3x3": {
+      "description": "Label for spoken feedback to read out grid-type: 3x3.",
+      "message": "Háromszor hármas"
+   },
+   "ariaGrid4x4": {
+      "description": "Label for spoken feedback to read out grid-type: 4x4.",
+      "message": "Négyszer négyes"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Vissza"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "Törlés"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a selected item from the gallery. Expects a file name to be passed in.",
+      "message": "Biztosan eltávolítja a következő fájlt: $file$?",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg."
+         }
+      }
+   },
+   "deleteMultiConfirmationMsg": {
+      "description": "Confirmation message before removing multiple selected items from the gallery. Expects a file count to be passed in.",
+      "message": "Biztosan eltávolít $count$ elemet?",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "20."
+         }
+      }
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Fotókat és videókat készíthet a kamerával."
+   },
+   "dialogCancelButton": {
+      "description": "Label for the dismissing button in the dialog.",
+      "message": "Mégse"
+   },
+   "dialogOKButton": {
+      "description": "Label for the accepting button in the dialog.",
+      "message": "OK"
+   },
+   "errorMsgEmptyRecording": {
+      "description": "Error message shown when no data is recorded for a recording and it won't be added to the gallery.",
+      "message": "A rendszer semmit sem rögzített."
+   },
+   "errorMsgFileSystemFailed": {
+      "description": "Error message shown when failing to read or write the file system.",
+      "message": "Fájlrendszerbeli hibák."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when exporting to an external directory failed. Expects a file name to be passed in.",
+      "message": "Nem sikerült exportálni a fájlt ($file$).",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg"
+         }
+      }
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability.",
+      "message": "A kamera jelenleg nem áll rendelkezésre.\nEllenőrizze, hogy megfelelően van-e csatlakoztatva."
+   },
+   "errorMsgRecordStartFailed": {
+      "description": "Error message shown when failing to start recording video.",
+      "message": "Nem sikerült elindítani a rögzítést."
+   },
+   "errorMsgSaveFileFailed": {
+      "description": "Error message shown when saving/adding a image or video to the file system failed.",
+      "message": "Nem sikerült menteni a fájlt."
+   },
+   "errorMsgTakePhotoFailed": {
+      "description": "Error message shown when failing to take photo.",
+      "message": "Nem sikerült elkészíteni a fotót."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Exportálás lemezre"
+   },
+   "feedbackButton": {
+      "description": "Label for the feedback button.",
+      "message": "Visszajelzés küldése"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "Ugrás a galériába"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Galériaképek"
+   },
+   "gridTypeButton": {
+      "description": "Label for the button of grid-type options.",
+      "message": "Rács típusa"
+   },
+   "helpButton": {
+      "description": "Label for the help button.",
+      "message": "Súgó"
+   },
+   "labelGrid3x3": {
+      "description": "Label for for grid-type: 3x3.",
+      "message": "3 × 3"
+   },
+   "labelGrid4x4": {
+      "description": "Label for for grid-type: 4x4.",
+      "message": "4 × 4"
+   },
+   "labelGridGolden": {
+      "description": "Label for grid-type: golden ratio.",
+      "message": "Aranymetszés"
+   },
+   "labelTimer10s": {
+      "description": "Label for timer-duration: 10 seconds.",
+      "message": "10 másodperc"
+   },
+   "labelTimer3s": {
+      "description": "Label for timer-duration: 3 seconds.",
+      "message": "3 másodperc"
+   },
+   "migratePicturesMsg": {
+      "description": "Message shown before moving all photos and videos stored in the Camera App to the Downloads folder.",
+      "message": "A kamerával készített fotók és videók a Letöltések mappába kerülnek. A Fájlok alkalmazásban érheti el őket.\n\nA tárhelyengedéllyel rendelkező alkalmazások hozzáférnek fotóihoz és videóihoz."
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "Kamera"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Nyomtatás"
+   },
+   "recordVideoStartButton": {
+      "description": "Label for the shutter button to start recording.",
+      "message": "Rögzítés megkezdése"
+   },
+   "recordVideoStopButton": {
+      "description": "Label for the shutter button to stop recording.",
+      "message": "Rögzítés leállítása"
+   },
+   "settingsButton": {
+      "description": "Label for the settings button.",
+      "message": "Beállítások"
+   },
+   "statusMsgCameraSwitched": {
+      "description": "Status message for spoken feedback when switching over to another camera.",
+      "message": "$camera$ aktív",
+      "placeholders": {
+         "camera": {
+            "content": "$1",
+            "example": "USB WebCam (12ab:5678) User-facing"
+         }
+      }
+   },
+   "statusMsgRecordingStopped": {
+      "description": "Status message for spoken feedback when video recording has been stopped.",
+      "message": "A rögzítés leállt"
+   },
+   "switchCameraButton": {
+      "description": "Label for the button to switch to next connected camera. Eg. switching from front facing to back facing, or a camera connected via USB. The button is shown only when more than one camera is connected.",
+      "message": "Váltás a következő kamerára"
+   },
+   "switchRecordVideoButton": {
+      "description": "Label for the button to switch to record video mode.",
+      "message": "Váltás videórögzítésre"
+   },
+   "switchTakePhotoButton": {
+      "description": "Label for the button to switch to take photo mode.",
+      "message": "Váltás fotókészítésre"
+   },
+   "takePhotoButton": {
+      "description": "Label for the shutter button to take photo.",
+      "message": "Fotókészítés"
+   },
+   "takePhotoCancelButton": {
+      "description": "Label for the shutter button to cancel countdown timer and stop taking photo.",
+      "message": "Fotókészítés leállítása"
+   },
+   "timerDurationButton": {
+      "description": "Label for the button of timer-duration options.",
+      "message": "Időzítés hossza"
+   },
+   "toggleGridButton": {
+      "description": "Label for the checkbox to toggle the grid shown on preview.",
+      "message": "Rács"
+   },
+   "toggleMicButton": {
+      "description": "Label for the checkbox to toggle the microphone for recording video.",
+      "message": "Mikrofon"
+   },
+   "toggleMirrorButton": {
+      "description": "Label for the checkbox to toggle the preview mirroring. Eg. if mirroring is toggled on, preview will be flipped horizontally.",
+      "message": "Tükrözés"
+   },
+   "toggleTimerButton": {
+      "description": "Label for the checkbox to toggle the countdown timer.",
+      "message": "Időzítő"
+   }
+}

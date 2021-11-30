@@ -1,0 +1,6 @@
+2021/11/18-09:08:56.073 12647 Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.huffpost.com_0.indexeddb.leveldb since it was missing.
+2021/11/18-09:08:56.084 12647 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.huffpost.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/18-09:11:32.776 ffff Level-0 table #5: started
+2021/11/18-09:11:32.783 ffff Level-0 table #5: 2449 bytes OK
+2021/11/18-09:11:32.788 ffff Delete type=0 #3
+2021/11/18-09:11:32.788 ffff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

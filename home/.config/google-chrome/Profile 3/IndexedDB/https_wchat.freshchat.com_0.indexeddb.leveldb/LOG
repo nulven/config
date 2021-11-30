@@ -1,0 +1,15 @@
+2020/05/19-00:01:40.558 7ae5 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/19-00:01:40.558 7ae5 Recovering log #4
+2020/05/19-00:01:40.558 7ae5 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb/000004.log 
+2020/05/19-01:50:45.621 75c5 Level-0 table #8: started
+2020/05/19-01:50:45.636 75c5 Level-0 table #8: 188769 bytes OK
+2020/05/19-01:50:45.642 75c5 Delete type=0 #4
+2020/05/19-01:50:45.642 75c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/19-01:50:45.642 75c5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0f\x001\x002\x003\x007\x001\x001\x005\x006\x005\x005\x002\x005\x005\x000\x005' @ 1138 : 1
+2020/05/19-01:50:45.642 75c5 Compacting 1@1 + 1@2 files
+2020/05/19-01:50:45.655 75c5 Generated table #9@1: 29 keys, 11088 bytes
+2020/05/19-01:50:45.655 75c5 Compacted 1@1 + 1@2 files => 11088 bytes
+2020/05/19-01:50:45.660 75c5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/19-01:50:45.660 75c5 Delete type=2 #8
+2020/05/19-01:50:45.660 75c5 Delete type=2 #5
+2020/05/19-01:50:45.661 75c5 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0f\x001\x002\x003\x007\x001\x001\x005\x006\x005\x005\x002\x005\x005\x000\x005' @ 1138 : 1 .. (end); will stop at (end)

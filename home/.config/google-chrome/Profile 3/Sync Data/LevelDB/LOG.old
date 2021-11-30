@@ -1,0 +1,6 @@
+2021/07/05-15:38:08.738 2c3007 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/Sync Data/LevelDB/MANIFEST-000001
+2021/07/05-15:38:08.739 2c3007 Recovering log #2971
+2021/07/05-15:38:08.749 2c3007 Reusing old log /home/nulven/.config/google-chrome/Profile 3/Sync Data/LevelDB/002971.log 
+2021/07/05-15:38:13.253 2bb4ef Level-0 table #2975: started
+2021/07/05-15:38:13.261 2bb4ef Level-0 table #2975: 103960 bytes OK
+2021/07/05-15:38:13.266 2bb4ef Delete type=0 #2971

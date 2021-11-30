@@ -1,0 +1,15 @@
+2020/08/17-22:50:46.225 28f Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/17-22:50:46.225 28f Recovering log #19
+2020/08/17-22:50:46.225 28f Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000019.log 
+2020/08/17-22:51:25.718 45b4 Level-0 table #24: started
+2020/08/17-22:51:25.727 45b4 Level-0 table #24: 1336 bytes OK
+2020/08/17-22:51:25.732 45b4 Delete type=0 #19
+2020/08/17-22:51:25.732 45b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/17-22:51:25.732 45b4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 369 : 1
+2020/08/17-22:51:25.732 45b4 Compacting 1@1 + 1@2 files
+2020/08/17-22:51:25.736 45b4 Generated table #25@1: 20 keys, 1301 bytes
+2020/08/17-22:51:25.736 45b4 Compacted 1@1 + 1@2 files => 1301 bytes
+2020/08/17-22:51:25.740 45b4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/17-22:51:25.740 45b4 Delete type=2 #21
+2020/08/17-22:51:25.740 45b4 Delete type=2 #24
+2020/08/17-22:51:25.741 45b4 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 369 : 1 .. (end); will stop at (end)

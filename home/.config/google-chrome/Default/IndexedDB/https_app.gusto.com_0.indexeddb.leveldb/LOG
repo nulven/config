@@ -1,0 +1,5 @@
+2020/05/26-20:02:58.511 21d1 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_app.gusto.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/26-20:03:34.779 dac Level-0 table #5: started
+2020/05/26-20:03:34.785 dac Level-0 table #5: 1221 bytes OK
+2020/05/26-20:03:34.790 dac Delete type=0 #3
+2020/05/26-20:03:34.790 dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

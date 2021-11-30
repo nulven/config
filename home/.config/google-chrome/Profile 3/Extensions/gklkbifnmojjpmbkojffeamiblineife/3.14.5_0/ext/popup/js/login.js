@@ -1,0 +1,1 @@
+var login={init:function(o){render("loader"),api.getAccount(function(e){$(".footer .name").html(e.email),$(".footer p").show(),$(".footer .credit").html(e.credit.email.used+"/"+e.credit.email.quota),$("#loader-main").hide(),o(e)},function(){render("login"),$(".footer").hide(),$(".info").css("margin-top","19%")})}};

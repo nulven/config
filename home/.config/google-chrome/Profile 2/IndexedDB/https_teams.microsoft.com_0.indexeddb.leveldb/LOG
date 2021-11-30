@@ -1,0 +1,6 @@
+2021/11/16-10:00:59.004 ade81 Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb since it was missing.
+2021/11/16-10:00:59.017 ade81 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/16-10:37:18.873 bda03 Level-0 table #5: started
+2021/11/16-10:37:18.894 bda03 Level-0 table #5: 530814 bytes OK
+2021/11/16-10:37:18.900 bda03 Delete type=0 #3
+2021/11/16-10:37:18.901 bda03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,206 @@
+{
+   "ariaGrid3x3": {
+      "description": "Label for spoken feedback to read out grid-type: 3x3.",
+      "message": "وضع 3 في 3"
+   },
+   "ariaGrid4x4": {
+      "description": "Label for spoken feedback to read out grid-type: 4x4.",
+      "message": "وضع 4 في 4"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "رجوع"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "حذف"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a selected item from the gallery. Expects a file name to be passed in.",
+      "message": "هل تريد فعلاً إزالة $file$؟",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg."
+         }
+      }
+   },
+   "deleteMultiConfirmationMsg": {
+      "description": "Confirmation message before removing multiple selected items from the gallery. Expects a file count to be passed in.",
+      "message": "هل تريد فعلاً إزالة $count$ عنصر؟",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "20."
+         }
+      }
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "يمكنك التقاط الصور وتسجيل الفيديوهات باستخدام الكاميرا."
+   },
+   "dialogCancelButton": {
+      "description": "Label for the dismissing button in the dialog.",
+      "message": "إلغاء"
+   },
+   "dialogOKButton": {
+      "description": "Label for the accepting button in the dialog.",
+      "message": "موافق"
+   },
+   "errorMsgEmptyRecording": {
+      "description": "Error message shown when no data is recorded for a recording and it won't be added to the gallery.",
+      "message": "لم يتمّ تسجيل أيّ بيانات."
+   },
+   "errorMsgFileSystemFailed": {
+      "description": "Error message shown when failing to read or write the file system.",
+      "message": "أخطاء نظام الملفات."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when exporting to an external directory failed. Expects a file name to be passed in.",
+      "message": "يتعذَّر تصدير $file$.",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg"
+         }
+      }
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability.",
+      "message": "الكاميرا غير متاحة حاليًا.\nيُرجى التحقُّق من اتصال الكاميرا بشكلٍ صحيح."
+   },
+   "errorMsgRecordStartFailed": {
+      "description": "Error message shown when failing to start recording video.",
+      "message": "يتعذّر بدء التسجيل."
+   },
+   "errorMsgSaveFileFailed": {
+      "description": "Error message shown when saving/adding a image or video to the file system failed.",
+      "message": "يتعذَّر حفظ الملف."
+   },
+   "errorMsgTakePhotoFailed": {
+      "description": "Error message shown when failing to take photo.",
+      "message": "يتعذّر التقاط الصورة."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "تصدير إلى القرص"
+   },
+   "feedbackButton": {
+      "description": "Label for the feedback button.",
+      "message": "إرسال تعليقات"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "الانتقال إلى المعرض"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "صور المعرض"
+   },
+   "gridTypeButton": {
+      "description": "Label for the button of grid-type options.",
+      "message": "نوع الشبكة"
+   },
+   "helpButton": {
+      "description": "Label for the help button.",
+      "message": "مساعدة"
+   },
+   "labelGrid3x3": {
+      "description": "Label for for grid-type: 3x3.",
+      "message": "وضع 3 × 3"
+   },
+   "labelGrid4x4": {
+      "description": "Label for for grid-type: 4x4.",
+      "message": "وضع 4 × 4"
+   },
+   "labelGridGolden": {
+      "description": "Label for grid-type: golden ratio.",
+      "message": "وضع النسبة الذهبية"
+   },
+   "labelTimer10s": {
+      "description": "Label for timer-duration: 10 seconds.",
+      "message": "۱۰ ثوانٍ"
+   },
+   "labelTimer3s": {
+      "description": "Label for timer-duration: 3 seconds.",
+      "message": "3 ثوانٍ"
+   },
+   "migratePicturesMsg": {
+      "description": "Message shown before moving all photos and videos stored in the Camera App to the Downloads folder.",
+      "message": "سيتمّ نقل الصور والفيديوهات الملتقَطة بالكاميرا إلى مجلد \"التنزيلات\" ويمكنك الوصول إليها من خلال تطبيق \"ملفات\".\n\nستتمكَّن التطبيقات من الوصول إلى صورك وفيديوهاتك في حال تزويدها بأذونات الاطّلاع على سعة التخزين."
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "الكاميرا"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "طباعة"
+   },
+   "recordVideoStartButton": {
+      "description": "Label for the shutter button to start recording.",
+      "message": "بدء التسجيل"
+   },
+   "recordVideoStopButton": {
+      "description": "Label for the shutter button to stop recording.",
+      "message": "إيقاف التسجيل"
+   },
+   "settingsButton": {
+      "description": "Label for the settings button.",
+      "message": "إعدادات"
+   },
+   "statusMsgCameraSwitched": {
+      "description": "Status message for spoken feedback when switching over to another camera.",
+      "message": "الكاميرا $camera$ نشِطة.",
+      "placeholders": {
+         "camera": {
+            "content": "$1",
+            "example": "USB WebCam (12ab:5678) User-facing"
+         }
+      }
+   },
+   "statusMsgRecordingStopped": {
+      "description": "Status message for spoken feedback when video recording has been stopped.",
+      "message": "تمّ إيقاف التسجيل."
+   },
+   "switchCameraButton": {
+      "description": "Label for the button to switch to next connected camera. Eg. switching from front facing to back facing, or a camera connected via USB. The button is shown only when more than one camera is connected.",
+      "message": "التبديل إلى الكاميرا التالية"
+   },
+   "switchRecordVideoButton": {
+      "description": "Label for the button to switch to record video mode.",
+      "message": "تبديل لوضع تسجيل الفيديو"
+   },
+   "switchTakePhotoButton": {
+      "description": "Label for the button to switch to take photo mode.",
+      "message": "تبديل لوضع التقاط الصور"
+   },
+   "takePhotoButton": {
+      "description": "Label for the shutter button to take photo.",
+      "message": "التقاط صورة"
+   },
+   "takePhotoCancelButton": {
+      "description": "Label for the shutter button to cancel countdown timer and stop taking photo.",
+      "message": "إيقاف التقاط الصورة"
+   },
+   "timerDurationButton": {
+      "description": "Label for the button of timer-duration options.",
+      "message": "مدة المؤقِّت"
+   },
+   "toggleGridButton": {
+      "description": "Label for the checkbox to toggle the grid shown on preview.",
+      "message": "الشبكة"
+   },
+   "toggleMicButton": {
+      "description": "Label for the checkbox to toggle the microphone for recording video.",
+      "message": "الميكروفون"
+   },
+   "toggleMirrorButton": {
+      "description": "Label for the checkbox to toggle the preview mirroring. Eg. if mirroring is toggled on, preview will be flipped horizontally.",
+      "message": "النسخ المطابق"
+   },
+   "toggleTimerButton": {
+      "description": "Label for the checkbox to toggle the countdown timer.",
+      "message": "الموقِّت"
+   }
+}

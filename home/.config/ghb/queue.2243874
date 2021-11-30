@@ -1,0 +1,2032 @@
+[
+    {
+        "Job": {
+            "Audio": {
+                "AudioList": [],
+                "CopyMask": [],
+                "FallbackEncoder": 0
+            },
+            "Destination": {
+                "AlignAVStart": true,
+                "ChapterList": [
+                    {
+                        "Duration": {
+                            "Hours": 0,
+                            "Minutes": 0,
+                            "Seconds": 58,
+                            "Ticks": 5304060
+                        },
+                        "Name": ""
+                    }
+                ],
+                "ChapterMarkers": false,
+                "File": "/home/nulven/ethwinter-2021-01-29_18.17.17.m4v",
+                "InlineParameterSets": false,
+                "Mp4Options": {
+                    "IpodAtom": false,
+                    "Mp4Optimize": false
+                },
+                "Mux": "m4v"
+            },
+            "Filters": {
+                "FilterList": [
+                    {
+                        "ID": 3,
+                        "Settings": {
+                            "block-height": "16",
+                            "block-thresh": "40",
+                            "block-width": "16",
+                            "filter-mode": "2",
+                            "mode": "3",
+                            "motion-thresh": "1",
+                            "spatial-metric": "2",
+                            "spatial-thresh": "1"
+                        }
+                    },
+                    {
+                        "ID": 4,
+                        "Settings": {
+                            "mode": "7"
+                        }
+                    },
+                    {
+                        "ID": 6,
+                        "Settings": {
+                            "mode": 2,
+                            "rate": "27000000/900000"
+                        }
+                    },
+                    {
+                        "ID": 12,
+                        "Settings": {
+                            "crop-bottom": 0,
+                            "crop-left": 0,
+                            "crop-right": 0,
+                            "crop-top": 0,
+                            "height": 914,
+                            "width": 1824
+                        }
+                    }
+                ]
+            },
+            "Metadata": {
+                "Name": "ethwinter-2021-01-29_18.17.17"
+            },
+            "PAR": {
+                "Den": 1,
+                "Num": 1
+            },
+            "SequenceID": 0,
+            "Source": {
+                "Angle": 0,
+                "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+                "Range": {
+                    "End": 4950000,
+                    "Start": 0,
+                    "Type": "time"
+                },
+                "Title": 1
+            },
+            "Subtitle": {
+                "Search": {
+                    "Burn": true,
+                    "Default": false,
+                    "Enable": false,
+                    "Forced": false
+                },
+                "SubtitleList": []
+            },
+            "Video": {
+                "ColorFormat": 0,
+                "ColorMatrix": 1,
+                "ColorPrimaries": 1,
+                "ColorRange": 1,
+                "ColorTransfer": 1,
+                "Encoder": "x264",
+                "Level": "4.0",
+                "Options": "",
+                "Preset": "fast",
+                "Profile": "main",
+                "QSV": {
+                    "AsyncDepth": 4,
+                    "Decode": false
+                },
+                "Quality": 22.0,
+                "Tune": "",
+                "Turbo": false,
+                "TwoPass": false
+            }
+        },
+        "Title": {
+            "AngleCount": 1,
+            "AudioList": [],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 58,
+                        "Ticks": 5304060
+                    },
+                    "Name": ""
+                }
+            ],
+            "Color": {
+                "Format": 0,
+                "Matrix": 1,
+                "Primary": 1,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Container": "mov,mp4,m4a,3gp,3g2,mj2",
+            "Crop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 0,
+                "Seconds": 58,
+                "Ticks": 5304060
+            },
+            "FrameRate": {
+                "Den": 899491,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 914,
+                "PAR": {
+                    "Den": 1,
+                    "Num": 1
+                },
+                "Width": 1824
+            },
+            "Index": 1,
+            "InterlaceDetected": false,
+            "Metadata": {},
+            "Name": "ethwinter-2021-01-29_18.17.17",
+            "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 3,
+            "VideoCodec": "h264"
+        },
+        "uiSettings": {
+            "ActivityFilename": "/home/nulven/.config/ghb/EncodeLogs/ethwinter-2021-01-29_18.17.17 2021-01-29 18-29-21.log",
+            "AlignAVStart": true,
+            "AudioAllowAACPass": true,
+            "AudioAllowAC3Pass": false,
+            "AudioAllowDTSHDPass": false,
+            "AudioAllowDTSPass": false,
+            "AudioAllowEAC3Pass": false,
+            "AudioAllowFLACPass": false,
+            "AudioAllowMP3Pass": false,
+            "AudioAllowTRUEHDPass": false,
+            "AudioBitrate": "192",
+            "AudioCopyMask": [
+                "copy:aac"
+            ],
+            "AudioEncoder": "copy:ac3",
+            "AudioEncoderFallback": "av_aac",
+            "AudioLanguageList": [],
+            "AudioList": [
+                {
+                    "AudioBitrate": 160,
+                    "AudioCompressionLevel": -1.0,
+                    "AudioDitherMethod": "auto",
+                    "AudioEncoder": "av_aac",
+                    "AudioMixdown": "stereo",
+                    "AudioNormalizeMixLevel": false,
+                    "AudioSamplerate": "auto",
+                    "AudioTrackDRCSlider": 0.0,
+                    "AudioTrackGainSlider": 0.0,
+                    "AudioTrackQuality": 1.0,
+                    "AudioTrackQualityEnable": false
+                }
+            ],
+            "AudioMixdown": "dpl2",
+            "AudioSamplerate": "auto",
+            "AudioSecondaryEncoderMode": true,
+            "AudioTrack": "none",
+            "AudioTrackDRCSlider": 0.90000000000000002,
+            "AudioTrackDRCValue": "Off",
+            "AudioTrackGainSlider": 0.0,
+            "AudioTrackName": "",
+            "AudioTrackQuality": -1.0,
+            "AudioTrackQualityEnable": false,
+            "AudioTrackQualityValue": "-3",
+            "AudioTrackQualityX": -3.0,
+            "AudioTrackSelectionBehavior": "first",
+            "ChapterMarkers": true,
+            "ChildrenArray": [],
+            "Default": false,
+            "FileFormat": "av_mp4",
+            "Folder": false,
+            "FolderOpen": false,
+            "ImportFile": null,
+            "ImportLanguage": "und",
+            "ImportOffset": 0.0,
+            "InlineParameterSets": false,
+            "MetaAlbumArtist": "",
+            "MetaArtist": "",
+            "MetaComment": "",
+            "MetaDescription": "",
+            "MetaGenre": "",
+            "MetaLongDescription": "",
+            "MetaName": "ethwinter-2021-01-29_18.17.17",
+            "MetaReleaseDate": "",
+            "Mp4HttpOptimize": false,
+            "Mp4iPodCompatible": false,
+            "PictureAutoCrop": true,
+            "PictureBottomCrop": 0.0,
+            "PictureChromaSmoothCustom": "",
+            "PictureChromaSmoothPreset": "off",
+            "PictureChromaSmoothTune": "none",
+            "PictureCombDetectCustom": "",
+            "PictureCombDetectPreset": "default",
+            "PictureDARWidth": 0,
+            "PictureDeblockCustom": "strength=strong:thresh=20:blocksize=8",
+            "PictureDeblockPreset": "off",
+            "PictureDeblockTune": "medium",
+            "PictureDeinterlaceCustom": "",
+            "PictureDeinterlaceDecomb": false,
+            "PictureDeinterlaceFilter": "decomb",
+            "PictureDeinterlacePreset": "default",
+            "PictureDenoiseCustom": "",
+            "PictureDenoiseFilter": "off",
+            "PictureDenoisePreset": "",
+            "PictureDenoiseTune": "none",
+            "PictureDetelecine": "off",
+            "PictureDetelecineCustom": "",
+            "PictureDisplayHeight": 914.0,
+            "PictureDisplayWidth": 1824.0,
+            "PictureForceHeight": 0,
+            "PictureForceWidth": 0,
+            "PictureHeight": 1080.0,
+            "PictureHeightEnable": true,
+            "PictureItuPAR": false,
+            "PictureKeepRatio": true,
+            "PictureLeftCrop": 0.0,
+            "PictureLooseCrop": false,
+            "PictureModulus": "2",
+            "PicturePAR": "auto",
+            "PicturePARHeight": 1.0,
+            "PicturePARWidth": 1.0,
+            "PictureRightCrop": 0.0,
+            "PictureRotate": "disable=1",
+            "PictureSharpenCustom": "",
+            "PictureSharpenFilter": "off",
+            "PictureSharpenPreset": "",
+            "PictureSharpenTune": "",
+            "PictureTopCrop": 0.0,
+            "PictureWidth": 1920.0,
+            "PictureWidthEnable": true,
+            "Preferences": {
+                "ActivityFontSize": 8.0,
+                "AddCC": false,
+                "AutoScan": false,
+                "DiskFreeCheck": true,
+                "DiskFreeLimit": 2000.0,
+                "EncodeLogLocation": false,
+                "ExportDirectory": "/home/nulven/Desktop",
+                "LogLongevity": "immortal",
+                "LoggingLevel": "1",
+                "MinTitleDuration": 10.0,
+                "PreferredLanguage": "und",
+                "RemoveFinishedJobs": false,
+                "SrtDir": "/home/nulven",
+                "SyncTitleSettings": true,
+                "UseM4v": true,
+                "VideoQualityGranularity": "1",
+                "WhenComplete": "notify",
+                "allow_tweaks": false,
+                "auto_name": true,
+                "auto_name_template": "{source}",
+                "check_updates": "weekly",
+                "default_source": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+                "destination_dir": "/home/nulven",
+                "hbfd": false,
+                "hbfd_feature": false,
+                "last_update_check": 0,
+                "live_duration": 15.0,
+                "preset_window_height": 1,
+                "preset_window_width": 1,
+                "preview_count": 10.0,
+                "preview_show_crop": false,
+                "preview_x": 228,
+                "preview_y": 172,
+                "reduce_hd_preview": true,
+                "update_skip_version": 0,
+                "use_dvdnav": true,
+                "version": "0.1",
+                "window_height": 706,
+                "window_width": 1192
+            },
+            "PreferredLanguage": "und",
+            "PresetCategory": "new",
+            "PresetDescription": "H.264 video (up to 1080p30) and AAC stereo audio, in an MP4 container.",
+            "PresetFullName": "/General/Fast 1080p30",
+            "PresetName": "Fast 1080p30",
+            "PtoPType": "time",
+            "QueueWhenComplete": "notify",
+            "SrtCodeset": "ISO-8859-1",
+            "SubtitleAddCC": false,
+            "SubtitleAddForeignAudioSearch": true,
+            "SubtitleAddForeignAudioSubtitle": false,
+            "SubtitleBurnBDSub": true,
+            "SubtitleBurnBehavior": "foreign",
+            "SubtitleBurnDVDSub": true,
+            "SubtitleLanguageList": [],
+            "SubtitleTrackSelectionBehavior": "none",
+            "Type": 0,
+            "UsesPictureFilters": true,
+            "UsesPictureSettings": 1,
+            "VideoAvgBitrate": 6000.0,
+            "VideoColorMatrixCodeOverride": 0,
+            "VideoEncoder": "x264",
+            "VideoFramerate": "30",
+            "VideoFramerateCFR": false,
+            "VideoFramerateMode": "pfr",
+            "VideoFrameratePFR": true,
+            "VideoFramerateVFR": false,
+            "VideoGrayScale": false,
+            "VideoLevel": "4.0",
+            "VideoOptionExtra": "",
+            "VideoPreset": "fast",
+            "VideoPresetSlider": 4,
+            "VideoProfile": "main",
+            "VideoQSVAsyncDepth": 4,
+            "VideoQSVDecode": false,
+            "VideoQualitySlider": 22,
+            "VideoQualityType": 2,
+            "VideoScaler": "swscale",
+            "VideoTune": "none",
+            "VideoTurboTwoPass": true,
+            "VideoTwoPass": true,
+            "WhenComplete": "notify",
+            "activity_location": "/home/nulven/.config/ghb/Activity.log.2243874",
+            "angle": 1.0,
+            "angle_count": 1,
+            "autoscale": false,
+            "chapter_list": [],
+            "dest_dir": "/home/nulven",
+            "dest_file": "ethwinter-2021-01-29_18.17.17.m4v",
+            "destination": "/home/nulven/ethwinter-2021-01-29_18.17.17.m4v",
+            "display_aspect": "912:457",
+            "end_point": 55.0,
+            "job_finish_time": 1611962981,
+            "job_pause_time_ms": 0,
+            "job_start_time": 1611962961,
+            "job_status": 4,
+            "job_unique_id": 1,
+            "preset_modified": false,
+            "preset_reload": false,
+            "preview_frame": 2,
+            "queue_activity_location": "",
+            "scale_height": 914.0,
+            "scale_width": 1824.0,
+            "single_title": 1.0,
+            "source": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+            "source_height": 914,
+            "source_label": "ethwinter-2021-01-29_18.17.17",
+            "source_width": 1824,
+            "start_frame": -1,
+            "start_point": 0.029999999999999999,
+            "title": "1",
+            "title_selected": false,
+            "volume": "ethwinter-2021-01-29_18.17.17",
+            "vquality_type_bitrate": false,
+            "vquality_type_constant": true,
+            "x264FastDecode": false,
+            "x264Option": "",
+            "x264UseAdvancedOptions": false,
+            "x264ZeroLatency": false
+        }
+    },
+    {
+        "Job": {
+            "Audio": {
+                "AudioList": [],
+                "CopyMask": [],
+                "FallbackEncoder": 0
+            },
+            "Destination": {
+                "AlignAVStart": true,
+                "ChapterList": [
+                    {
+                        "Duration": {
+                            "Hours": 0,
+                            "Minutes": 0,
+                            "Seconds": 58,
+                            "Ticks": 5304060
+                        },
+                        "Name": ""
+                    }
+                ],
+                "ChapterMarkers": false,
+                "File": "/home/nulven/ethwinter-2021-01-29_18.17.17.m4v",
+                "InlineParameterSets": false,
+                "Mp4Options": {
+                    "IpodAtom": false,
+                    "Mp4Optimize": false
+                },
+                "Mux": "m4v"
+            },
+            "Filters": {
+                "FilterList": [
+                    {
+                        "ID": 3,
+                        "Settings": {
+                            "block-height": "16",
+                            "block-thresh": "40",
+                            "block-width": "16",
+                            "filter-mode": "2",
+                            "mode": "3",
+                            "motion-thresh": "1",
+                            "spatial-metric": "2",
+                            "spatial-thresh": "1"
+                        }
+                    },
+                    {
+                        "ID": 4,
+                        "Settings": {
+                            "mode": "7"
+                        }
+                    },
+                    {
+                        "ID": 6,
+                        "Settings": {
+                            "mode": 2,
+                            "rate": "27000000/900000"
+                        }
+                    },
+                    {
+                        "ID": 12,
+                        "Settings": {
+                            "crop-bottom": 0,
+                            "crop-left": 0,
+                            "crop-right": 0,
+                            "crop-top": 0,
+                            "height": 914,
+                            "width": 1824
+                        }
+                    }
+                ]
+            },
+            "Metadata": {
+                "Name": "ethwinter-2021-01-29_18.17.17"
+            },
+            "PAR": {
+                "Den": 1,
+                "Num": 1
+            },
+            "SequenceID": 0,
+            "Source": {
+                "Angle": 0,
+                "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+                "Range": {
+                    "End": 4950000,
+                    "Start": 0,
+                    "Type": "time"
+                },
+                "Title": 1
+            },
+            "Subtitle": {
+                "Search": {
+                    "Burn": true,
+                    "Default": false,
+                    "Enable": false,
+                    "Forced": false
+                },
+                "SubtitleList": []
+            },
+            "Video": {
+                "ColorFormat": 0,
+                "ColorMatrix": 1,
+                "ColorPrimaries": 1,
+                "ColorRange": 1,
+                "ColorTransfer": 1,
+                "Encoder": "x264",
+                "Level": "4.0",
+                "Options": "",
+                "Preset": "fast",
+                "Profile": "main",
+                "QSV": {
+                    "AsyncDepth": 4,
+                    "Decode": false
+                },
+                "Quality": 22.0,
+                "Tune": "",
+                "Turbo": false,
+                "TwoPass": false
+            }
+        },
+        "Title": {
+            "AngleCount": 1,
+            "AudioList": [],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 58,
+                        "Ticks": 5304060
+                    },
+                    "Name": ""
+                }
+            ],
+            "Color": {
+                "Format": 0,
+                "Matrix": 1,
+                "Primary": 1,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Container": "mov,mp4,m4a,3gp,3g2,mj2",
+            "Crop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 0,
+                "Seconds": 58,
+                "Ticks": 5304060
+            },
+            "FrameRate": {
+                "Den": 899491,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 914,
+                "PAR": {
+                    "Den": 1,
+                    "Num": 1
+                },
+                "Width": 1824
+            },
+            "Index": 1,
+            "InterlaceDetected": false,
+            "Metadata": {},
+            "Name": "ethwinter-2021-01-29_18.17.17",
+            "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 3,
+            "VideoCodec": "h264"
+        },
+        "uiSettings": {
+            "ActivityFilename": "/home/nulven/.config/ghb/EncodeLogs/ethwinter-2021-01-29_18.17.17 2021-01-29 18-30-02.log",
+            "AlignAVStart": true,
+            "AudioAllowAACPass": true,
+            "AudioAllowAC3Pass": false,
+            "AudioAllowDTSHDPass": false,
+            "AudioAllowDTSPass": false,
+            "AudioAllowEAC3Pass": false,
+            "AudioAllowFLACPass": false,
+            "AudioAllowMP3Pass": false,
+            "AudioAllowTRUEHDPass": false,
+            "AudioBitrate": "192",
+            "AudioCopyMask": [
+                "copy:aac"
+            ],
+            "AudioEncoder": "copy:ac3",
+            "AudioEncoderFallback": "av_aac",
+            "AudioLanguageList": [],
+            "AudioList": [
+                {
+                    "AudioBitrate": 160,
+                    "AudioCompressionLevel": -1.0,
+                    "AudioDitherMethod": "auto",
+                    "AudioEncoder": "av_aac",
+                    "AudioMixdown": "stereo",
+                    "AudioNormalizeMixLevel": false,
+                    "AudioSamplerate": "auto",
+                    "AudioTrackDRCSlider": 0.0,
+                    "AudioTrackGainSlider": 0.0,
+                    "AudioTrackQuality": 1.0,
+                    "AudioTrackQualityEnable": false
+                }
+            ],
+            "AudioMixdown": "dpl2",
+            "AudioSamplerate": "auto",
+            "AudioSecondaryEncoderMode": true,
+            "AudioTrack": "none",
+            "AudioTrackDRCSlider": 0.90000000000000002,
+            "AudioTrackDRCValue": "Off",
+            "AudioTrackGainSlider": 0.0,
+            "AudioTrackName": "",
+            "AudioTrackQuality": -1.0,
+            "AudioTrackQualityEnable": false,
+            "AudioTrackQualityValue": "-3",
+            "AudioTrackQualityX": -3.0,
+            "AudioTrackSelectionBehavior": "first",
+            "ChapterMarkers": true,
+            "ChildrenArray": [],
+            "Default": false,
+            "FileFormat": "av_mp4",
+            "Folder": false,
+            "FolderOpen": false,
+            "ImportFile": null,
+            "ImportLanguage": "und",
+            "ImportOffset": 0.0,
+            "InlineParameterSets": false,
+            "MetaAlbumArtist": "",
+            "MetaArtist": "",
+            "MetaComment": "",
+            "MetaDescription": "",
+            "MetaGenre": "",
+            "MetaLongDescription": "",
+            "MetaName": "ethwinter-2021-01-29_18.17.17",
+            "MetaReleaseDate": "",
+            "Mp4HttpOptimize": false,
+            "Mp4iPodCompatible": false,
+            "PictureAutoCrop": true,
+            "PictureBottomCrop": 0.0,
+            "PictureChromaSmoothCustom": "",
+            "PictureChromaSmoothPreset": "off",
+            "PictureChromaSmoothTune": "none",
+            "PictureCombDetectCustom": "",
+            "PictureCombDetectPreset": "default",
+            "PictureDARWidth": 0,
+            "PictureDeblockCustom": "strength=strong:thresh=20:blocksize=8",
+            "PictureDeblockPreset": "off",
+            "PictureDeblockTune": "medium",
+            "PictureDeinterlaceCustom": "",
+            "PictureDeinterlaceDecomb": false,
+            "PictureDeinterlaceFilter": "decomb",
+            "PictureDeinterlacePreset": "default",
+            "PictureDenoiseCustom": "",
+            "PictureDenoiseFilter": "off",
+            "PictureDenoisePreset": "",
+            "PictureDenoiseTune": "none",
+            "PictureDetelecine": "off",
+            "PictureDetelecineCustom": "",
+            "PictureDisplayHeight": 914.0,
+            "PictureDisplayWidth": 1824.0,
+            "PictureForceHeight": 0,
+            "PictureForceWidth": 0,
+            "PictureHeight": 1080.0,
+            "PictureHeightEnable": true,
+            "PictureItuPAR": false,
+            "PictureKeepRatio": true,
+            "PictureLeftCrop": 0.0,
+            "PictureLooseCrop": false,
+            "PictureModulus": "2",
+            "PicturePAR": "auto",
+            "PicturePARHeight": 1.0,
+            "PicturePARWidth": 1.0,
+            "PictureRightCrop": 0.0,
+            "PictureRotate": "disable=1",
+            "PictureSharpenCustom": "",
+            "PictureSharpenFilter": "off",
+            "PictureSharpenPreset": "",
+            "PictureSharpenTune": "",
+            "PictureTopCrop": 0.0,
+            "PictureWidth": 1920.0,
+            "PictureWidthEnable": true,
+            "Preferences": {
+                "ActivityFontSize": 8.0,
+                "AddCC": false,
+                "AutoScan": false,
+                "DiskFreeCheck": true,
+                "DiskFreeLimit": 2000.0,
+                "EncodeLogLocation": false,
+                "ExportDirectory": "/home/nulven/Desktop",
+                "LogLongevity": "immortal",
+                "LoggingLevel": "1",
+                "MinTitleDuration": 10.0,
+                "PreferredLanguage": "und",
+                "RemoveFinishedJobs": false,
+                "SrtDir": "/home/nulven",
+                "SyncTitleSettings": true,
+                "UseM4v": true,
+                "VideoQualityGranularity": "1",
+                "WhenComplete": "notify",
+                "allow_tweaks": false,
+                "auto_name": true,
+                "auto_name_template": "{source}",
+                "check_updates": "weekly",
+                "default_source": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+                "destination_dir": "/home/nulven",
+                "hbfd": false,
+                "hbfd_feature": false,
+                "last_update_check": 0,
+                "live_duration": 15.0,
+                "preset_window_height": 1,
+                "preset_window_width": 1,
+                "preview_count": 10.0,
+                "preview_show_crop": false,
+                "preview_x": 228,
+                "preview_y": 172,
+                "reduce_hd_preview": true,
+                "update_skip_version": 0,
+                "use_dvdnav": true,
+                "version": "0.1",
+                "window_height": 722,
+                "window_width": 1192
+            },
+            "PreferredLanguage": "und",
+            "PresetCategory": "new",
+            "PresetDescription": "H.264 video (up to 1080p30) and AAC stereo audio, in an MP4 container.",
+            "PresetFullName": "/General/Fast 1080p30",
+            "PresetName": "Fast 1080p30",
+            "PtoPType": "time",
+            "QueueWhenComplete": "notify",
+            "SrtCodeset": "ISO-8859-1",
+            "SubtitleAddCC": false,
+            "SubtitleAddForeignAudioSearch": true,
+            "SubtitleAddForeignAudioSubtitle": false,
+            "SubtitleBurnBDSub": true,
+            "SubtitleBurnBehavior": "foreign",
+            "SubtitleBurnDVDSub": true,
+            "SubtitleLanguageList": [],
+            "SubtitleTrackSelectionBehavior": "none",
+            "Type": 0,
+            "UsesPictureFilters": true,
+            "UsesPictureSettings": 1,
+            "VideoAvgBitrate": 6000.0,
+            "VideoColorMatrixCodeOverride": 0,
+            "VideoEncoder": "x264",
+            "VideoFramerate": "30",
+            "VideoFramerateCFR": false,
+            "VideoFramerateMode": "pfr",
+            "VideoFrameratePFR": true,
+            "VideoFramerateVFR": false,
+            "VideoGrayScale": false,
+            "VideoLevel": "4.0",
+            "VideoOptionExtra": "",
+            "VideoPreset": "fast",
+            "VideoPresetSlider": 4,
+            "VideoProfile": "main",
+            "VideoQSVAsyncDepth": 4,
+            "VideoQSVDecode": false,
+            "VideoQualitySlider": 22,
+            "VideoQualityType": 2,
+            "VideoScaler": "swscale",
+            "VideoTune": "none",
+            "VideoTurboTwoPass": true,
+            "VideoTwoPass": true,
+            "WhenComplete": "notify",
+            "activity_location": "/home/nulven/.config/ghb/Activity.log.2243874",
+            "angle": 1.0,
+            "angle_count": 1,
+            "autoscale": false,
+            "chapter_list": [],
+            "dest_dir": "/home/nulven",
+            "dest_file": "ethwinter-2021-01-29_18.17.17.m4v",
+            "destination": "/home/nulven/ethwinter-2021-01-29_18.17.17.m4v",
+            "display_aspect": "912:457",
+            "end_point": 55.0,
+            "job_finish_time": 1611963013,
+            "job_pause_time_ms": 0,
+            "job_start_time": 1611963002,
+            "job_status": 2,
+            "job_unique_id": 2,
+            "preset_modified": false,
+            "preset_reload": false,
+            "preview_frame": 2,
+            "queue_activity_location": "",
+            "scale_height": 914.0,
+            "scale_width": 1824.0,
+            "single_title": 1.0,
+            "source": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+            "source_height": 914,
+            "source_label": "ethwinter-2021-01-29_18.17.17",
+            "source_width": 1824,
+            "start_frame": -1,
+            "start_point": 0.029999999999999999,
+            "title": "1",
+            "title_selected": false,
+            "volume": "ethwinter-2021-01-29_18.17.17",
+            "vquality_type_bitrate": false,
+            "vquality_type_constant": true,
+            "x264FastDecode": false,
+            "x264Option": "",
+            "x264UseAdvancedOptions": false,
+            "x264ZeroLatency": false
+        }
+    },
+    {
+        "Job": {
+            "Audio": {
+                "AudioList": [],
+                "CopyMask": [],
+                "FallbackEncoder": 0
+            },
+            "Destination": {
+                "AlignAVStart": true,
+                "ChapterList": [
+                    {
+                        "Duration": {
+                            "Hours": 0,
+                            "Minutes": 0,
+                            "Seconds": 58,
+                            "Ticks": 5304060
+                        },
+                        "Name": ""
+                    }
+                ],
+                "ChapterMarkers": false,
+                "File": "/home/nulven/ethwinter-2021-01-29_18.17.17.m4v",
+                "InlineParameterSets": false,
+                "Mp4Options": {
+                    "IpodAtom": false,
+                    "Mp4Optimize": false
+                },
+                "Mux": "m4v"
+            },
+            "Filters": {
+                "FilterList": [
+                    {
+                        "ID": 3,
+                        "Settings": {
+                            "block-height": "16",
+                            "block-thresh": "40",
+                            "block-width": "16",
+                            "filter-mode": "2",
+                            "mode": "3",
+                            "motion-thresh": "1",
+                            "spatial-metric": "2",
+                            "spatial-thresh": "1"
+                        }
+                    },
+                    {
+                        "ID": 4,
+                        "Settings": {
+                            "mode": "7"
+                        }
+                    },
+                    {
+                        "ID": 6,
+                        "Settings": {
+                            "mode": 2,
+                            "rate": "27000000/900000"
+                        }
+                    },
+                    {
+                        "ID": 12,
+                        "Settings": {
+                            "crop-bottom": 0,
+                            "crop-left": 0,
+                            "crop-right": 0,
+                            "crop-top": 0,
+                            "height": 914,
+                            "width": 1824
+                        }
+                    }
+                ]
+            },
+            "Metadata": {
+                "Name": "ethwinter-2021-01-29_18.17.17"
+            },
+            "PAR": {
+                "Den": 1,
+                "Num": 1
+            },
+            "SequenceID": 0,
+            "Source": {
+                "Angle": 0,
+                "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+                "Range": {
+                    "End": 4950000,
+                    "Start": 0,
+                    "Type": "time"
+                },
+                "Title": 1
+            },
+            "Subtitle": {
+                "Search": {
+                    "Burn": true,
+                    "Default": false,
+                    "Enable": false,
+                    "Forced": false
+                },
+                "SubtitleList": []
+            },
+            "Video": {
+                "ColorFormat": 0,
+                "ColorMatrix": 1,
+                "ColorPrimaries": 1,
+                "ColorRange": 1,
+                "ColorTransfer": 1,
+                "Encoder": "x264",
+                "Level": "4.0",
+                "Options": "",
+                "Preset": "fast",
+                "Profile": "main",
+                "QSV": {
+                    "AsyncDepth": 4,
+                    "Decode": false
+                },
+                "Quality": 22.0,
+                "Tune": "",
+                "Turbo": false,
+                "TwoPass": false
+            }
+        },
+        "Title": {
+            "AngleCount": 1,
+            "AudioList": [],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 58,
+                        "Ticks": 5304060
+                    },
+                    "Name": ""
+                }
+            ],
+            "Color": {
+                "Format": 0,
+                "Matrix": 1,
+                "Primary": 1,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Container": "mov,mp4,m4a,3gp,3g2,mj2",
+            "Crop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 0,
+                "Seconds": 58,
+                "Ticks": 5304060
+            },
+            "FrameRate": {
+                "Den": 899491,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 914,
+                "PAR": {
+                    "Den": 1,
+                    "Num": 1
+                },
+                "Width": 1824
+            },
+            "Index": 1,
+            "InterlaceDetected": false,
+            "Metadata": {},
+            "Name": "ethwinter-2021-01-29_18.17.17",
+            "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 3,
+            "VideoCodec": "h264"
+        },
+        "uiSettings": {
+            "ActivityFilename": "/home/nulven/.config/ghb/EncodeLogs/ethwinter-2021-01-29_18.17.17 2021-01-29 18-30-20.log",
+            "AlignAVStart": true,
+            "AudioAllowAACPass": true,
+            "AudioAllowAC3Pass": false,
+            "AudioAllowDTSHDPass": false,
+            "AudioAllowDTSPass": false,
+            "AudioAllowEAC3Pass": false,
+            "AudioAllowFLACPass": false,
+            "AudioAllowMP3Pass": false,
+            "AudioAllowTRUEHDPass": false,
+            "AudioBitrate": "192",
+            "AudioCopyMask": [
+                "copy:aac"
+            ],
+            "AudioEncoder": "copy:ac3",
+            "AudioEncoderFallback": "av_aac",
+            "AudioLanguageList": [],
+            "AudioList": [
+                {
+                    "AudioBitrate": 160,
+                    "AudioCompressionLevel": -1.0,
+                    "AudioDitherMethod": "auto",
+                    "AudioEncoder": "av_aac",
+                    "AudioMixdown": "stereo",
+                    "AudioNormalizeMixLevel": false,
+                    "AudioSamplerate": "auto",
+                    "AudioTrackDRCSlider": 0.0,
+                    "AudioTrackGainSlider": 0.0,
+                    "AudioTrackQuality": 1.0,
+                    "AudioTrackQualityEnable": false
+                }
+            ],
+            "AudioMixdown": "dpl2",
+            "AudioSamplerate": "auto",
+            "AudioSecondaryEncoderMode": true,
+            "AudioTrack": "none",
+            "AudioTrackDRCSlider": 0.90000000000000002,
+            "AudioTrackDRCValue": "Off",
+            "AudioTrackGainSlider": 0.0,
+            "AudioTrackName": "",
+            "AudioTrackQuality": -1.0,
+            "AudioTrackQualityEnable": false,
+            "AudioTrackQualityValue": "-3",
+            "AudioTrackQualityX": -3.0,
+            "AudioTrackSelectionBehavior": "first",
+            "ChapterMarkers": true,
+            "ChildrenArray": [],
+            "Default": false,
+            "FileFormat": "av_mp4",
+            "Folder": false,
+            "FolderOpen": false,
+            "ImportFile": null,
+            "ImportLanguage": "und",
+            "ImportOffset": 0.0,
+            "InlineParameterSets": false,
+            "MetaAlbumArtist": "",
+            "MetaArtist": "",
+            "MetaComment": "",
+            "MetaDescription": "",
+            "MetaGenre": "",
+            "MetaLongDescription": "",
+            "MetaName": "ethwinter-2021-01-29_18.17.17",
+            "MetaReleaseDate": "",
+            "Mp4HttpOptimize": false,
+            "Mp4iPodCompatible": false,
+            "PictureAutoCrop": true,
+            "PictureBottomCrop": 0.0,
+            "PictureChromaSmoothCustom": "",
+            "PictureChromaSmoothPreset": "off",
+            "PictureChromaSmoothTune": "none",
+            "PictureCombDetectCustom": "",
+            "PictureCombDetectPreset": "default",
+            "PictureDARWidth": 0,
+            "PictureDeblockCustom": "strength=strong:thresh=20:blocksize=8",
+            "PictureDeblockPreset": "off",
+            "PictureDeblockTune": "medium",
+            "PictureDeinterlaceCustom": "",
+            "PictureDeinterlaceDecomb": false,
+            "PictureDeinterlaceFilter": "decomb",
+            "PictureDeinterlacePreset": "default",
+            "PictureDenoiseCustom": "",
+            "PictureDenoiseFilter": "off",
+            "PictureDenoisePreset": "",
+            "PictureDenoiseTune": "none",
+            "PictureDetelecine": "off",
+            "PictureDetelecineCustom": "",
+            "PictureDisplayHeight": 914.0,
+            "PictureDisplayWidth": 1824.0,
+            "PictureForceHeight": 0,
+            "PictureForceWidth": 0,
+            "PictureHeight": 1080.0,
+            "PictureHeightEnable": true,
+            "PictureItuPAR": false,
+            "PictureKeepRatio": true,
+            "PictureLeftCrop": 0.0,
+            "PictureLooseCrop": false,
+            "PictureModulus": "2",
+            "PicturePAR": "auto",
+            "PicturePARHeight": 1.0,
+            "PicturePARWidth": 1.0,
+            "PictureRightCrop": 0.0,
+            "PictureRotate": "disable=1",
+            "PictureSharpenCustom": "",
+            "PictureSharpenFilter": "off",
+            "PictureSharpenPreset": "",
+            "PictureSharpenTune": "",
+            "PictureTopCrop": 0.0,
+            "PictureWidth": 1920.0,
+            "PictureWidthEnable": true,
+            "Preferences": {
+                "ActivityFontSize": 8.0,
+                "AddCC": false,
+                "AutoScan": false,
+                "DiskFreeCheck": true,
+                "DiskFreeLimit": 2000.0,
+                "EncodeLogLocation": false,
+                "ExportDirectory": "/home/nulven/Desktop",
+                "LogLongevity": "immortal",
+                "LoggingLevel": "1",
+                "MinTitleDuration": 10.0,
+                "PreferredLanguage": "und",
+                "RemoveFinishedJobs": false,
+                "SrtDir": "/home/nulven",
+                "SyncTitleSettings": true,
+                "UseM4v": true,
+                "VideoQualityGranularity": "1",
+                "WhenComplete": "notify",
+                "allow_tweaks": false,
+                "auto_name": true,
+                "auto_name_template": "{source}",
+                "check_updates": "weekly",
+                "default_source": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+                "destination_dir": "/home/nulven",
+                "hbfd": false,
+                "hbfd_feature": false,
+                "last_update_check": 0,
+                "live_duration": 15.0,
+                "preset_window_height": 1,
+                "preset_window_width": 1,
+                "preview_count": 10.0,
+                "preview_show_crop": false,
+                "preview_x": 228,
+                "preview_y": 172,
+                "reduce_hd_preview": true,
+                "update_skip_version": 0,
+                "use_dvdnav": true,
+                "version": "0.1",
+                "window_height": 722,
+                "window_width": 1192
+            },
+            "PreferredLanguage": "und",
+            "PresetCategory": "new",
+            "PresetDescription": "H.264 video (up to 1080p30) and AAC stereo audio, in an MP4 container.",
+            "PresetFullName": "/General/Fast 1080p30",
+            "PresetName": "Fast 1080p30",
+            "PtoPType": "time",
+            "QueueWhenComplete": "notify",
+            "SrtCodeset": "ISO-8859-1",
+            "SubtitleAddCC": false,
+            "SubtitleAddForeignAudioSearch": true,
+            "SubtitleAddForeignAudioSubtitle": false,
+            "SubtitleBurnBDSub": true,
+            "SubtitleBurnBehavior": "foreign",
+            "SubtitleBurnDVDSub": true,
+            "SubtitleLanguageList": [],
+            "SubtitleTrackSelectionBehavior": "none",
+            "Type": 0,
+            "UsesPictureFilters": true,
+            "UsesPictureSettings": 1,
+            "VideoAvgBitrate": 6000.0,
+            "VideoColorMatrixCodeOverride": 0,
+            "VideoEncoder": "x264",
+            "VideoFramerate": "30",
+            "VideoFramerateCFR": false,
+            "VideoFramerateMode": "pfr",
+            "VideoFrameratePFR": true,
+            "VideoFramerateVFR": false,
+            "VideoGrayScale": false,
+            "VideoLevel": "4.0",
+            "VideoOptionExtra": "",
+            "VideoPreset": "fast",
+            "VideoPresetSlider": 4,
+            "VideoProfile": "main",
+            "VideoQSVAsyncDepth": 4,
+            "VideoQSVDecode": false,
+            "VideoQualitySlider": 22,
+            "VideoQualityType": 2,
+            "VideoScaler": "swscale",
+            "VideoTune": "none",
+            "VideoTurboTwoPass": true,
+            "VideoTwoPass": true,
+            "WhenComplete": "notify",
+            "activity_location": "/home/nulven/.config/ghb/Activity.log.2243874",
+            "angle": 1.0,
+            "angle_count": 1,
+            "autoscale": false,
+            "chapter_list": [],
+            "dest_dir": "/home/nulven",
+            "dest_file": "ethwinter-2021-01-29_18.17.17.m4v",
+            "destination": "/home/nulven/ethwinter-2021-01-29_18.17.17.m4v",
+            "display_aspect": "912:457",
+            "end_point": 55.0,
+            "job_finish_time": 1611963040,
+            "job_pause_time_ms": 0,
+            "job_start_time": 1611963020,
+            "job_status": 4,
+            "job_unique_id": 3,
+            "preset_modified": false,
+            "preset_reload": false,
+            "preview_frame": 2,
+            "queue_activity_location": "/home/nulven/.config/ghb/EncodeLogs/ethwinter-2021-01-29_18.17.17 2021-01-29 18-29-21.log",
+            "scale_height": 914.0,
+            "scale_width": 1824.0,
+            "single_title": 1.0,
+            "source": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+            "source_height": 914,
+            "source_label": "ethwinter-2021-01-29_18.17.17",
+            "source_width": 1824,
+            "start_frame": -1,
+            "start_point": 0.029999999999999999,
+            "title": "1",
+            "title_selected": false,
+            "volume": "ethwinter-2021-01-29_18.17.17",
+            "vquality_type_bitrate": false,
+            "vquality_type_constant": true,
+            "x264FastDecode": false,
+            "x264Option": "",
+            "x264UseAdvancedOptions": false,
+            "x264ZeroLatency": false
+        }
+    },
+    {
+        "Job": {
+            "Audio": {
+                "AudioList": [],
+                "CopyMask": [],
+                "FallbackEncoder": 0
+            },
+            "Destination": {
+                "AlignAVStart": true,
+                "ChapterList": [
+                    {
+                        "Duration": {
+                            "Hours": 0,
+                            "Minutes": 0,
+                            "Seconds": 58,
+                            "Ticks": 5304060
+                        },
+                        "Name": ""
+                    }
+                ],
+                "ChapterMarkers": false,
+                "File": "/home/nulven/ethwinter.m4v",
+                "InlineParameterSets": false,
+                "Mp4Options": {
+                    "IpodAtom": false,
+                    "Mp4Optimize": false
+                },
+                "Mux": "m4v"
+            },
+            "Filters": {
+                "FilterList": [
+                    {
+                        "ID": 3,
+                        "Settings": {
+                            "block-height": "16",
+                            "block-thresh": "40",
+                            "block-width": "16",
+                            "filter-mode": "2",
+                            "mode": "3",
+                            "motion-thresh": "1",
+                            "spatial-metric": "2",
+                            "spatial-thresh": "1"
+                        }
+                    },
+                    {
+                        "ID": 4,
+                        "Settings": {
+                            "mode": "7"
+                        }
+                    },
+                    {
+                        "ID": 6,
+                        "Settings": {
+                            "mode": 2,
+                            "rate": "27000000/900000"
+                        }
+                    },
+                    {
+                        "ID": 12,
+                        "Settings": {
+                            "crop-bottom": 0,
+                            "crop-left": 0,
+                            "crop-right": 0,
+                            "crop-top": 0,
+                            "height": 914,
+                            "width": 1824
+                        }
+                    }
+                ]
+            },
+            "Metadata": {
+                "Name": "ethwinter-2021-01-29_18.17.17"
+            },
+            "PAR": {
+                "Den": 1,
+                "Num": 1
+            },
+            "SequenceID": 0,
+            "Source": {
+                "Angle": 0,
+                "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+                "Range": {
+                    "End": 4950000,
+                    "Start": 0,
+                    "Type": "time"
+                },
+                "Title": 1
+            },
+            "Subtitle": {
+                "Search": {
+                    "Burn": true,
+                    "Default": false,
+                    "Enable": false,
+                    "Forced": false
+                },
+                "SubtitleList": []
+            },
+            "Video": {
+                "ColorFormat": 0,
+                "ColorMatrix": 1,
+                "ColorPrimaries": 1,
+                "ColorRange": 1,
+                "ColorTransfer": 1,
+                "Encoder": "x264",
+                "Level": "4.0",
+                "Options": "",
+                "Preset": "fast",
+                "Profile": "main",
+                "QSV": {
+                    "AsyncDepth": 4,
+                    "Decode": false
+                },
+                "Quality": 22.0,
+                "Tune": "",
+                "Turbo": false,
+                "TwoPass": false
+            }
+        },
+        "Title": {
+            "AngleCount": 1,
+            "AudioList": [],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 58,
+                        "Ticks": 5304060
+                    },
+                    "Name": ""
+                }
+            ],
+            "Color": {
+                "Format": 0,
+                "Matrix": 1,
+                "Primary": 1,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Container": "mov,mp4,m4a,3gp,3g2,mj2",
+            "Crop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 0,
+                "Seconds": 58,
+                "Ticks": 5304060
+            },
+            "FrameRate": {
+                "Den": 899491,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 914,
+                "PAR": {
+                    "Den": 1,
+                    "Num": 1
+                },
+                "Width": 1824
+            },
+            "Index": 1,
+            "InterlaceDetected": false,
+            "Metadata": {},
+            "Name": "ethwinter-2021-01-29_18.17.17",
+            "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 3,
+            "VideoCodec": "h264"
+        },
+        "uiSettings": {
+            "ActivityFilename": "/home/nulven/.config/ghb/EncodeLogs/ethwinter 2021-01-29 18-32-10.log",
+            "AlignAVStart": true,
+            "AudioAllowAACPass": true,
+            "AudioAllowAC3Pass": false,
+            "AudioAllowDTSHDPass": false,
+            "AudioAllowDTSPass": false,
+            "AudioAllowEAC3Pass": false,
+            "AudioAllowFLACPass": false,
+            "AudioAllowMP3Pass": false,
+            "AudioAllowTRUEHDPass": false,
+            "AudioBitrate": "192",
+            "AudioCopyMask": [
+                "copy:aac"
+            ],
+            "AudioEncoder": "copy:ac3",
+            "AudioEncoderFallback": "av_aac",
+            "AudioLanguageList": [],
+            "AudioList": [
+                {
+                    "AudioBitrate": 160,
+                    "AudioCompressionLevel": -1.0,
+                    "AudioDitherMethod": "auto",
+                    "AudioEncoder": "av_aac",
+                    "AudioMixdown": "stereo",
+                    "AudioNormalizeMixLevel": false,
+                    "AudioSamplerate": "auto",
+                    "AudioTrackDRCSlider": 0.0,
+                    "AudioTrackGainSlider": 0.0,
+                    "AudioTrackQuality": 1.0,
+                    "AudioTrackQualityEnable": false
+                }
+            ],
+            "AudioMixdown": "dpl2",
+            "AudioSamplerate": "auto",
+            "AudioSecondaryEncoderMode": true,
+            "AudioTrack": "none",
+            "AudioTrackDRCSlider": 0.90000000000000002,
+            "AudioTrackDRCValue": "Off",
+            "AudioTrackGainSlider": 0.0,
+            "AudioTrackName": "",
+            "AudioTrackQuality": -1.0,
+            "AudioTrackQualityEnable": false,
+            "AudioTrackQualityValue": "-3",
+            "AudioTrackQualityX": -3.0,
+            "AudioTrackSelectionBehavior": "first",
+            "ChapterMarkers": true,
+            "ChildrenArray": [],
+            "Default": false,
+            "FileFormat": "av_mp4",
+            "Folder": false,
+            "FolderOpen": false,
+            "ImportFile": null,
+            "ImportLanguage": "und",
+            "ImportOffset": 0.0,
+            "InlineParameterSets": false,
+            "MetaAlbumArtist": "",
+            "MetaArtist": "",
+            "MetaComment": "",
+            "MetaDescription": "",
+            "MetaGenre": "",
+            "MetaLongDescription": "",
+            "MetaName": "ethwinter-2021-01-29_18.17.17",
+            "MetaReleaseDate": "",
+            "Mp4HttpOptimize": false,
+            "Mp4iPodCompatible": false,
+            "PictureAutoCrop": true,
+            "PictureBottomCrop": 0.0,
+            "PictureChromaSmoothCustom": "",
+            "PictureChromaSmoothPreset": "off",
+            "PictureChromaSmoothTune": "none",
+            "PictureCombDetectCustom": "",
+            "PictureCombDetectPreset": "default",
+            "PictureDARWidth": 0,
+            "PictureDeblockCustom": "strength=strong:thresh=20:blocksize=8",
+            "PictureDeblockPreset": "off",
+            "PictureDeblockTune": "medium",
+            "PictureDeinterlaceCustom": "",
+            "PictureDeinterlaceDecomb": false,
+            "PictureDeinterlaceFilter": "decomb",
+            "PictureDeinterlacePreset": "default",
+            "PictureDenoiseCustom": "",
+            "PictureDenoiseFilter": "off",
+            "PictureDenoisePreset": "",
+            "PictureDenoiseTune": "none",
+            "PictureDetelecine": "off",
+            "PictureDetelecineCustom": "",
+            "PictureDisplayHeight": 914.0,
+            "PictureDisplayWidth": 1824.0,
+            "PictureForceHeight": 0,
+            "PictureForceWidth": 0,
+            "PictureHeight": 1080.0,
+            "PictureHeightEnable": true,
+            "PictureItuPAR": false,
+            "PictureKeepRatio": true,
+            "PictureLeftCrop": 0.0,
+            "PictureLooseCrop": false,
+            "PictureModulus": "2",
+            "PicturePAR": "auto",
+            "PicturePARHeight": 1.0,
+            "PicturePARWidth": 1.0,
+            "PictureRightCrop": 0.0,
+            "PictureRotate": "disable=1",
+            "PictureSharpenCustom": "",
+            "PictureSharpenFilter": "off",
+            "PictureSharpenPreset": "",
+            "PictureSharpenTune": "",
+            "PictureTopCrop": 0.0,
+            "PictureWidth": 1920.0,
+            "PictureWidthEnable": true,
+            "Preferences": {
+                "ActivityFontSize": 8.0,
+                "AddCC": false,
+                "AutoScan": false,
+                "DiskFreeCheck": true,
+                "DiskFreeLimit": 2000.0,
+                "EncodeLogLocation": false,
+                "ExportDirectory": "/home/nulven/Desktop",
+                "LogLongevity": "immortal",
+                "LoggingLevel": "1",
+                "MinTitleDuration": 10.0,
+                "PreferredLanguage": "und",
+                "RemoveFinishedJobs": false,
+                "SrtDir": "/home/nulven",
+                "SyncTitleSettings": true,
+                "UseM4v": true,
+                "VideoQualityGranularity": "1",
+                "WhenComplete": "notify",
+                "allow_tweaks": false,
+                "auto_name": true,
+                "auto_name_template": "{source}",
+                "check_updates": "weekly",
+                "default_source": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+                "destination_dir": "/home/nulven",
+                "hbfd": false,
+                "hbfd_feature": false,
+                "last_update_check": 0,
+                "live_duration": 15.0,
+                "preset_window_height": 1,
+                "preset_window_width": 1,
+                "preview_count": 10.0,
+                "preview_show_crop": false,
+                "preview_x": 228,
+                "preview_y": 172,
+                "reduce_hd_preview": true,
+                "update_skip_version": 0,
+                "use_dvdnav": true,
+                "version": "0.1",
+                "window_height": 722,
+                "window_width": 1192
+            },
+            "PreferredLanguage": "und",
+            "PresetCategory": "new",
+            "PresetDescription": "H.264 video (up to 1080p30) and AAC stereo audio, in an MP4 container.",
+            "PresetFullName": "/General/Fast 1080p30",
+            "PresetName": "Fast 1080p30",
+            "PtoPType": "time",
+            "QueueWhenComplete": "notify",
+            "SrtCodeset": "ISO-8859-1",
+            "SubtitleAddCC": false,
+            "SubtitleAddForeignAudioSearch": true,
+            "SubtitleAddForeignAudioSubtitle": false,
+            "SubtitleBurnBDSub": true,
+            "SubtitleBurnBehavior": "foreign",
+            "SubtitleBurnDVDSub": true,
+            "SubtitleLanguageList": [],
+            "SubtitleTrackSelectionBehavior": "none",
+            "Type": 0,
+            "UsesPictureFilters": true,
+            "UsesPictureSettings": 1,
+            "VideoAvgBitrate": 6000.0,
+            "VideoColorMatrixCodeOverride": 0,
+            "VideoEncoder": "x264",
+            "VideoFramerate": "30",
+            "VideoFramerateCFR": false,
+            "VideoFramerateMode": "pfr",
+            "VideoFrameratePFR": true,
+            "VideoFramerateVFR": false,
+            "VideoGrayScale": false,
+            "VideoLevel": "4.0",
+            "VideoOptionExtra": "",
+            "VideoPreset": "fast",
+            "VideoPresetSlider": 4,
+            "VideoProfile": "main",
+            "VideoQSVAsyncDepth": 4,
+            "VideoQSVDecode": false,
+            "VideoQualitySlider": 22,
+            "VideoQualityType": 2,
+            "VideoScaler": "swscale",
+            "VideoTune": "none",
+            "VideoTurboTwoPass": true,
+            "VideoTwoPass": true,
+            "WhenComplete": "notify",
+            "activity_location": "/home/nulven/.config/ghb/Activity.log.2243874",
+            "angle": 1.0,
+            "angle_count": 1,
+            "autoscale": false,
+            "chapter_list": [],
+            "dest_dir": "/home/nulven",
+            "dest_file": "ethwinter.m4v",
+            "destination": "/home/nulven/ethwinter.m4v",
+            "display_aspect": "912:457",
+            "end_point": 55.0,
+            "job_finish_time": 1611963158,
+            "job_pause_time_ms": 0,
+            "job_start_time": 1611963130,
+            "job_status": 4,
+            "job_unique_id": 4,
+            "preset_modified": false,
+            "preset_reload": false,
+            "preview_frame": 2,
+            "queue_activity_location": "/home/nulven/.config/ghb/EncodeLogs/ethwinter-2021-01-29_18.17.17 2021-01-29 18-29-21.log",
+            "scale_height": 914.0,
+            "scale_width": 1824.0,
+            "single_title": 1.0,
+            "source": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+            "source_height": 914,
+            "source_label": "ethwinter-2021-01-29_18.17.17",
+            "source_width": 1824,
+            "start_frame": -1,
+            "start_point": 0.029999999999999999,
+            "title": "1",
+            "title_selected": false,
+            "volume": "ethwinter-2021-01-29_18.17.17",
+            "vquality_type_bitrate": false,
+            "vquality_type_constant": true,
+            "x264FastDecode": false,
+            "x264Option": "",
+            "x264UseAdvancedOptions": false,
+            "x264ZeroLatency": false
+        }
+    },
+    {
+        "Job": {
+            "Audio": {
+                "AudioList": [],
+                "CopyMask": [],
+                "FallbackEncoder": 0
+            },
+            "Destination": {
+                "AlignAVStart": true,
+                "ChapterList": [
+                    {
+                        "Duration": {
+                            "Hours": 0,
+                            "Minutes": 0,
+                            "Seconds": 58,
+                            "Ticks": 5304060
+                        },
+                        "Name": ""
+                    }
+                ],
+                "ChapterMarkers": false,
+                "File": "/home/nulven/ethwinter.m4v",
+                "InlineParameterSets": false,
+                "Mp4Options": {
+                    "IpodAtom": false,
+                    "Mp4Optimize": false
+                },
+                "Mux": "m4v"
+            },
+            "Filters": {
+                "FilterList": [
+                    {
+                        "ID": 3,
+                        "Settings": {
+                            "block-height": "16",
+                            "block-thresh": "40",
+                            "block-width": "16",
+                            "filter-mode": "2",
+                            "mode": "3",
+                            "motion-thresh": "1",
+                            "spatial-metric": "2",
+                            "spatial-thresh": "1"
+                        }
+                    },
+                    {
+                        "ID": 4,
+                        "Settings": {
+                            "mode": "7"
+                        }
+                    },
+                    {
+                        "ID": 6,
+                        "Settings": {
+                            "mode": 2,
+                            "rate": "27000000/900000"
+                        }
+                    },
+                    {
+                        "ID": 12,
+                        "Settings": {
+                            "crop-bottom": 0,
+                            "crop-left": 0,
+                            "crop-right": 0,
+                            "crop-top": 0,
+                            "height": 914,
+                            "width": 1824
+                        }
+                    }
+                ]
+            },
+            "Metadata": {
+                "Name": "ethwinter-2021-01-29_18.17.17"
+            },
+            "PAR": {
+                "Den": 1,
+                "Num": 1
+            },
+            "SequenceID": 0,
+            "Source": {
+                "Angle": 0,
+                "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+                "Range": {
+                    "End": 4950000,
+                    "Start": 270000,
+                    "Type": "time"
+                },
+                "Title": 1
+            },
+            "Subtitle": {
+                "Search": {
+                    "Burn": true,
+                    "Default": false,
+                    "Enable": false,
+                    "Forced": false
+                },
+                "SubtitleList": []
+            },
+            "Video": {
+                "ColorFormat": 0,
+                "ColorMatrix": 1,
+                "ColorPrimaries": 1,
+                "ColorRange": 1,
+                "ColorTransfer": 1,
+                "Encoder": "x264",
+                "Level": "4.0",
+                "Options": "",
+                "Preset": "fast",
+                "Profile": "main",
+                "QSV": {
+                    "AsyncDepth": 4,
+                    "Decode": false
+                },
+                "Quality": 22.0,
+                "Tune": "",
+                "Turbo": false,
+                "TwoPass": false
+            }
+        },
+        "Title": {
+            "AngleCount": 1,
+            "AudioList": [],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 58,
+                        "Ticks": 5304060
+                    },
+                    "Name": ""
+                }
+            ],
+            "Color": {
+                "Format": 0,
+                "Matrix": 1,
+                "Primary": 1,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Container": "mov,mp4,m4a,3gp,3g2,mj2",
+            "Crop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 0,
+                "Seconds": 58,
+                "Ticks": 5304060
+            },
+            "FrameRate": {
+                "Den": 899491,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 914,
+                "PAR": {
+                    "Den": 1,
+                    "Num": 1
+                },
+                "Width": 1824
+            },
+            "Index": 1,
+            "InterlaceDetected": false,
+            "Metadata": {},
+            "Name": "ethwinter-2021-01-29_18.17.17",
+            "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 3,
+            "VideoCodec": "h264"
+        },
+        "uiSettings": {
+            "ActivityFilename": "/home/nulven/.config/ghb/EncodeLogs/ethwinter 2021-01-29 18-32-42.log",
+            "AlignAVStart": true,
+            "AudioAllowAACPass": true,
+            "AudioAllowAC3Pass": false,
+            "AudioAllowDTSHDPass": false,
+            "AudioAllowDTSPass": false,
+            "AudioAllowEAC3Pass": false,
+            "AudioAllowFLACPass": false,
+            "AudioAllowMP3Pass": false,
+            "AudioAllowTRUEHDPass": false,
+            "AudioBitrate": "192",
+            "AudioCopyMask": [
+                "copy:aac"
+            ],
+            "AudioEncoder": "copy:ac3",
+            "AudioEncoderFallback": "av_aac",
+            "AudioLanguageList": [],
+            "AudioList": [
+                {
+                    "AudioBitrate": 160,
+                    "AudioCompressionLevel": -1.0,
+                    "AudioDitherMethod": "auto",
+                    "AudioEncoder": "av_aac",
+                    "AudioMixdown": "stereo",
+                    "AudioNormalizeMixLevel": false,
+                    "AudioSamplerate": "auto",
+                    "AudioTrackDRCSlider": 0.0,
+                    "AudioTrackGainSlider": 0.0,
+                    "AudioTrackQuality": 1.0,
+                    "AudioTrackQualityEnable": false
+                }
+            ],
+            "AudioMixdown": "dpl2",
+            "AudioSamplerate": "auto",
+            "AudioSecondaryEncoderMode": true,
+            "AudioTrack": "none",
+            "AudioTrackDRCSlider": 0.90000000000000002,
+            "AudioTrackDRCValue": "Off",
+            "AudioTrackGainSlider": 0.0,
+            "AudioTrackName": "",
+            "AudioTrackQuality": -1.0,
+            "AudioTrackQualityEnable": false,
+            "AudioTrackQualityValue": "-3",
+            "AudioTrackQualityX": -3.0,
+            "AudioTrackSelectionBehavior": "first",
+            "ChapterMarkers": true,
+            "ChildrenArray": [],
+            "Default": false,
+            "FileFormat": "av_mp4",
+            "Folder": false,
+            "FolderOpen": false,
+            "ImportFile": null,
+            "ImportLanguage": "und",
+            "ImportOffset": 0.0,
+            "InlineParameterSets": false,
+            "MetaAlbumArtist": "",
+            "MetaArtist": "",
+            "MetaComment": "",
+            "MetaDescription": "",
+            "MetaGenre": "",
+            "MetaLongDescription": "",
+            "MetaName": "ethwinter-2021-01-29_18.17.17",
+            "MetaReleaseDate": "",
+            "Mp4HttpOptimize": false,
+            "Mp4iPodCompatible": false,
+            "PictureAutoCrop": true,
+            "PictureBottomCrop": 0.0,
+            "PictureChromaSmoothCustom": "",
+            "PictureChromaSmoothPreset": "off",
+            "PictureChromaSmoothTune": "none",
+            "PictureCombDetectCustom": "",
+            "PictureCombDetectPreset": "default",
+            "PictureDARWidth": 0,
+            "PictureDeblockCustom": "strength=strong:thresh=20:blocksize=8",
+            "PictureDeblockPreset": "off",
+            "PictureDeblockTune": "medium",
+            "PictureDeinterlaceCustom": "",
+            "PictureDeinterlaceDecomb": false,
+            "PictureDeinterlaceFilter": "decomb",
+            "PictureDeinterlacePreset": "default",
+            "PictureDenoiseCustom": "",
+            "PictureDenoiseFilter": "off",
+            "PictureDenoisePreset": "",
+            "PictureDenoiseTune": "none",
+            "PictureDetelecine": "off",
+            "PictureDetelecineCustom": "",
+            "PictureDisplayHeight": 914.0,
+            "PictureDisplayWidth": 1824.0,
+            "PictureForceHeight": 0,
+            "PictureForceWidth": 0,
+            "PictureHeight": 1080.0,
+            "PictureHeightEnable": true,
+            "PictureItuPAR": false,
+            "PictureKeepRatio": true,
+            "PictureLeftCrop": 0.0,
+            "PictureLooseCrop": false,
+            "PictureModulus": "2",
+            "PicturePAR": "auto",
+            "PicturePARHeight": 1.0,
+            "PicturePARWidth": 1.0,
+            "PictureRightCrop": 0.0,
+            "PictureRotate": "disable=1",
+            "PictureSharpenCustom": "",
+            "PictureSharpenFilter": "off",
+            "PictureSharpenPreset": "",
+            "PictureSharpenTune": "",
+            "PictureTopCrop": 0.0,
+            "PictureWidth": 1920.0,
+            "PictureWidthEnable": true,
+            "Preferences": {
+                "ActivityFontSize": 8.0,
+                "AddCC": false,
+                "AutoScan": false,
+                "DiskFreeCheck": true,
+                "DiskFreeLimit": 2000.0,
+                "EncodeLogLocation": false,
+                "ExportDirectory": "/home/nulven/Desktop",
+                "LogLongevity": "immortal",
+                "LoggingLevel": "1",
+                "MinTitleDuration": 10.0,
+                "PreferredLanguage": "und",
+                "RemoveFinishedJobs": false,
+                "SrtDir": "/home/nulven",
+                "SyncTitleSettings": true,
+                "UseM4v": true,
+                "VideoQualityGranularity": "1",
+                "WhenComplete": "notify",
+                "allow_tweaks": false,
+                "auto_name": true,
+                "auto_name_template": "{source}",
+                "check_updates": "weekly",
+                "default_source": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+                "destination_dir": "/home/nulven",
+                "hbfd": false,
+                "hbfd_feature": false,
+                "last_update_check": 0,
+                "live_duration": 15.0,
+                "preset_window_height": 1,
+                "preset_window_width": 1,
+                "preview_count": 10.0,
+                "preview_show_crop": false,
+                "preview_x": 228,
+                "preview_y": 172,
+                "reduce_hd_preview": true,
+                "update_skip_version": 0,
+                "use_dvdnav": true,
+                "version": "0.1",
+                "window_height": 722,
+                "window_width": 1192
+            },
+            "PreferredLanguage": "und",
+            "PresetCategory": "new",
+            "PresetDescription": "H.264 video (up to 1080p30) and AAC stereo audio, in an MP4 container.",
+            "PresetFullName": "/General/Fast 1080p30",
+            "PresetName": "Fast 1080p30",
+            "PtoPType": "time",
+            "QueueWhenComplete": "notify",
+            "SrtCodeset": "ISO-8859-1",
+            "SubtitleAddCC": false,
+            "SubtitleAddForeignAudioSearch": true,
+            "SubtitleAddForeignAudioSubtitle": false,
+            "SubtitleBurnBDSub": true,
+            "SubtitleBurnBehavior": "foreign",
+            "SubtitleBurnDVDSub": true,
+            "SubtitleLanguageList": [],
+            "SubtitleTrackSelectionBehavior": "none",
+            "Type": 0,
+            "UsesPictureFilters": true,
+            "UsesPictureSettings": 1,
+            "VideoAvgBitrate": 6000.0,
+            "VideoColorMatrixCodeOverride": 0,
+            "VideoEncoder": "x264",
+            "VideoFramerate": "30",
+            "VideoFramerateCFR": false,
+            "VideoFramerateMode": "pfr",
+            "VideoFrameratePFR": true,
+            "VideoFramerateVFR": false,
+            "VideoGrayScale": false,
+            "VideoLevel": "4.0",
+            "VideoOptionExtra": "",
+            "VideoPreset": "fast",
+            "VideoPresetSlider": 4,
+            "VideoProfile": "main",
+            "VideoQSVAsyncDepth": 4,
+            "VideoQSVDecode": false,
+            "VideoQualitySlider": 22,
+            "VideoQualityType": 2,
+            "VideoScaler": "swscale",
+            "VideoTune": "none",
+            "VideoTurboTwoPass": true,
+            "VideoTwoPass": true,
+            "WhenComplete": "notify",
+            "activity_location": "/home/nulven/.config/ghb/Activity.log.2243874",
+            "angle": 1.0,
+            "angle_count": 1,
+            "autoscale": false,
+            "chapter_list": [],
+            "dest_dir": "/home/nulven",
+            "dest_file": "ethwinter.m4v",
+            "destination": "/home/nulven/ethwinter.m4v",
+            "display_aspect": "912:457",
+            "end_point": 55.0,
+            "job_finish_time": 1611963188,
+            "job_pause_time_ms": 0,
+            "job_start_time": 1611963162,
+            "job_status": 4,
+            "job_unique_id": 5,
+            "preset_modified": false,
+            "preset_reload": false,
+            "preview_frame": 2,
+            "queue_activity_location": "/home/nulven/.config/ghb/EncodeLogs/ethwinter-2021-01-29_18.17.17 2021-01-29 18-29-21.log",
+            "scale_height": 914.0,
+            "scale_width": 1824.0,
+            "single_title": 1.0,
+            "source": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+            "source_height": 914,
+            "source_label": "ethwinter-2021-01-29_18.17.17",
+            "source_width": 1824,
+            "start_frame": -1,
+            "start_point": 3.0,
+            "title": "1",
+            "title_selected": false,
+            "volume": "ethwinter-2021-01-29_18.17.17",
+            "vquality_type_bitrate": false,
+            "vquality_type_constant": true,
+            "x264FastDecode": false,
+            "x264Option": "",
+            "x264UseAdvancedOptions": false,
+            "x264ZeroLatency": false
+        }
+    }
+]

@@ -1,0 +1,6 @@
+2021/11/19-13:32:52.864 15d8 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/19-13:32:52.864 15d8 Recovering log #41
+2021/11/19-13:32:52.934 15d8 Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000041.log 
+2021/11/21-19:07:55.287 45789 Level-0 table #46: started
+2021/11/21-19:07:55.309 45789 Level-0 table #46: 1195883 bytes OK
+2021/11/21-19:07:55.317 45789 Delete type=0 #41

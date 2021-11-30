@@ -1,0 +1,197 @@
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"app ready","time":"2021-11-14T23:33:35.417Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"starting version 1.39.6","time":"2021-11-14T23:33:35.417Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"media access status undefined undefined","time":"2021-11-14T23:33:35.417Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"updateSchema:\n  Current user_version: 21;\n  Most recent db schema: 21;\n  SQLite version: 3.30.1;\n  SQLCipher version: 4.3.0 community;\n  (deprecated) schema_version: 109;\n","time":"2021-11-14T23:33:35.440Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"Initializing BrowserWindow config: {\"show\":true,\"width\":1422,\"height\":777,\"minWidth\":680,\"minHeight\":550,\"autoHideMenuBar\":false,\"backgroundColor\":\"#3a76f0\",\"webPreferences\":{\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"contextIsolation\":false,\"preload\":\"/opt/Signal/resources/app.asar/preload.js\",\"nativeWindowOpen\":true,\"spellcheck\":true,\"backgroundThrottling\":false},\"icon\":\"/opt/Signal/resources/app.asar/images/signal-logo-desktop-linux.png\",\"x\":55,\"y\":54}","time":"2021-11-14T23:33:35.458Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"spellcheck: user locale: en-US","time":"2021-11-14T23:33:35.532Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"spellcheck: available spellchecker languages:  [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"el\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]","time":"2021-11-14T23:33:35.532Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"spellcheck: setting languages to:  [\"en-US\"]","time":"2021-11-14T23:33:35.533Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"Begin ensuring permissions","time":"2021-11-14T23:33:35.549Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"Ensuring file permissions for 2 files","time":"2021-11-14T23:33:35.570Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"Finish ensuring permissions in 22ms","time":"2021-11-14T23:33:35.571Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":true,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1477,\"height\":803,\"x\":0,\"y\":28}","time":"2021-11-14T23:33:36.070Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"config/set: Saving ephemeral config to disk","time":"2021-11-14T23:33:36.070Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:36.756Z","msg":"x-attr dependency did not load successfully","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:36.792Z","msg":"preload complete","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.000Z","msg":"pre-main prep time: 1 ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.070Z","msg":"background page reloaded","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.070Z","msg":"environment: production","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.134Z","msg":"SQL channel job 1 (getItemById) succeeded in 64ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.134Z","msg":"Storage fetch","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.247Z","msg":"SQL channel job 2 (getAllItems) succeeded in 112ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.277Z","msg":"SQL channel job 3 (createOrUpdateItem) succeeded in 29ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.288Z","msg":"SQL channel job 4 (createOrUpdateItem) succeeded in 11ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.300Z","msg":"SQL channel job 5 (createOrUpdateItem) succeeded in 23ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.301Z","msg":"Starting background data migration. Target version: 10","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.315Z","msg":"GET https://textsecure-service.whispersystems.org/v1/config","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.339Z","msg":"ConversationController: starting initial fetch","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.363Z","msg":"SQL channel job 7 (getAllStickerPacks) succeeded in 24ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.364Z","msg":"SQL channel job 8 (getAllStickers) succeeded in 24ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.364Z","msg":"SQL channel job 9 (getRecentStickers) succeeded in 24ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.364Z","msg":"SQL channel job 11 (getItemById) succeeded in 24ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.365Z","msg":"SQL channel job 12 (getItemById) succeeded in 25ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.365Z","msg":"SQL channel job 10 (getRecentEmojis) succeeded in 25ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.365Z","msg":"SQL channel job 13 (getAllIdentityKeys) succeeded in 24ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.366Z","msg":"SignalProtocolStore: Finished caching identityKeys data","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.366Z","msg":"SQL channel job 14 (getAllSessions) succeeded in 25ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.366Z","msg":"SignalProtocolStore: Finished caching sessions data","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.373Z","msg":"SQL channel job 26 (getLastConversationActivity) succeeded in 11ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.373Z","msg":"SQL channel job 18 (getLastConversationActivity) succeeded in 12ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.374Z","msg":"SQL channel job 17 (getLastConversationPreview) succeeded in 13ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.374Z","msg":"SQL channel job 29 (getLastConversationPreview) succeeded in 12ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.375Z","msg":"SQL channel job 30 (getLastConversationActivity) succeeded in 13ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.375Z","msg":"SQL channel job 31 (getLastConversationPreview) succeeded in 13ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.376Z","msg":"SQL channel job 20 (getLastConversationActivity) succeeded in 15ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.376Z","msg":"SQL channel job 27 (getLastConversationPreview) succeeded in 14ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.377Z","msg":"SQL channel job 28 (getLastConversationActivity) succeeded in 15ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.377Z","msg":"SQL channel job 32 (getLastConversationActivity) succeeded in 15ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.379Z","msg":"SQL channel job 33 (getLastConversationPreview) succeeded in 16ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.379Z","msg":"SQL channel job 34 (getLastConversationActivity) succeeded in 17ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.380Z","msg":"SQL channel job 35 (getLastConversationPreview) succeeded in 18ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.380Z","msg":"SQL channel job 37 (getLastConversationPreview) succeeded in 18ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.381Z","msg":"SQL channel job 38 (getLastConversationActivity) succeeded in 19ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.381Z","msg":"SQL channel job 39 (getLastConversationPreview) succeeded in 19ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.382Z","msg":"SQL channel job 41 (getLastConversationPreview) succeeded in 20ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.382Z","msg":"SQL channel job 36 (getLastConversationActivity) succeeded in 20ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.383Z","msg":"SQL channel job 40 (getLastConversationActivity) succeeded in 21ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.384Z","msg":"SQL channel job 42 (getLastConversationActivity) succeeded in 22ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.384Z","msg":"SQL channel job 43 (getLastConversationPreview) succeeded in 22ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.386Z","msg":"SQL channel job 45 (getLastConversationPreview) succeeded in 24ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.387Z","msg":"SQL channel job 44 (getLastConversationActivity) succeeded in 25ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.387Z","msg":"SQL channel job 46 (getLastConversationActivity) succeeded in 25ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.388Z","msg":"SQL channel job 47 (getLastConversationPreview) succeeded in 26ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.388Z","msg":"SQL channel job 48 (getLastConversationActivity) succeeded in 26ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.389Z","msg":"SQL channel job 49 (getLastConversationPreview) succeeded in 27ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.390Z","msg":"SQL channel job 50 (getLastConversationActivity) succeeded in 28ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.390Z","msg":"SQL channel job 51 (getLastConversationPreview) succeeded in 28ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.397Z","msg":"SQL channel job 52 (getLastConversationActivity) succeeded in 34ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.397Z","msg":"SQL channel job 53 (getLastConversationPreview) succeeded in 35ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.397Z","msg":"SQL channel job 54 (getLastConversationActivity) succeeded in 35ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.398Z","msg":"SQL channel job 55 (getLastConversationPreview) succeeded in 36ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.398Z","msg":"SQL channel job 56 (getLastConversationActivity) succeeded in 36ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.398Z","msg":"SQL channel job 57 (getLastConversationPreview) succeeded in 36ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.398Z","msg":"SQL channel job 58 (getLastConversationActivity) succeeded in 36ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.399Z","msg":"SQL channel job 59 (getLastConversationPreview) succeeded in 37ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.399Z","msg":"SQL channel job 60 (getLastConversationActivity) succeeded in 37ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.399Z","msg":"SQL channel job 61 (getLastConversationPreview) succeeded in 37ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.399Z","msg":"SQL channel job 62 (getLastConversationActivity) succeeded in 37ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.399Z","msg":"SQL channel job 63 (getLastConversationPreview) succeeded in 37ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.399Z","msg":"SQL channel job 64 (getLastConversationActivity) succeeded in 37ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.399Z","msg":"SQL channel job 65 (getLastConversationPreview) succeeded in 37ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.399Z","msg":"SQL channel job 66 (getLastConversationActivity) succeeded in 37ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.399Z","msg":"SQL channel job 67 (getLastConversationPreview) succeeded in 37ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.399Z","msg":"SQL channel job 68 (getLastConversationActivity) succeeded in 37ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.400Z","msg":"SQL channel job 69 (getLastConversationPreview) succeeded in 38ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.400Z","msg":"SQL channel job 70 (getLastConversationActivity) succeeded in 38ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.400Z","msg":"SQL channel job 71 (getLastConversationPreview) succeeded in 38ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.400Z","msg":"SQL channel job 72 (getLastConversationActivity) succeeded in 38ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.400Z","msg":"ConversationController: done with initial fetch","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.400Z","msg":"SQL channel job 73 (getAllPreKeys) succeeded in 34ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.400Z","msg":"SignalProtocolStore: Finished caching preKeys data","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.400Z","msg":"SQL channel job 74 (getAllSignedPreKeys) succeeded in 34ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.400Z","msg":"SignalProtocolStore: Finished caching signedPreKeys data","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.401Z","msg":"checkForConflicts: starting...","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.401Z","msg":"checkForConflicts: complete!","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.402Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.408Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.410Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.410Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.410Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.411Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.411Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.411Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.412Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.412Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.412Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.413Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.413Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.413Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.413Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.414Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.414Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.414Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.415Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.415Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.415Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.416Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.417Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.417Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.417Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.418Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.418Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.418Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.419Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.419Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.419Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.423Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.423Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.424Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.424Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.425Z","msg":"ensureContactIds: e164-only match found (have UUID: false)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.426Z","msg":"Cleanup: starting...","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.426Z","msg":"Initializing network observer every 5000ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.427Z","msg":"Build expires:  2021-04-20T02:01:52.000Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.427Z","msg":"SQL channel job 75 (updateConversations) succeeded in 29ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.427Z","msg":"Cleanup: Found 0 messages for cleanup","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.427Z","msg":"Cleanup: complete","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.427Z","msg":"listening for registration events","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.432Z","msg":"connect {\"connectCount\":0}","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.432Z","msg":"GET https://textsecure-service.whispersystems.org/v1/config","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.434Z","msg":"open inbox","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.612Z","msg":"GET https://textsecure-service.whispersystems.org/v1/config 401 Error","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.614Z","msg":"connect: Error refreshing remote config: HTTPError: promiseAjax: error response; code: 401\n    at makeHTTPError ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:389:15)\n    at [REDACTED]/app.asar/ts/textsecure/WebAPI.js:354:24\nOriginal stack:\nError\n    at _outerAjax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:384:21)\n    at _ajax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:532:20)\n    at Object.getConfig ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:594:31)\n    at Object.exports.refreshRemoteConfig ([REDACTED]/app.asar/ts/RemoteConfig.js:34:36)\n    at connect (file://[REDACTED]/app.asar/ts/background.js:1296:54)\n    at start (file://[REDACTED]/app.asar/ts/background.js:1119:13)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.614Z","msg":"Initializing socket and listening for messages","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.617Z","msg":"getAllFromCache","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.617Z","msg":"opening message socket https://textsecure-service.whispersystems.org","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.623Z","msg":"initializeGroupCredentialFetcher: starting...","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.624Z","msg":"maybeFetchCredentials: no UUID, returning early","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.624Z","msg":"attachment_downloads/start: enabling","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.626Z","msg":"PUT https://textsecure-service.whispersystems.org/v1/devices/unauthenticated_delivery","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.630Z","msg":"GET https://textsecure-service.whispersystems.org/v2/keys/+[REDACTED]183/1","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.634Z","msg":"SQL channel job 79 (getUnprocessedCount) succeeded in 17ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.635Z","msg":"GET https://textsecure-service.whispersystems.org/v1/config 401 Error","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.636Z","msg":"SQL channel job 80 (resetAttachmentDownloadPending) succeeded in 12ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.637Z","msg":"Top-level unhandled promise rejection: HTTPError: promiseAjax: error response; code: 401\n    at makeHTTPError ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:389:15)\n    at [REDACTED]/app.asar/ts/textsecure/WebAPI.js:354:24\nOriginal stack:\nError\n    at _outerAjax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:384:21)\n    at _ajax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:532:20)\n    at Object.getConfig ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:594:31)\n    at Object.exports.refreshRemoteConfig ([REDACTED]/app.asar/ts/RemoteConfig.js:34:36)\n    at invokeFunc ([REDACTED]/app.asar/node_modules/lodash/lodash.js:10359:23)\n    at leadingEdge ([REDACTED]/app.asar/node_modules/lodash/lodash.js:10369:26)\n    at Object.debounced [as maybeRefreshRemoteConfig] ([REDACTED]/app.asar/node_modules/lodash/lodash.js:10436:20)\n    at Object.initRemoteConfig ([REDACTED]/app.asar/ts/RemoteConfig.js:19:19)\n    at file://[REDACTED]/app.asar/ts/background.js:463:36","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.637Z","msg":"getAllFromCache loaded 0 saved envelopes","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.660Z","msg":"PUT https://textsecure-service.whispersystems.org/v1/devices/unauthenticated_delivery 401 Error","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.660Z","msg":"Error: Unable to register for unauthenticated delivery support. HTTPError: promiseAjax: error response; code: 401\n    at makeHTTPError ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:389:15)\n    at [REDACTED]/app.asar/ts/textsecure/WebAPI.js:354:24\nOriginal stack:\nError\n    at _outerAjax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:384:21)\n    at _ajax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:532:20)\n    at Object.registerSupportForUnauthenticatedDelivery ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:638:20)\n    at connect (file://[REDACTED]/app.asar/ts/background.js:1421:34)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.660Z","msg":"GET https://textsecure-service.whispersystems.org/v1/accounts/whoami","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.695Z","msg":"GET https://textsecure-service.whispersystems.org/v1/accounts/whoami 401 Error","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.695Z","msg":"Error: Unable to retrieve UUID from service. HTTPError: promiseAjax: error response; code: 401\n    at makeHTTPError ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:389:15)\n    at [REDACTED]/app.asar/ts/textsecure/WebAPI.js:354:24\nOriginal stack:\nError\n    at _outerAjax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:384:21)\n    at _ajax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:532:20)\n    at Object.whoami ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:587:20)\n    at connect (file://[REDACTED]/app.asar/ts/background.js:1436:51)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.696Z","msg":"PUT https://textsecure-service.whispersystems.org/v1/devices/capabilities","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.727Z","msg":"PUT https://textsecure-service.whispersystems.org/v1/devices/capabilities 401 Error","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.727Z","msg":"Error: Unable to register our capabilities. HTTPError: promiseAjax: error response; code: 401\n    at makeHTTPError ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:389:15)\n    at [REDACTED]/app.asar/ts/textsecure/WebAPI.js:354:24\nOriginal stack:\nError\n    at _outerAjax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:384:21)\n    at _ajax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:532:20)\n    at Object.registerCapabilities ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:645:20)\n    at connect (file://[REDACTED]/app.asar/ts/background.js:1454:34)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.727Z","msg":"Start idle detector","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.756Z","msg":"GET https://textsecure-service.whispersystems.org/v2/keys/+[REDACTED]183/1 404 Error","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.757Z","msg":"Top-level unhandled promise rejection: {\"successfulIdentifiers\":[],\"failoverIdentifiers\":[],\"errors\":[{\"name\":\"UnregisteredUserError\",\"identifier\":\"+[REDACTED]183\",\"code\":404,\"reason\":\"Failed to retrieve new device keys for identifier +[REDACTED]183\",\"stackForLog\":\"UnregisteredUserError: Number is not registered. (original: promiseAjax: invalid response; code: 404)\\n    at new UnregisteredUserError ([REDACTED]/app.asar/ts/textsecure/Errors.js:108:19)\\n    at [REDACTED]/app.asar/ts/textsecure/OutgoingMessage.js:146:31\\n    at async OutgoingMessage.sendToIdentifier ([REDACTED]/app.asar/ts/textsecure/OutgoingMessage.js:386:13)\\nOriginal stack:\\nHTTPError: promiseAjax: invalid response; code: 404\\n    at makeHTTPError ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:389:15)\\n    at [REDACTED]/app.asar/ts/textsecure/WebAPI.js:315:36\\nOriginal stack:\\nError\\n    at _outerAjax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:384:21)\\n    at _ajax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:532:20)\\n    at Object.getKeysForIdentifier ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:859:20)\\n    at [REDACTED]/app.asar/ts/textsecure/OutgoingMessage.js:138:26\"}],\"unidentifiedDeliveries\":[]}","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.773Z","msg":"websocket error","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.773Z","msg":"websocket closed 1006 connection failed calledClose: ","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.774Z","msg":"GET https://textsecure-service.whispersystems.org/v1/devices","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.812Z","msg":"GET https://textsecure-service.whispersystems.org/v1/devices 401 Error","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.814Z","msg":"background onError: HTTPError: promiseAjax: error response; code: 401\n    at makeHTTPError ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:389:15)\n    at [REDACTED]/app.asar/ts/textsecure/WebAPI.js:354:24\nOriginal stack:\nError\n    at _outerAjax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:384:21)\n    at _ajax ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:532:20)\n    at Object.getDevices ([REDACTED]/app.asar/ts/textsecure/WebAPI.js:769:20)\n    at MessageReceiverInner.onclose ([REDACTED]/app.asar/ts/textsecure/MessageReceiver.js:171:14)\n    at W3CWebSocket._dispatchEvent [as dispatchEvent] ([REDACTED]/app.asar/node_modules/yaeti/lib/EventTarget.js:107:17)\n    at W3CWebSocket.onConnectFailed ([REDACTED]/app.asar/node_modules/websocket/lib/W3CWebSocket.js:219:14)\n    at WebSocketClient.<anonymous> ([REDACTED]/app.asar/node_modules/websocket/lib/W3CWebSocket.js:59:25)\n    at WebSocketClient.emit (events.js:210:5)\n    at WebSocketClient.failHandshake ([REDACTED]/app.asar/node_modules/websocket/lib/WebSocketClient.js:339:10)\n    at ClientRequest.<anonymous> ([REDACTED]/app.asar/node_modules/websocket/lib/WebSocketClient.js:278:18)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":50,"time":"2021-11-14T23:33:37.817Z","msg":"Model caught error triggering unauthorized event: TypeError: Cannot read property 'update' of undefined\n    at Object.<anonymous> (file://[REDACTED]/app.asar/ts/background.js:1131:49)\n    at triggerEvents (file://[REDACTED]/app.asar/js/reliable_trigger.js:80:39)\n    at Object.trigger (file://[REDACTED]/app.asar/js/reliable_trigger.js:134:17)\n    at unlinkAndDisconnect (file://[REDACTED]/app.asar/ts/background.js:2179:31)\n    at onError (file://[REDACTED]/app.asar/ts/background.js:2219:20)\n    at file://[REDACTED]/app.asar/ts/background.js:1351:31\n    at run ([REDACTED]/app.asar/node_modules/p-queue/dist/index.js:249:147)\n    at PQueue._tryToStartAnother ([REDACTED]/app.asar/node_modules/p-queue/dist/index.js:197:38)\n    at [REDACTED]/app.asar/node_modules/p-queue/dist/index.js:263:18\n    at new Promise (<anonymous>)","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.817Z","msg":"MessageReceiver: stopProcessing requested","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.817Z","msg":"MessageReceiver.close()","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.818Z","msg":"drained","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.853Z","msg":"SQL channel job 83 (updateConversations) succeeded in 33ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.853Z","msg":"MessageReceiver: unregister batchers","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"close event {\"shouldQuit\":false}","time":"2021-11-14T23:33:38.210Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"requestShutdown: Requesting close of mainWindow...","time":"2021-11-14T23:33:38.219Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":40,"time":"2021-11-14T23:33:37.855Z","msg":"Client is no longer authorized; deleting local configuration","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.876Z","msg":"SQL channel job 85 (removeAllConfiguration) succeeded in 20ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.880Z","msg":"SignalProtocolStore: Finished caching sessions data","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.880Z","msg":"SignalProtocolStore: Finished caching identityKeys data","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.881Z","msg":"SignalProtocolStore: Finished caching preKeys data","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.882Z","msg":"SignalProtocolStore: Finished caching signedPreKeys data","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.899Z","msg":"SQL channel job 93 (createOrUpdateItem) succeeded in 14ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.912Z","msg":"SQL channel job 94 (createOrUpdateItem) succeeded in 27ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.926Z","msg":"SQL channel job 95 (createOrUpdateItem) succeeded in 14ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.941Z","msg":"SQL channel job 96 (createOrUpdateItem) succeeded in 14ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.957Z","msg":"SQL channel job 97 (createOrUpdateItem) succeeded in 15ms","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:37.957Z","msg":"Successfully cleared local configuration","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:38.221Z","msg":"background/shutdown","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:38.221Z","msg":"attachment_downloads/stop: disabling","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"time":"2021-11-14T23:33:38.221Z","msg":"Stop idle detector","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"requestShutdown: Response received","time":"2021-11-14T23:33:38.233Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false}","time":"2021-11-14T23:33:38.234Z","v":0}
+{"name":"log","hostname":"laptop","pid":180494,"level":30,"msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}","time":"2021-11-14T23:33:38.234Z","v":0}

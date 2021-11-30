@@ -1,0 +1,15 @@
+2021/02/04-15:43:55.516 14b8d6 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_console.aws.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/04-15:43:55.516 14b8d6 Recovering log #28
+2021/02/04-15:43:55.516 14b8d6 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_console.aws.amazon.com_0.indexeddb.leveldb/000028.log 
+2021/02/04-16:05:22.780 14f2a8 Level-0 table #32: started
+2021/02/04-16:05:22.784 14f2a8 Level-0 table #32: 190 bytes OK
+2021/02/04-16:05:22.788 14f2a8 Delete type=0 #28
+2021/02/04-16:05:22.788 14f2a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/04-16:05:22.788 14f2a8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 76 : 1
+2021/02/04-16:05:22.788 14f2a8 Compacting 1@1 + 1@2 files
+2021/02/04-16:05:22.792 14f2a8 Generated table #33@1: 27 keys, 684 bytes
+2021/02/04-16:05:22.792 14f2a8 Compacted 1@1 + 1@2 files => 684 bytes
+2021/02/04-16:05:22.796 14f2a8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/04-16:05:22.796 14f2a8 Delete type=2 #5
+2021/02/04-16:05:22.796 14f2a8 Delete type=2 #32
+2021/02/04-16:05:22.796 14f2a8 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 76 : 1 .. (end); will stop at (end)

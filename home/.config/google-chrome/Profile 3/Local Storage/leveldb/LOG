@@ -1,0 +1,17 @@
+2021/09/20-18:03:03.269 378 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/Local Storage/leveldb/MANIFEST-000001
+2021/09/20-18:03:03.273 378 Recovering log #10057
+2021/09/20-18:03:03.276 378 Level-0 table #10060: started
+2021/09/20-18:03:03.283 378 Level-0 table #10060: 10598 bytes OK
+2021/09/20-18:03:03.291 378 Delete type=0 #10057
+2021/09/20-18:03:03.293 376 Compacting 4@0 + 1@1 files
+2021/09/20-18:03:03.394 376 Generated table #10062@0: 2086 keys, 2334541 bytes
+2021/09/20-18:03:03.396 376 Compacted 4@0 + 1@1 files => 2334541 bytes
+2021/09/20-18:03:03.401 376 compacted to: files[ 0 3 1 0 0 0 0 ]
+2021/09/20-18:03:03.402 376 Delete type=2 #10056
+2021/09/20-18:03:03.402 376 Delete type=2 #10052
+2021/09/20-18:03:03.402 376 Delete type=2 #10060
+2021/09/20-18:03:03.402 376 Delete type=2 #10058
+2021/09/20-18:03:03.402 376 Delete type=2 #10054
+2021/09/21-17:28:51.582 59a Level-0 table #10064: started
+2021/09/21-17:28:51.589 59a Level-0 table #10064: 14734 bytes OK
+2021/09/21-17:28:51.595 59a Delete type=0 #10061

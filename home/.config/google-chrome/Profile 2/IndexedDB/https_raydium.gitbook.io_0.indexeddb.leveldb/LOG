@@ -1,0 +1,6 @@
+2021/11/02-19:32:51.091 8b0d Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_raydium.gitbook.io_0.indexeddb.leveldb since it was missing.
+2021/11/02-19:32:51.124 8b0d Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_raydium.gitbook.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/02-19:32:51.625 8b0b Level-0 table #5: started
+2021/11/02-19:32:51.632 8b0b Level-0 table #5: 1846 bytes OK
+2021/11/02-19:32:51.636 8b0b Delete type=0 #3
+2021/11/02-19:32:51.637 8b0b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

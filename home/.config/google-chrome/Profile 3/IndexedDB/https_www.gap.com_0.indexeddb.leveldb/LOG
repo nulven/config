@@ -1,0 +1,8 @@
+2020/08/25-15:13:19.762 146e Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.gap.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/25-15:13:19.762 146e Recovering log #35
+2020/08/25-15:13:19.762 146e Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.gap.com_0.indexeddb.leveldb/000035.log 
+2020/08/25-15:13:51.767 13d3 Level-0 table #40: started
+2020/08/25-15:13:51.767 13d3 Level-0 table #40: 0 bytes OK
+2020/08/25-15:13:51.778 13d3 Delete type=0 #35
+2020/08/25-15:13:51.778 13d3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/25-15:13:51.779 13d3 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

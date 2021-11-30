@@ -1,0 +1,5 @@
+{
+  "ui.routes.lastUsedRoute": "{\"type\":\"ItemDetail\",\"content\":{\"itemListRoute\":{\"unlockedRoute\":{\"collectionUuid\":\"46QJZVO2JVGONMTVGV2CN5W7FE\"},\"itemListType\":{\"type\":\"Vault\",\"content\":\"19\"},\"category\":null,\"sortBehavior\":null},\"itemId\":\"34\"}}",
+  "security.autolock.minutes": 60,
+  "ui.itemList.sortBehavior": "{\"sortKey\":\"title\",\"sortOrder\":\"ascending\"}"
+}

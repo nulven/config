@@ -1,0 +1,206 @@
+{
+   "ariaGrid3x3": {
+      "description": "Label for spoken feedback to read out grid-type: 3x3.",
+      "message": "3 by 3"
+   },
+   "ariaGrid4x4": {
+      "description": "Label for spoken feedback to read out grid-type: 4x4.",
+      "message": "4 by 4"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Bumalik"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "I-delete"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a selected item from the gallery. Expects a file name to be passed in.",
+      "message": "Gusto mo ba talagang alisin ang $file$?",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg."
+         }
+      }
+   },
+   "deleteMultiConfirmationMsg": {
+      "description": "Confirmation message before removing multiple selected items from the gallery. Expects a file count to be passed in.",
+      "message": "Gusto mo ba talagang alisin ang $count$ (na) item?",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "20."
+         }
+      }
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Kumuha ng mga larawan at mag-record ng mga video gamit ang iyong camera."
+   },
+   "dialogCancelButton": {
+      "description": "Label for the dismissing button in the dialog.",
+      "message": "Kanselahin"
+   },
+   "dialogOKButton": {
+      "description": "Label for the accepting button in the dialog.",
+      "message": "OK"
+   },
+   "errorMsgEmptyRecording": {
+      "description": "Error message shown when no data is recorded for a recording and it won't be added to the gallery.",
+      "message": "Walang na-record"
+   },
+   "errorMsgFileSystemFailed": {
+      "description": "Error message shown when failing to read or write the file system.",
+      "message": "Mga error sa file system."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when exporting to an external directory failed. Expects a file name to be passed in.",
+      "message": "Hindi na-export ang $file$",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg"
+         }
+      }
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability.",
+      "message": "Kasalukuyang hindi available ang iyong camera.\nPakitingnan kung nakakonekta nang maayos ang camera."
+   },
+   "errorMsgRecordStartFailed": {
+      "description": "Error message shown when failing to start recording video.",
+      "message": "Hindi nasimulan ang pag-record"
+   },
+   "errorMsgSaveFileFailed": {
+      "description": "Error message shown when saving/adding a image or video to the file system failed.",
+      "message": "Hindi na-save ang file"
+   },
+   "errorMsgTakePhotoFailed": {
+      "description": "Error message shown when failing to take photo.",
+      "message": "Hindi nakakuha ng larawan"
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "I-export sa disk"
+   },
+   "feedbackButton": {
+      "description": "Label for the feedback button.",
+      "message": "Magpadala ng feedback"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "Pumunta sa gallery"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Mga larawan sa gallery"
+   },
+   "gridTypeButton": {
+      "description": "Label for the button of grid-type options.",
+      "message": "Uri ng grid"
+   },
+   "helpButton": {
+      "description": "Label for the help button.",
+      "message": "Tulong"
+   },
+   "labelGrid3x3": {
+      "description": "Label for for grid-type: 3x3.",
+      "message": "3 x 3"
+   },
+   "labelGrid4x4": {
+      "description": "Label for for grid-type: 4x4.",
+      "message": "4 x 4"
+   },
+   "labelGridGolden": {
+      "description": "Label for grid-type: golden ratio.",
+      "message": "Golden ratio"
+   },
+   "labelTimer10s": {
+      "description": "Label for timer-duration: 10 seconds.",
+      "message": "10 segundo"
+   },
+   "labelTimer3s": {
+      "description": "Label for timer-duration: 3 seconds.",
+      "message": "3 segundo"
+   },
+   "migratePicturesMsg": {
+      "description": "Message shown before moving all photos and videos stored in the Camera App to the Downloads folder.",
+      "message": "Ang mga larawan at video na nakunan gamit ang camera ay ililipat sa folder na Mga Download. Maa-access mo ang mga ito sa Mga File.\n\nAng mga app na may mga pahintulot sa storage ay magkakaroon ng access sa iyong mga larawan at video."
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "Camera"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "I-print"
+   },
+   "recordVideoStartButton": {
+      "description": "Label for the shutter button to start recording.",
+      "message": "Magsimulang mag-record"
+   },
+   "recordVideoStopButton": {
+      "description": "Label for the shutter button to stop recording.",
+      "message": "Ihinto ang pag-record"
+   },
+   "settingsButton": {
+      "description": "Label for the settings button.",
+      "message": "Mga Setting"
+   },
+   "statusMsgCameraSwitched": {
+      "description": "Status message for spoken feedback when switching over to another camera.",
+      "message": "Aktibo ang $camera$",
+      "placeholders": {
+         "camera": {
+            "content": "$1",
+            "example": "USB WebCam (12ab:5678) User-facing"
+         }
+      }
+   },
+   "statusMsgRecordingStopped": {
+      "description": "Status message for spoken feedback when video recording has been stopped.",
+      "message": "Huminto ang pag-record"
+   },
+   "switchCameraButton": {
+      "description": "Label for the button to switch to next connected camera. Eg. switching from front facing to back facing, or a camera connected via USB. The button is shown only when more than one camera is connected.",
+      "message": "Lumipat sa susunod na camera"
+   },
+   "switchRecordVideoButton": {
+      "description": "Label for the button to switch to record video mode.",
+      "message": "Lumipat sa pag-record ng video"
+   },
+   "switchTakePhotoButton": {
+      "description": "Label for the button to switch to take photo mode.",
+      "message": "Lumipat sa pagkuha ng larawan"
+   },
+   "takePhotoButton": {
+      "description": "Label for the shutter button to take photo.",
+      "message": "Kumuha ng larawan"
+   },
+   "takePhotoCancelButton": {
+      "description": "Label for the shutter button to cancel countdown timer and stop taking photo.",
+      "message": "Ihinto ang pagkuha ng larawan"
+   },
+   "timerDurationButton": {
+      "description": "Label for the button of timer-duration options.",
+      "message": "Tagal ng timer"
+   },
+   "toggleGridButton": {
+      "description": "Label for the checkbox to toggle the grid shown on preview.",
+      "message": "Grid"
+   },
+   "toggleMicButton": {
+      "description": "Label for the checkbox to toggle the microphone for recording video.",
+      "message": "Mikropono"
+   },
+   "toggleMirrorButton": {
+      "description": "Label for the checkbox to toggle the preview mirroring. Eg. if mirroring is toggled on, preview will be flipped horizontally.",
+      "message": "Pag-mirror"
+   },
+   "toggleTimerButton": {
+      "description": "Label for the checkbox to toggle the countdown timer.",
+      "message": "Timer"
+   }
+}

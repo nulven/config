@@ -1,0 +1,8 @@
+2021/05/08-15:54:57.414 26d66 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_titan.service.amazonbrowserapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/08-15:54:57.414 26d66 Recovering log #297
+2021/05/08-15:54:57.414 26d66 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_titan.service.amazonbrowserapp.com_0.indexeddb.leveldb/000297.log 
+2021/05/08-15:54:59.691 2711d Level-0 table #301: started
+2021/05/08-15:54:59.692 2711d Level-0 table #301: 0 bytes OK
+2021/05/08-15:54:59.698 2711d Delete type=0 #297
+2021/05/08-15:54:59.698 2711d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/08-15:54:59.698 2711d Manual compaction at level-1 from (begin) .. (end); will stop at (end)

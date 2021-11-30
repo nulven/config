@@ -1,0 +1,8 @@
+2021/02/04-15:40:32.338 14b8d6 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_console.aws.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/04-15:40:32.338 14b8d6 Recovering log #25
+2021/02/04-15:40:32.338 14b8d6 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_console.aws.amazon.com_0.indexeddb.leveldb/000025.log 
+2021/02/04-15:43:19.590 14b8d6 Level-0 table #29: started
+2021/02/04-15:43:19.590 14b8d6 Level-0 table #29: 0 bytes OK
+2021/02/04-15:43:19.605 14b8d6 Delete type=0 #25
+2021/02/04-15:43:19.605 14b8d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/04-15:43:19.606 14b8d6 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

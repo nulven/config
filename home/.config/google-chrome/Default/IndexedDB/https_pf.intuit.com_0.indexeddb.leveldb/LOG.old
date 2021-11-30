@@ -1,0 +1,15 @@
+2020/06/16-13:22:51.242 3553 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_pf.intuit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/16-13:22:51.242 3553 Recovering log #11
+2020/06/16-13:22:51.242 3553 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_pf.intuit.com_0.indexeddb.leveldb/000011.log 
+2020/06/16-13:23:02.255 16cc Level-0 table #15: started
+2020/06/16-13:23:02.258 16cc Level-0 table #15: 188 bytes OK
+2020/06/16-13:23:02.263 16cc Delete type=0 #11
+2020/06/16-13:23:02.263 16cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/16-13:23:02.263 16cc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x02' @ 62 : 1
+2020/06/16-13:23:02.263 16cc Compacting 1@1 + 1@2 files
+2020/06/16-13:23:02.266 16cc Generated table #16@1: 20 keys, 782 bytes
+2020/06/16-13:23:02.266 16cc Compacted 1@1 + 1@2 files => 782 bytes
+2020/06/16-13:23:02.271 16cc compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/16-13:23:02.271 16cc Delete type=2 #9
+2020/06/16-13:23:02.271 16cc Delete type=2 #15
+2020/06/16-13:23:02.271 16cc Manual compaction at level-1 from '\x00\x00\x00\x00\x02' @ 62 : 1 .. (end); will stop at (end)

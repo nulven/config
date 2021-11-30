@@ -1,0 +1,15 @@
+2020/12/14-10:06:07.048 2b012f Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/14-10:06:07.048 2b012f Recovering log #97
+2020/12/14-10:06:07.048 2b012f Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/000097.log 
+2020/12/14-10:07:07.304 2ad1c0 Level-0 table #102: started
+2020/12/14-10:07:07.308 2ad1c0 Level-0 table #102: 994 bytes OK
+2020/12/14-10:07:07.313 2ad1c0 Delete type=0 #97
+2020/12/14-10:07:07.313 2ad1c0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/14-10:07:07.313 2ad1c0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x001\x000\x007\x007\x006\x006\x006\x000' @ 15327 : 1
+2020/12/14-10:07:07.313 2ad1c0 Compacting 1@1 + 1@2 files
+2020/12/14-10:07:07.317 2ad1c0 Generated table #103@1: 38 keys, 1641 bytes
+2020/12/14-10:07:07.317 2ad1c0 Compacted 1@1 + 1@2 files => 1641 bytes
+2020/12/14-10:07:07.321 2ad1c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/14-10:07:07.321 2ad1c0 Delete type=2 #102
+2020/12/14-10:07:07.322 2ad1c0 Delete type=2 #99
+2020/12/14-10:07:07.322 2ad1c0 Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x001\x000\x007\x007\x006\x006\x006\x000' @ 15327 : 1 .. (end); will stop at (end)

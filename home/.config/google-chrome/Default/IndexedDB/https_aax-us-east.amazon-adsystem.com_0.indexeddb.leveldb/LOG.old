@@ -1,0 +1,7 @@
+2020/06/21-23:24:31.419 3be8 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_aax-us-east.amazon-adsystem.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/21-23:24:31.420 3be8 Recovering log #3
+2020/06/21-23:24:31.420 3be8 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_aax-us-east.amazon-adsystem.com_0.indexeddb.leveldb/000003.log 
+2020/06/21-23:24:40.635 fff Level-0 table #5: started
+2020/06/21-23:24:40.639 fff Level-0 table #5: 421 bytes OK
+2020/06/21-23:24:40.644 fff Delete type=0 #3
+2020/06/21-23:24:40.644 fff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

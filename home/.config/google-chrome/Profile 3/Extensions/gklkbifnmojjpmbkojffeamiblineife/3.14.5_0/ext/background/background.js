@@ -1,0 +1,1 @@
+chrome.runtime.onMessage.addListener(function(n,e,i){var o;return n.action&&"version_check"==n.action&&(o=chrome.runtime.getManifest().version,i({version:o,key:consts.versionKey})),n.fn?(api.handle(n,e,function(n){i(n)}),!0):n.fnh?(skhttp.handle(n,e,function(n){i(n)}),!0):void 0});

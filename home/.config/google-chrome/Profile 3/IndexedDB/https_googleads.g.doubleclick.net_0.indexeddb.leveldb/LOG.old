@@ -1,0 +1,15 @@
+2020/07/24-13:28:43.653 4ff5 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/24-13:28:43.653 4ff5 Recovering log #10
+2020/07/24-13:28:43.653 4ff5 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000010.log 
+2020/07/24-13:28:53.523 1b69 Level-0 table #14: started
+2020/07/24-13:28:53.527 1b69 Level-0 table #14: 190 bytes OK
+2020/07/24-13:28:53.533 1b69 Delete type=0 #10
+2020/07/24-13:28:53.533 1b69 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/24-13:28:53.534 1b69 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 9 : 1
+2020/07/24-13:28:53.534 1b69 Compacting 1@1 + 1@2 files
+2020/07/24-13:28:53.538 1b69 Generated table #15@1: 8 keys, 372 bytes
+2020/07/24-13:28:53.538 1b69 Compacted 1@1 + 1@2 files => 372 bytes
+2020/07/24-13:28:53.542 1b69 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/24-13:28:53.543 1b69 Delete type=2 #14
+2020/07/24-13:28:53.543 1b69 Delete type=2 #5
+2020/07/24-13:28:53.543 1b69 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 9 : 1 .. (end); will stop at (end)

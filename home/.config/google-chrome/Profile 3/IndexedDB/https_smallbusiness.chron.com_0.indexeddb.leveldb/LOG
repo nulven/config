@@ -1,0 +1,5 @@
+2020/07/15-17:30:30.943 3f82 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_smallbusiness.chron.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/15-17:30:48.237 1399 Level-0 table #5: started
+2020/07/15-17:30:48.252 1399 Level-0 table #5: 1338290 bytes OK
+2020/07/15-17:30:48.260 1399 Delete type=0 #3
+2020/07/15-17:30:48.261 1399 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

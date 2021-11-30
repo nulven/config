@@ -1,0 +1,15 @@
+2020/07/10-17:59:48.991 620d Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/10-17:59:48.992 620d Recovering log #44
+2020/07/10-17:59:48.992 620d Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/000044.log 
+2020/07/10-17:59:59.058 2098 Level-0 table #49: started
+2020/07/10-17:59:59.062 2098 Level-0 table #49: 190 bytes OK
+2020/07/10-17:59:59.067 2098 Delete type=0 #44
+2020/07/10-17:59:59.067 2098 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/10-17:59:59.067 2098 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 19 : 1
+2020/07/10-17:59:59.067 2098 Compacting 1@1 + 1@2 files
+2020/07/10-17:59:59.071 2098 Generated table #50@1: 8 keys, 368 bytes
+2020/07/10-17:59:59.071 2098 Compacted 1@1 + 1@2 files => 368 bytes
+2020/07/10-17:59:59.076 2098 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/10-17:59:59.077 2098 Delete type=2 #49
+2020/07/10-17:59:59.077 2098 Delete type=2 #46
+2020/07/10-17:59:59.077 2098 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 19 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/11/25-19:41:12.406 9facc Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_forum.makerdao.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/25-19:41:12.406 9facc Recovering log #7
+2021/11/25-19:41:12.409 9facc Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_forum.makerdao.com_0.indexeddb.leveldb/000007.log 
+2021/11/25-19:41:46.936 af10a Level-0 table #12: started
+2021/11/25-19:41:46.946 af10a Level-0 table #12: 79817 bytes OK
+2021/11/25-19:41:46.954 af10a Delete type=0 #7
+2021/11/25-19:41:46.955 af10a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/25-19:41:46.955 af10a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00P]\x06\x9b\xd5wB\x00\x01@\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00k\x00e\x00r\x00d\x00a\x00o\x00.\x00c\x00o\x00m\x00/\x00u\x00s\x00e\x00r\x00-\x00b\x00a\x00d\x00g\x00e\x00s\x00/\x00h\x00e\x00x\x00o\x00n\x00a\x00u\x00t\x00.\x00j\x00s\x00o\x00n' @ 6350 : 1
+2021/11/25-19:41:46.955 af10a Compacting 1@1 + 1@2 files
+2021/11/25-19:41:46.959 af10a Generated table #13@1: 327 keys, 37848 bytes
+2021/11/25-19:41:46.959 af10a Compacted 1@1 + 1@2 files => 37848 bytes
+2021/11/25-19:41:46.964 af10a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/25-19:41:46.964 af10a Delete type=2 #9
+2021/11/25-19:41:46.964 af10a Delete type=2 #12
+2021/11/25-19:41:46.964 af10a Manual compaction at level-1 from '\x00\x01\x01 \x03\x00P]\x06\x9b\xd5wB\x00\x01@\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00k\x00e\x00r\x00d\x00a\x00o\x00.\x00c\x00o\x00m\x00/\x00u\x00s\x00e\x00r\x00-\x00b\x00a\x00d\x00g\x00e\x00s\x00/\x00h\x00e\x00x\x00o\x00n\x00a\x00u\x00t\x00.\x00j\x00s\x00o\x00n' @ 6350 : 1 .. (end); will stop at (end)

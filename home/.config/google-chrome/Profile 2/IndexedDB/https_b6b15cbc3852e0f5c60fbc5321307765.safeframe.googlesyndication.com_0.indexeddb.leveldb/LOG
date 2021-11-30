@@ -1,0 +1,6 @@
+2021/11/07-20:52:23.140 6b08a Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_b6b15cbc3852e0f5c60fbc5321307765.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2021/11/07-20:52:23.156 6b08a Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_b6b15cbc3852e0f5c60fbc5321307765.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/07-20:52:33.153 650b1 Level-0 table #5: started
+2021/11/07-20:52:33.156 650b1 Level-0 table #5: 480 bytes OK
+2021/11/07-20:52:33.161 650b1 Delete type=0 #3
+2021/11/07-20:52:33.161 650b1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

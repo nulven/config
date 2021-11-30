@@ -1,0 +1,7 @@
+2021/11/22-18:13:18.891 c41c Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/22-18:13:18.892 c41c Recovering log #45
+2021/11/22-18:13:18.892 c41c Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000045.log 
+2021/11/22-18:13:19.678 c43d Compacting 1@1 + 1@2 files
+2021/11/22-18:13:19.705 c43d Generated table #48@1: 547 keys, 47809 bytes
+2021/11/22-18:13:19.705 c43d Compacted 1@1 + 1@2 files => 47809 bytes
+2021/11/22-18:13:19.710 c43d compacted to: files[ 0 0 1 0 0 0 0 ]

@@ -1,0 +1,14 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/mailto=google-chrome.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=gnome-gmail.desktop;
+image/png=shotwell-viewer.desktop;display-im6.q16.desktop;eog.desktop;
+application/x-ms-dos-executable=wine.desktop;
+application/x-desktop=wine-extension-vbs.desktop;
+image/jpeg=shotwell-viewer.desktop;google-chrome.desktop;display-im6.q16.desktop;

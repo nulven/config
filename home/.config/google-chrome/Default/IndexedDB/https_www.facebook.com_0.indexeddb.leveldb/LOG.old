@@ -1,0 +1,15 @@
+2020/08/17-23:25:40.711 1a9d Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/17-23:25:40.712 1a9d Recovering log #14070
+2020/08/17-23:25:40.712 1a9d Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/014070.log 
+2020/08/17-23:26:12.748 45b4 Level-0 table #14075: started
+2020/08/17-23:26:12.758 45b4 Level-0 table #14075: 682 bytes OK
+2020/08/17-23:26:12.764 45b4 Delete type=0 #14070
+2020/08/17-23:26:12.764 45b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/17-23:26:12.764 45b4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 178992 : 1
+2020/08/17-23:26:12.764 45b4 Compacting 1@1 + 1@2 files
+2020/08/17-23:26:12.769 45b4 Generated table #14076@1: 24 keys, 749 bytes
+2020/08/17-23:26:12.769 45b4 Compacted 1@1 + 1@2 files => 749 bytes
+2020/08/17-23:26:12.773 45b4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/17-23:26:12.774 45b4 Delete type=2 #14072
+2020/08/17-23:26:12.774 45b4 Delete type=2 #14075
+2020/08/17-23:26:12.775 45b4 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 178992 : 1 .. (end); will stop at (end)

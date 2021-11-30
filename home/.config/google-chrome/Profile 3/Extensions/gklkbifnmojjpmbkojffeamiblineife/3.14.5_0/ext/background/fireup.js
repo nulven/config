@@ -1,0 +1,1 @@
+chrome.runtime.onInstalled.addListener(function(){var n,o=chrome.runtime.getManifest().version,t=consts.versionKey;chrome.storage.sync.get([t],function(e){(!(n=!(!e||!e[t])&&e[t])||n&&n!==o)&&(chrome.storage.sync.set({en_dfd34q__version:o},function(){}),0)})});

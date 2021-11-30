@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "ext/common/lib/jquery-3.6.0.min.js", "ext/common/constants.js", "ext/background/storage.js", "ext/background/api.js", "ext/background/http.js", "ext/background/background.js", "ext/background/track.js", "ext/background/fireup.js" ]
+   },
+   "browser_action": {
+      "default_icon": "ext/img/brand_icon.png",
+      "default_popup": "ext/popup/popup.html",
+      "default_title": "Skrapp Enrich Chrome Extension"
+   },
+   "content_scripts": [ {
+      "js": [ "web/key.js" ],
+      "matches": [ "*://*.skrapp.io/*" ]
+   } ],
+   "description": "Enrich your prospecting with relevant B2B data.",
+   "differential_fingerprint": "1.c5be2756bd7c6342c3ecafa95d5d0c23a14bc633579ddf78fb93409fcf6a6f58",
+   "icons": {
+      "128": "ext/img/brand_icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhTh5GcKA25iO7M3eZ6+5Taw92rd8fS9Dg/kEbiHLyVIq6W//phWHDab6LLKFv7GAUFcmpds46JVC8JxPOVvlhupKyTBVHee1PiOV8cysPh0MQWNXKwiKlMs+R+4hHeStnQ6CpJT56cQsWVT/FQtt2JJJG6Lv88UQfVYPXWTbZ/UIk/M6Nqnairi1GUs8gIrg7hkhY0Sx2hmmcjwcgeYJ/Seo7wVR04Otk23b4W56+ZFoHzyMBkM5QgaeoSXEZIuhmB1CbEEGno6LXkAJ16gKkQ9o3qWNH2LggnUMpgnqqDuTOP3/LgeAzcaJfBnouxF33yEsLMOu9+AS+Jg/7yOp8wIDAQAB",
+   "manifest_version": 2,
+   "name": "Skrapp Enrich",
+   "permissions": [ "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.14.5"
+}

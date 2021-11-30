@@ -1,0 +1,5 @@
+2020/07/29-03:36:49.025 31d4 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.poftut.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/29-03:37:06.034 186f Level-0 table #5: started
+2020/07/29-03:37:06.046 186f Level-0 table #5: 338 bytes OK
+2020/07/29-03:37:06.052 186f Delete type=0 #3
+2020/07/29-03:37:06.052 186f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

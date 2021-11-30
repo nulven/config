@@ -1,0 +1,5 @@
+2020/06/12-16:12:50.767 5fb7 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.geeksforgeeks.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/12-16:12:53.667 31ee Level-0 table #5: started
+2020/06/12-16:12:53.673 31ee Level-0 table #5: 341 bytes OK
+2020/06/12-16:12:53.680 31ee Delete type=0 #3
+2020/06/12-16:12:53.680 31ee Manual compaction at level-0 from (begin) .. (end); will stop at (end)

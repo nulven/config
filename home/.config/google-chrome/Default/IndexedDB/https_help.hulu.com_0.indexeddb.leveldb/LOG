@@ -1,0 +1,25 @@
+2020/05/26-11:07:59.531 39df Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_help.hulu.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/26-11:07:59.531 39df Recovering log #4
+2020/05/26-11:07:59.531 39df Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_help.hulu.com_0.indexeddb.leveldb/000004.log 
+2020/05/26-11:08:01.172 dac Level-0 table #8: started
+2020/05/26-11:08:01.176 dac Level-0 table #8: 55103 bytes OK
+2020/05/26-11:08:01.180 dac Delete type=0 #4
+2020/05/26-11:08:01.181 dac Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/05/26-11:08:03.263 dac Compacting 1@1 + 1@2 files
+2020/05/26-11:08:03.269 dac Generated table #9@1: 192 keys, 18783 bytes
+2020/05/26-11:08:03.269 dac Compacted 1@1 + 1@2 files => 18783 bytes
+2020/05/26-11:08:03.277 dac compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/26-11:08:03.277 dac Delete type=2 #8
+2020/05/26-11:08:03.277 dac Delete type=2 #5
+2020/05/26-11:08:31.519 dac Level-0 table #11: started
+2020/05/26-11:08:31.531 dac Level-0 table #11: 152446 bytes OK
+2020/05/26-11:08:31.536 dac Delete type=0 #7
+2020/05/26-11:08:31.537 dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/26-11:08:31.537 dac Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x03\x00\x90U\xc2\xac_wB\x00\x01~\x000\x000\x00D\x004\x001\x000\x000\x000\x000\x000\x000\x005\x00s\x00a\x00I\x000\x00D\x00B\x004\x001\x000\x000\x000\x000\x000\x000\x00Y\x00F\x00E\x00H\x000\x000\x005\x001\x00L\x000\x000\x000\x000\x000\x00C\x00T\x00h\x007\x00M\x00e\x00n\x00_\x00U\x00S\x003\x00b\x007\x007\x007\x006\x009\x004\x00-\x009\x000\x00b\x004\x00-\x004\x00e\x004\x006\x00-\x00b\x006\x00f\x00b\x00-\x003\x005\x006\x005\x003\x000\x001\x001\x003\x005\x009\x00a\x00B\x00L\x00M\x001\x005\x007\x005\x005\x009\x000\x001\x004\x007\x000\x000\x000\x000\x000\x008\x007\x007\x006\x008\x007\x006\x002\x005\x004\x008\x00.\x000\x00:\x00_\x00r\x00e\x00c\x00o\x00r\x00d\x00s' @ 1845 : 1
+2020/05/26-11:08:31.537 dac Compacting 1@1 + 1@2 files
+2020/05/26-11:08:31.551 dac Generated table #12@1: 331 keys, 155287 bytes
+2020/05/26-11:08:31.551 dac Compacted 1@1 + 1@2 files => 155287 bytes
+2020/05/26-11:08:31.555 dac compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/26-11:08:31.555 dac Delete type=2 #11
+2020/05/26-11:08:31.555 dac Delete type=2 #9
+2020/05/26-11:08:31.556 dac Manual compaction at level-1 from '\x00\x08\x01\x1f\x03\x00\x90U\xc2\xac_wB\x00\x01~\x000\x000\x00D\x004\x001\x000\x000\x000\x000\x000\x000\x005\x00s\x00a\x00I\x000\x00D\x00B\x004\x001\x000\x000\x000\x000\x000\x000\x00Y\x00F\x00E\x00H\x000\x000\x005\x001\x00L\x000\x000\x000\x000\x000\x00C\x00T\x00h\x007\x00M\x00e\x00n\x00_\x00U\x00S\x003\x00b\x007\x007\x007\x006\x009\x004\x00-\x009\x000\x00b\x004\x00-\x004\x00e\x004\x006\x00-\x00b\x006\x00f\x00b\x00-\x003\x005\x006\x005\x003\x000\x001\x001\x003\x005\x009\x00a\x00B\x00L\x00M\x001\x005\x007\x005\x005\x009\x000\x001\x004\x007\x000\x000\x000\x000\x000\x008\x007\x007\x006\x008\x007\x006\x002\x005\x004\x008\x00.\x000\x00:\x00_\x00r\x00e\x00c\x00o\x00r\x00d\x00s' @ 1845 : 1 .. (end); will stop at (end)

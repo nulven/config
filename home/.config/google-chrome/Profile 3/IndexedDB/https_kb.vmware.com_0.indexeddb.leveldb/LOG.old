@@ -1,0 +1,16 @@
+2020/05/10-03:24:14.044 16d6 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_kb.vmware.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/10-03:24:20.144 404b Level-0 table #5: started
+2020/05/10-03:24:20.149 404b Level-0 table #5: 10986 bytes OK
+2020/05/10-03:24:20.157 404b Delete type=0 #3
+2020/05/10-03:24:20.158 404b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/05/10-03:24:20.169 404b Level-0 table #7: started
+2020/05/10-03:24:20.174 404b Level-0 table #7: 725 bytes OK
+2020/05/10-03:24:20.179 404b Delete type=0 #4
+2020/05/10-03:24:20.180 404b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/05/10-03:24:20.180 404b Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 513 : 1
+2020/05/10-03:24:20.180 404b Compacting 1@1 + 1@2 files
+2020/05/10-03:24:20.185 404b Generated table #8@1: 9 keys, 390 bytes
+2020/05/10-03:24:20.185 404b Compacted 1@1 + 1@2 files => 390 bytes
+2020/05/10-03:24:20.190 404b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/10-03:24:20.190 404b Delete type=2 #7
+2020/05/10-03:24:20.191 404b Manual compaction at level-1 from '\x00\x03\x00\x00\x05' @ 513 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

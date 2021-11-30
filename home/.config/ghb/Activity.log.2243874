@@ -1,0 +1,1829 @@
+[18:25:17] gtkgui: HandBrake 1.3.1 (2020032300) - Linux x86_64 - https://handbrake.fr
+[18:25:17] hb_init: starting libhb thread
+[18:25:17] hb_init: starting libhb thread
+[18:25:17] hb_init: starting libhb thread
+[18:25:17] gtkgui: Failed to read presets file, initailizing new presets...
+[18:25:30] CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+[18:25:30]  - Intel microarchitecture Kaby Lake
+[18:25:30]  - logical processor count: 8
+[18:25:30] hb_scan: path=/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4/) failed
+[18:25:30] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread: Encrypted DVD support unavailable.
+************************************************
+**                                            **
+**  No css library available. See             **
+**  /usr/share/doc/libdvdread4/README.css     **
+**  for more information.                     **
+**                                            **
+************************************************
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[18:25:30] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.29.100
+  Duration: 00:00:58.93, start: 0.000000, bitrate: 101 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1824x914 [SAR 1:1 DAR 912:457], 98 kb/s, 30.02 fps, 30 tbr, 15360 tbn, 60 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[18:25:30] scan: decoding previews for title 1
+[18:25:30] scan: 10 previews, 1824x914, 30.017 fps, autocrop = 0/0/0/0, aspect 2.00:1, PAR 1:1
+[18:25:30] libhb: scan thread found 1 valid title(s)
+[18:25:46] Starting work at: Fri Jan 29 18:25:46 2021
+
+[18:25:46] 1 job(s) to process
+[18:25:46] json job:
+{
+    "Audio": {
+        "AudioList": [],
+        "CopyMask": [],
+        "FallbackEncoder": 0
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 58,
+                    "Ticks": 5304060
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/tmp/hb.2243874/live01",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 12,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 914,
+                    "width": 1824
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "ethwinter-2021-01-29_18.17.17"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+        "Range": {
+            "End": 1350000,
+            "SeekPoints": 10,
+            "Start": 2,
+            "Type": "preview"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 1,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[18:25:46] CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+[18:25:46]  - Intel microarchitecture Kaby Lake
+[18:25:46]  - logical processor count: 8
+[18:25:46] hb_scan: path=/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4/) failed
+[18:25:46] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread: Encrypted DVD support unavailable.
+************************************************
+**                                            **
+**  No css library available. See             **
+**  /usr/share/doc/libdvdread4/README.css     **
+**  for more information.                     **
+**                                            **
+************************************************
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[18:25:46] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.29.100
+  Duration: 00:00:58.93, start: 0.000000, bitrate: 101 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1824x914 [SAR 1:1 DAR 912:457], 98 kb/s, 30.02 fps, 30 tbr, 15360 tbn, 60 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[18:25:46] scan: decoding previews for title 1
+[18:25:46] scan: 10 previews, 1824x914, 30.017 fps, autocrop = 0/0/0/0, aspect 2.00:1, PAR 1:1
+[18:25:46] libhb: scan thread found 1 valid title(s)
+[18:25:46] Starting Task: Encoding Pass
+[18:25:46] Skipping crop/scale filter
+[18:25:46] job configuration:
+[18:25:46]  * source
+[18:25:46]    + /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+[18:25:46]    + title 1, start 00:00:0.00 stop 00:00:15.00
+[18:25:46]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[18:25:46]    + data rate: 101 kbps
+[18:25:46]  * destination
+[18:25:46]    + /tmp/hb.2243874/live01
+[18:25:46]    + container: MPEG-4 (libavformat)
+[18:25:46]      + align initial A/V stream timestamps
+[18:25:46]  * video track
+[18:25:46]    + decoder: h264
+[18:25:46]      + bitrate 98 kbps
+[18:25:46]    + filters
+[18:25:46]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[18:25:46]      + Decomb (mode=39)
+[18:25:46]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[18:25:46]        + frame rate: 30.017 fps -> peak rate limited to 30.000 fps
+[18:25:46]    + Output geometry
+[18:25:46]      + storage dimensions: 1824 x 914
+[18:25:46]      + pixel aspect ratio: 1 : 1
+[18:25:46]      + display dimensions: 1824 x 914
+[18:25:46]    + encoder: H.264 (libx264)
+[18:25:46]      + preset:  fast
+[18:25:46]      + profile: main
+[18:25:46]      + level:   4.0
+[18:25:46]      + quality: 22.00 (RF)
+[18:25:46]      + color profile: 1-1-1
+[18:25:46] sync: expecting 480 video frames
+[18:25:46] encx264: min-keyint: 30, keyint: 300
+[18:25:46] encx264: encoding at constant RF 22.000000
+[18:25:46] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[18:25:47] sync: first pts video is 0
+[18:25:47] sync: Chapter 1 at frame 1 time 0
+[18:25:47] Starting work at: Fri Jan 29 18:25:47 2021
+
+[18:25:47] 1 job(s) to process
+[18:25:47] json job:
+{
+    "Audio": {
+        "AudioList": [],
+        "CopyMask": [],
+        "FallbackEncoder": 0
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 58,
+                    "Ticks": 5304060
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/tmp/hb.2243874/live01",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 12,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 914,
+                    "width": 1824
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "ethwinter-2021-01-29_18.17.17"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+        "Range": {
+            "End": 1350000,
+            "SeekPoints": 10,
+            "Start": 2,
+            "Type": "preview"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 1,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[18:25:47] Starting Task: Encoding Pass
+[18:25:47] Skipping crop/scale filter
+[18:25:47] job configuration:
+[18:25:47]  * source
+[18:25:47]    + /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+[18:25:47]    + title 1, start 00:00:0.00 stop 00:00:15.00
+[18:25:47]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[18:25:47]    + data rate: 101 kbps
+[18:25:47]  * destination
+[18:25:47]    + /tmp/hb.2243874/live01
+[18:25:47]    + container: MPEG-4 (libavformat)
+[18:25:47]      + align initial A/V stream timestamps
+[18:25:47]  * video track
+[18:25:47]    + decoder: h264
+[18:25:47]      + bitrate 98 kbps
+[18:25:47]    + filters
+[18:25:47]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[18:25:47]      + Decomb (mode=39)
+[18:25:47]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[18:25:47]        + frame rate: 30.017 fps -> peak rate limited to 30.000 fps
+[18:25:47]    + Output geometry
+[18:25:47]      + storage dimensions: 1824 x 914
+[18:25:47]      + pixel aspect ratio: 1 : 1
+[18:25:47]      + display dimensions: 1824 x 914
+[18:25:47]    + encoder: H.264 (libx264)
+[18:25:47]      + preset:  fast
+[18:25:47]      + profile: main
+[18:25:47]      + level:   4.0
+[18:25:47]      + quality: 22.00 (RF)
+[18:25:47]      + color profile: 1-1-1
+[18:25:47] sync: expecting 480 video frames
+[18:25:47] encx264: min-keyint: 30, keyint: 300
+[18:25:47] encx264: encoding at constant RF 22.000000
+[18:25:47] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[18:25:47] sync: first pts video is 0
+[18:25:47] sync: Chapter 1 at frame 1 time 0
+[18:25:50] Starting work at: Fri Jan 29 18:25:50 2021
+
+[18:25:50] 1 job(s) to process
+[18:25:50] json job:
+{
+    "Audio": {
+        "AudioList": [],
+        "CopyMask": [],
+        "FallbackEncoder": 0
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 58,
+                    "Ticks": 5304060
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/tmp/hb.2243874/live01",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 12,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 914,
+                    "width": 1824
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "ethwinter-2021-01-29_18.17.17"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+        "Range": {
+            "End": 1350000,
+            "SeekPoints": 10,
+            "Start": 2,
+            "Type": "preview"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 1,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[18:25:50] Starting Task: Encoding Pass
+[18:25:50] Skipping crop/scale filter
+[18:25:50] job configuration:
+[18:25:50]  * source
+[18:25:50]    + /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+[18:25:50]    + title 1, start 00:00:0.00 stop 00:00:15.00
+[18:25:50]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[18:25:50]    + data rate: 101 kbps
+[18:25:50]  * destination
+[18:25:50]    + /tmp/hb.2243874/live01
+[18:25:50]    + container: MPEG-4 (libavformat)
+[18:25:50]      + align initial A/V stream timestamps
+[18:25:50]  * video track
+[18:25:50]    + decoder: h264
+[18:25:50]      + bitrate 98 kbps
+[18:25:50]    + filters
+[18:25:50]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[18:25:50]      + Decomb (mode=39)
+[18:25:50]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[18:25:50]        + frame rate: 30.017 fps -> peak rate limited to 30.000 fps
+[18:25:50]    + Output geometry
+[18:25:50]      + storage dimensions: 1824 x 914
+[18:25:50]      + pixel aspect ratio: 1 : 1
+[18:25:50]      + display dimensions: 1824 x 914
+[18:25:50]    + encoder: H.264 (libx264)
+[18:25:50]      + preset:  fast
+[18:25:50]      + profile: main
+[18:25:50]      + level:   4.0
+[18:25:50]      + quality: 22.00 (RF)
+[18:25:50]      + color profile: 1-1-1
+[18:25:50] sync: expecting 480 video frames
+[18:25:50] encx264: min-keyint: 30, keyint: 300
+[18:25:50] encx264: encoding at constant RF 22.000000
+[18:25:50] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[18:25:50] sync: first pts video is 0
+[18:25:50] sync: Chapter 1 at frame 1 time 0
+[18:25:58] sync: reached video pts 1352234, exiting early
+[18:26:01] work: average encoding speed for job is 28.481316 fps
+[18:26:02] comb detect: heavy 1 | light 4 | uncombed 446 | total 451
+[18:26:02] decomb: deinterlaced 1 | blended 4 | unfiltered 446 | total 451
+[18:26:02] vfr: 451 frames output, 0 dropped and 0 duped for CFR/PFR
+[18:26:02] vfr: lost time: 0 (0 frames)
+[18:26:02] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[18:26:02] h264-decoder done: 1190 frames, 0 decoder errors
+[18:26:02] sync: got 451 frames, 480 expected
+[18:26:02] sync: framerate min 30.017 fps, max 30.017 fps, avg 30.017 fps
+x264 [info]: frame I:2     Avg QP: 9.24  size: 23438
+x264 [info]: frame P:118   Avg QP:17.43  size:  1003
+x264 [info]: frame B:331   Avg QP:19.04  size:    93
+x264 [info]: consecutive B-frames:  1.6%  1.8%  0.0% 96.7%
+x264 [info]: mb I  I16..4: 95.1%  0.0%  4.9%
+x264 [info]: mb P  I16..4:  2.0%  0.0%  0.2%  P16..4:  0.3%  0.1%  0.0%  0.0%  0.0%    skip:97.3%
+x264 [info]: mb B  I16..4:  0.1%  0.0%  0.0%  B16..8:  0.2%  0.0%  0.0%  direct: 0.0%  skip:99.7%  L0:38.7% L1:56.6% BI: 4.7%
+x264 [info]: coded y,uvDC,uvAC intra: 4.9% 4.0% 3.7% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 63% 36%  1%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 36% 21%  2%  3%  3%  4%  2%  4%
+x264 [info]: i8c dc,h,v,p: 94%  4%  2%  0%
+x264 [info]: Weighted P-Frames: Y:0.8% UV:0.0%
+x264 [info]: ref P L0: 85.5% 14.5%
+x264 [info]: ref B L0: 94.7%  5.3%
+x264 [info]: ref B L1: 98.9%  1.1%
+x264 [info]: kb/s:104.33
+[18:26:02] mux: track 0, 451 frames, 195972 bytes, 104.06 kbps, fifo 512
+[18:26:02] Finished work at: Fri Jan 29 18:26:02 2021
+
+[18:26:02] sync: reached video pts 1352234, exiting early
+[18:26:03] work: average encoding speed for job is 27.915932 fps
+[18:26:03] comb detect: heavy 1 | light 4 | uncombed 446 | total 451
+[18:26:03] decomb: deinterlaced 1 | blended 4 | unfiltered 446 | total 451
+[18:26:03] vfr: 451 frames output, 0 dropped and 0 duped for CFR/PFR
+[18:26:03] vfr: lost time: 0 (0 frames)
+[18:26:03] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[18:26:04] h264-decoder done: 840 frames, 0 decoder errors
+[18:26:04] sync: got 451 frames, 480 expected
+[18:26:04] sync: framerate min 30.017 fps, max 30.017 fps, avg 30.017 fps
+x264 [info]: frame I:2     Avg QP: 9.24  size: 23438
+x264 [info]: frame P:118   Avg QP:17.43  size:  1003
+x264 [info]: frame B:331   Avg QP:19.04  size:    93
+x264 [info]: consecutive B-frames:  1.6%  1.8%  0.0% 96.7%
+x264 [info]: mb I  I16..4: 95.1%  0.0%  4.9%
+x264 [info]: mb P  I16..4:  2.0%  0.0%  0.2%  P16..4:  0.3%  0.1%  0.0%  0.0%  0.0%    skip:97.3%
+x264 [info]: mb B  I16..4:  0.1%  0.0%  0.0%  B16..8:  0.2%  0.0%  0.0%  direct: 0.0%  skip:99.7%  L0:38.7% L1:56.6% BI: 4.7%
+x264 [info]: coded y,uvDC,uvAC intra: 4.9% 4.0% 3.7% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 63% 36%  1%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 36% 21%  2%  3%  3%  4%  2%  4%
+x264 [info]: i8c dc,h,v,p: 94%  4%  2%  0%
+x264 [info]: Weighted P-Frames: Y:0.8% UV:0.0%
+x264 [info]: ref P L0: 85.5% 14.5%
+x264 [info]: ref B L0: 94.7%  5.3%
+x264 [info]: ref B L1: 98.9%  1.1%
+x264 [info]: kb/s:104.33
+[18:26:04] mux: track 0, 451 frames, 195972 bytes, 104.06 kbps, fifo 512
+[18:26:04] Finished work at: Fri Jan 29 18:26:04 2021
+
+[18:26:04] CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+[18:26:04]  - Intel microarchitecture Kaby Lake
+[18:26:04]  - logical processor count: 8
+[18:26:04] hb_scan: path=/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4/) failed
+[18:26:04] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread: Encrypted DVD support unavailable.
+************************************************
+**                                            **
+**  No css library available. See             **
+**  /usr/share/doc/libdvdread4/README.css     **
+**  for more information.                     **
+**                                            **
+************************************************
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[18:26:04] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.29.100
+  Duration: 00:00:58.93, start: 0.000000, bitrate: 101 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1824x914 [SAR 1:1 DAR 912:457], 98 kb/s, 30.02 fps, 30 tbr, 15360 tbn, 60 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[18:26:04] scan: decoding previews for title 1
+[18:26:04] scan: 10 previews, 1824x914, 30.017 fps, autocrop = 0/0/0/0, aspect 2.00:1, PAR 1:1
+[18:26:04] libhb: scan thread found 1 valid title(s)
+[18:26:04] work: average encoding speed for job is 28.736912 fps
+[18:26:04] comb detect: heavy 1 | light 4 | uncombed 430 | total 435
+[18:26:05] sync: reached video pts 1352234, exiting early
+[18:26:05] decomb: deinterlaced 1 | blended 4 | unfiltered 425 | total 430
+[18:26:05] vfr: 418 frames output, 0 dropped and 0 duped for CFR/PFR
+[18:26:05] vfr: lost time: 0 (0 frames)
+[18:26:05] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[18:26:05] h264-decoder done: 489 frames, 0 decoder errors
+[18:26:05] sync: got 451 frames, 480 expected
+[18:26:05] sync: framerate min 30.017 fps, max 30.017 fps, avg 30.017 fps
+x264 [info]: frame I:2     Avg QP: 9.24  size: 23438
+x264 [info]: frame P:98    Avg QP:17.32  size:  1098
+x264 [info]: frame B:272   Avg QP:18.86  size:    89
+x264 [info]: consecutive B-frames:  1.9%  1.1%  0.0% 97.1%
+x264 [info]: mb I  I16..4: 95.1%  0.0%  4.9%
+x264 [info]: mb P  I16..4:  2.2%  0.0%  0.2%  P16..4:  0.3%  0.1%  0.1%  0.0%  0.0%    skip:97.0%
+x264 [info]: mb B  I16..4:  0.1%  0.0%  0.0%  B16..8:  0.2%  0.0%  0.0%  direct: 0.0%  skip:99.7%  L0:44.2% L1:49.8% BI: 6.0%
+x264 [info]: coded y,uvDC,uvAC intra: 4.8% 3.8% 3.6% inter: 0.1% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 64% 34%  1%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 27% 36% 20%  2%  3%  3%  4%  2%  4%
+x264 [info]: i8c dc,h,v,p: 95%  3%  2%  0%
+x264 [info]: Weighted P-Frames: Y:1.0% UV:0.0%
+x264 [info]: ref P L0: 85.9% 14.1%
+x264 [info]: ref B L0: 94.6%  5.4%
+x264 [info]: ref B L1: 98.8%  1.2%
+x264 [info]: kb/s:115.23
+[18:26:05] mux: track 0, 372 frames, 178526 bytes, 113.95 kbps, fifo 512
+[18:26:05] Finished work at: Fri Jan 29 18:26:05 2021
+
+[18:26:05] libhb: work result = 1
+[18:29:21] gtkgui: Preset: /General/Fast 1080p30
+[18:29:21] Starting work at: Fri Jan 29 18:29:21 2021
+
+[18:29:21] 1 job(s) to process
+[18:29:21] json job:
+{
+    "Audio": {
+        "AudioList": [],
+        "CopyMask": [],
+        "FallbackEncoder": 0
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 58,
+                    "Ticks": 5304060
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/nulven/ethwinter-2021-01-29_18.17.17.m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 12,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 914,
+                    "width": 1824
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "ethwinter-2021-01-29_18.17.17"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+        "Range": {
+            "End": 4950000,
+            "Start": 0,
+            "Type": "time"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 1,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[18:29:21] CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+[18:29:21]  - Intel microarchitecture Kaby Lake
+[18:29:21]  - logical processor count: 8
+[18:29:21] hb_scan: path=/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4/) failed
+[18:29:21] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread: Encrypted DVD support unavailable.
+************************************************
+**                                            **
+**  No css library available. See             **
+**  /usr/share/doc/libdvdread4/README.css     **
+**  for more information.                     **
+**                                            **
+************************************************
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[18:29:21] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.29.100
+  Duration: 00:00:58.93, start: 0.000000, bitrate: 101 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1824x914 [SAR 1:1 DAR 912:457], 98 kb/s, 30.02 fps, 30 tbr, 15360 tbn, 60 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[18:29:21] scan: decoding previews for title 1
+[18:29:21] scan: 10 previews, 1824x914, 30.017 fps, autocrop = 0/0/0/0, aspect 2.00:1, PAR 1:1
+[18:29:21] libhb: scan thread found 1 valid title(s)
+[18:29:22] Starting Task: Encoding Pass
+[18:29:22] Skipping crop/scale filter
+[18:29:22] job configuration:
+[18:29:22]  * source
+[18:29:22]    + /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+[18:29:22]    + title 1, start 00:00:0.00 stop 00:00:55.00
+[18:29:22]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[18:29:22]    + data rate: 101 kbps
+[18:29:22]  * destination
+[18:29:22]    + /home/nulven/ethwinter-2021-01-29_18.17.17.m4v
+[18:29:22]    + container: MPEG-4 (libavformat)
+[18:29:22]      + align initial A/V stream timestamps
+[18:29:22]  * video track
+[18:29:22]    + decoder: h264
+[18:29:22]      + bitrate 98 kbps
+[18:29:22]    + filters
+[18:29:22]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[18:29:22]      + Decomb (mode=39)
+[18:29:22]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[18:29:22]        + frame rate: 30.017 fps -> peak rate limited to 30.000 fps
+[18:29:22]    + Output geometry
+[18:29:22]      + storage dimensions: 1824 x 914
+[18:29:22]      + pixel aspect ratio: 1 : 1
+[18:29:22]      + display dimensions: 1824 x 914
+[18:29:22]    + encoder: H.264 (libx264)
+[18:29:22]      + preset:  fast
+[18:29:22]      + profile: main
+[18:29:22]      + level:   4.0
+[18:29:22]      + quality: 22.00 (RF)
+[18:29:22]      + color profile: 1-1-1
+[18:29:22] sync: expecting 1680 video frames
+[18:29:22] encx264: min-keyint: 30, keyint: 300
+[18:29:22] encx264: encoding at constant RF 22.000000
+[18:29:22] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[18:29:22] sync: first pts video is 0
+[18:29:22] sync: Chapter 1 at frame 1 time 0
+[18:29:40] sync: reached video pts 4950000, exiting early
+[18:29:41] reader: done. 1 scr changes
+[18:29:41] work: average encoding speed for job is 87.586395 fps
+[18:29:41] comb detect: heavy 1 | light 4 | uncombed 1645 | total 1650
+[18:29:41] decomb: deinterlaced 1 | blended 4 | unfiltered 1645 | total 1650
+[18:29:41] vfr: 1650 frames output, 0 dropped and 0 duped for CFR/PFR
+[18:29:41] vfr: lost time: 0 (0 frames)
+[18:29:41] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[18:29:41] h264-decoder done: 1769 frames, 0 decoder errors
+[18:29:41] sync: got 1650 frames, 1680 expected
+[18:29:41] sync: framerate min 30.000 fps, max 30.017 fps, avg 30.006 fps
+x264 [info]: frame I:6     Avg QP: 7.35  size: 11761
+x264 [info]: frame P:427   Avg QP:16.13  size:   565
+x264 [info]: frame B:1217  Avg QP:18.43  size:    88
+x264 [info]: consecutive B-frames:  1.2%  0.7%  2.4% 95.8%
+x264 [info]: mb I  I16..4: 97.6%  0.0%  2.4%
+x264 [info]: mb P  I16..4:  0.9%  0.0%  0.1%  P16..4:  0.2%  0.0%  0.0%  0.0%  0.0%    skip:98.8%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.2%  0.0%  0.0%  direct: 0.0%  skip:99.7%  L0:45.6% L1:52.9% BI: 1.5%
+x264 [info]: coded y,uvDC,uvAC intra: 3.7% 3.7% 3.4% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 73% 26%  1%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 30% 25%  2%  4%  4%  4%  2%  4%
+x264 [info]: i8c dc,h,v,p: 95%  3%  2%  0%
+x264 [info]: Weighted P-Frames: Y:0.2% UV:0.0%
+x264 [info]: ref P L0: 78.6% 21.4%
+x264 [info]: ref B L0: 86.8% 13.2%
+x264 [info]: ref B L1: 97.0%  3.0%
+x264 [info]: kb/s:60.93
+[18:29:41] mux: track 0, 1650 frames, 418646 bytes, 60.86 kbps, fifo 2048
+[18:29:41] Finished work at: Fri Jan 29 18:29:41 2021
+
+[18:29:41] libhb: work result = 0
+[18:30:02] gtkgui: Preset: /General/Fast 1080p30
+[18:30:02] Starting work at: Fri Jan 29 18:30:02 2021
+
+[18:30:02] 1 job(s) to process
+[18:30:02] json job:
+{
+    "Audio": {
+        "AudioList": [],
+        "CopyMask": [],
+        "FallbackEncoder": 0
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 58,
+                    "Ticks": 5304060
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/nulven/ethwinter-2021-01-29_18.17.17.m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 12,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 914,
+                    "width": 1824
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "ethwinter-2021-01-29_18.17.17"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+        "Range": {
+            "End": 4950000,
+            "Start": 0,
+            "Type": "time"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 1,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[18:30:02] CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+[18:30:02]  - Intel microarchitecture Kaby Lake
+[18:30:02]  - logical processor count: 8
+[18:30:02] hb_scan: path=/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4/) failed
+[18:30:02] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread: Encrypted DVD support unavailable.
+************************************************
+**                                            **
+**  No css library available. See             **
+**  /usr/share/doc/libdvdread4/README.css     **
+**  for more information.                     **
+**                                            **
+************************************************
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[18:30:02] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.29.100
+  Duration: 00:00:58.93, start: 0.000000, bitrate: 101 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1824x914 [SAR 1:1 DAR 912:457], 98 kb/s, 30.02 fps, 30 tbr, 15360 tbn, 60 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[18:30:02] scan: decoding previews for title 1
+[18:30:02] scan: 10 previews, 1824x914, 30.017 fps, autocrop = 0/0/0/0, aspect 2.00:1, PAR 1:1
+[18:30:02] libhb: scan thread found 1 valid title(s)
+[18:30:02] Starting Task: Encoding Pass
+[18:30:02] Skipping crop/scale filter
+[18:30:02] job configuration:
+[18:30:02]  * source
+[18:30:02]    + /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+[18:30:02]    + title 1, start 00:00:0.00 stop 00:00:55.00
+[18:30:02]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[18:30:02]    + data rate: 101 kbps
+[18:30:02]  * destination
+[18:30:02]    + /home/nulven/ethwinter-2021-01-29_18.17.17.m4v
+[18:30:02]    + container: MPEG-4 (libavformat)
+[18:30:02]      + align initial A/V stream timestamps
+[18:30:02]  * video track
+[18:30:02]    + decoder: h264
+[18:30:02]      + bitrate 98 kbps
+[18:30:02]    + filters
+[18:30:02]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[18:30:02]      + Decomb (mode=39)
+[18:30:02]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[18:30:02]        + frame rate: 30.017 fps -> peak rate limited to 30.000 fps
+[18:30:02]    + Output geometry
+[18:30:02]      + storage dimensions: 1824 x 914
+[18:30:02]      + pixel aspect ratio: 1 : 1
+[18:30:02]      + display dimensions: 1824 x 914
+[18:30:02]    + encoder: H.264 (libx264)
+[18:30:02]      + preset:  fast
+[18:30:02]      + profile: main
+[18:30:02]      + level:   4.0
+[18:30:02]      + quality: 22.00 (RF)
+[18:30:02]      + color profile: 1-1-1
+[18:30:02] sync: expecting 1680 video frames
+[18:30:02] encx264: min-keyint: 30, keyint: 300
+[18:30:02] encx264: encoding at constant RF 22.000000
+[18:30:02] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[18:30:02] sync: first pts video is 0
+[18:30:02] sync: Chapter 1 at frame 1 time 0
+[18:30:12] work: average encoding speed for job is 84.642418 fps
+[18:30:12] comb detect: heavy 1 | light 4 | uncombed 830 | total 835
+[18:30:13] decomb: deinterlaced 1 | blended 4 | unfiltered 825 | total 830
+[18:30:13] vfr: 818 frames output, 0 dropped and 0 duped for CFR/PFR
+[18:30:13] vfr: lost time: 0 (0 frames)
+[18:30:13] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[18:30:13] h264-decoder done: 887 frames, 0 decoder errors
+[18:30:13] sync: got 850 frames, 1680 expected
+[18:30:13] sync: framerate min 30.000 fps, max 30.017 fps, avg 30.012 fps
+x264 [info]: frame I:3     Avg QP: 8.54  size: 17692
+x264 [info]: frame P:202   Avg QP:16.96  size:   768
+x264 [info]: frame B:567   Avg QP:17.82  size:    91
+x264 [info]: consecutive B-frames:  1.3%  1.3%  2.3% 95.1%
+x264 [info]: mb I  I16..4: 96.4%  0.0%  3.6%
+x264 [info]: mb P  I16..4:  1.6%  0.0%  0.2%  P16..4:  0.2%  0.0%  0.0%  0.0%  0.0%    skip:98.0%
+x264 [info]: mb B  I16..4:  0.1%  0.0%  0.0%  B16..8:  0.3%  0.0%  0.0%  direct: 0.0%  skip:99.7%  L0:43.0% L1:54.9% BI: 2.1%
+x264 [info]: coded y,uvDC,uvAC intra: 4.3% 3.7% 3.3% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 65% 34%  1%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 34% 23%  2%  3%  3%  4%  2%  4%
+x264 [info]: i8c dc,h,v,p: 94%  4%  2%  0%
+x264 [info]: Weighted P-Frames: Y:0.5% UV:0.0%
+x264 [info]: ref P L0: 81.0% 19.0%
+x264 [info]: ref B L0: 92.6%  7.4%
+x264 [info]: ref B L1: 97.7%  2.3%
+x264 [info]: kb/s:80.74
+[18:30:13] mux: track 0, 772 frames, 259583 bytes, 80.39 kbps, fifo 1024
+[18:30:13] Finished work at: Fri Jan 29 18:30:13 2021
+
+[18:30:13] libhb: work result = 1
+[18:30:20] gtkgui: Preset: /General/Fast 1080p30
+[18:30:20] Starting work at: Fri Jan 29 18:30:20 2021
+
+[18:30:20] 1 job(s) to process
+[18:30:20] json job:
+{
+    "Audio": {
+        "AudioList": [],
+        "CopyMask": [],
+        "FallbackEncoder": 0
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 58,
+                    "Ticks": 5304060
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/nulven/ethwinter-2021-01-29_18.17.17.m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 12,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 914,
+                    "width": 1824
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "ethwinter-2021-01-29_18.17.17"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+        "Range": {
+            "End": 4950000,
+            "Start": 0,
+            "Type": "time"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 1,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[18:30:20] CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+[18:30:20]  - Intel microarchitecture Kaby Lake
+[18:30:20]  - logical processor count: 8
+[18:30:20] hb_scan: path=/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4/) failed
+[18:30:20] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread: Encrypted DVD support unavailable.
+************************************************
+**                                            **
+**  No css library available. See             **
+**  /usr/share/doc/libdvdread4/README.css     **
+**  for more information.                     **
+**                                            **
+************************************************
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[18:30:20] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.29.100
+  Duration: 00:00:58.93, start: 0.000000, bitrate: 101 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1824x914 [SAR 1:1 DAR 912:457], 98 kb/s, 30.02 fps, 30 tbr, 15360 tbn, 60 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[18:30:20] scan: decoding previews for title 1
+[18:30:20] scan: 10 previews, 1824x914, 30.017 fps, autocrop = 0/0/0/0, aspect 2.00:1, PAR 1:1
+[18:30:20] libhb: scan thread found 1 valid title(s)
+[18:30:20] Starting Task: Encoding Pass
+[18:30:20] Skipping crop/scale filter
+[18:30:20] job configuration:
+[18:30:20]  * source
+[18:30:20]    + /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+[18:30:20]    + title 1, start 00:00:0.00 stop 00:00:55.00
+[18:30:20]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[18:30:20]    + data rate: 101 kbps
+[18:30:20]  * destination
+[18:30:20]    + /home/nulven/ethwinter-2021-01-29_18.17.17.m4v
+[18:30:20]    + container: MPEG-4 (libavformat)
+[18:30:20]      + align initial A/V stream timestamps
+[18:30:20]  * video track
+[18:30:20]    + decoder: h264
+[18:30:20]      + bitrate 98 kbps
+[18:30:20]    + filters
+[18:30:20]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[18:30:20]      + Decomb (mode=39)
+[18:30:20]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[18:30:20]        + frame rate: 30.017 fps -> peak rate limited to 30.000 fps
+[18:30:20]    + Output geometry
+[18:30:20]      + storage dimensions: 1824 x 914
+[18:30:20]      + pixel aspect ratio: 1 : 1
+[18:30:20]      + display dimensions: 1824 x 914
+[18:30:20]    + encoder: H.264 (libx264)
+[18:30:20]      + preset:  fast
+[18:30:20]      + profile: main
+[18:30:20]      + level:   4.0
+[18:30:20]      + quality: 22.00 (RF)
+[18:30:20]      + color profile: 1-1-1
+[18:30:20] sync: expecting 1680 video frames
+[18:30:20] encx264: min-keyint: 30, keyint: 300
+[18:30:20] encx264: encoding at constant RF 22.000000
+[18:30:20] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[18:30:20] sync: first pts video is 0
+[18:30:20] sync: Chapter 1 at frame 1 time 0
+[18:30:39] sync: reached video pts 4950000, exiting early
+[18:30:39] reader: done. 1 scr changes
+[18:30:40] work: average encoding speed for job is 85.464752 fps
+[18:30:40] comb detect: heavy 1 | light 4 | uncombed 1645 | total 1650
+[18:30:40] decomb: deinterlaced 1 | blended 4 | unfiltered 1645 | total 1650
+[18:30:40] vfr: 1650 frames output, 0 dropped and 0 duped for CFR/PFR
+[18:30:40] vfr: lost time: 0 (0 frames)
+[18:30:40] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[18:30:40] h264-decoder done: 1769 frames, 0 decoder errors
+[18:30:40] sync: got 1650 frames, 1680 expected
+[18:30:40] sync: framerate min 30.000 fps, max 30.017 fps, avg 30.006 fps
+x264 [info]: frame I:6     Avg QP: 7.35  size: 11761
+x264 [info]: frame P:427   Avg QP:16.13  size:   565
+x264 [info]: frame B:1217  Avg QP:18.43  size:    88
+x264 [info]: consecutive B-frames:  1.2%  0.7%  2.4% 95.8%
+x264 [info]: mb I  I16..4: 97.6%  0.0%  2.4%
+x264 [info]: mb P  I16..4:  0.9%  0.0%  0.1%  P16..4:  0.2%  0.0%  0.0%  0.0%  0.0%    skip:98.8%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.2%  0.0%  0.0%  direct: 0.0%  skip:99.7%  L0:45.6% L1:52.9% BI: 1.5%
+x264 [info]: coded y,uvDC,uvAC intra: 3.7% 3.7% 3.4% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 73% 26%  1%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 30% 25%  2%  4%  4%  4%  2%  4%
+x264 [info]: i8c dc,h,v,p: 95%  3%  2%  0%
+x264 [info]: Weighted P-Frames: Y:0.2% UV:0.0%
+x264 [info]: ref P L0: 78.6% 21.4%
+x264 [info]: ref B L0: 86.8% 13.2%
+x264 [info]: ref B L1: 97.0%  3.0%
+x264 [info]: kb/s:60.93
+[18:30:40] mux: track 0, 1650 frames, 418646 bytes, 60.86 kbps, fifo 2048
+[18:30:40] Finished work at: Fri Jan 29 18:30:40 2021
+
+[18:30:40] libhb: work result = 0
+[18:32:10] gtkgui: Preset: /General/Fast 1080p30
+[18:32:10] Starting work at: Fri Jan 29 18:32:10 2021
+
+[18:32:10] 1 job(s) to process
+[18:32:10] json job:
+{
+    "Audio": {
+        "AudioList": [],
+        "CopyMask": [],
+        "FallbackEncoder": 0
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 58,
+                    "Ticks": 5304060
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/nulven/ethwinter.m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 12,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 914,
+                    "width": 1824
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "ethwinter-2021-01-29_18.17.17"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+        "Range": {
+            "End": 4950000,
+            "Start": 0,
+            "Type": "time"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 1,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[18:32:10] CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+[18:32:10]  - Intel microarchitecture Kaby Lake
+[18:32:10]  - logical processor count: 8
+[18:32:10] hb_scan: path=/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4/) failed
+[18:32:10] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread: Encrypted DVD support unavailable.
+************************************************
+**                                            **
+**  No css library available. See             **
+**  /usr/share/doc/libdvdread4/README.css     **
+**  for more information.                     **
+**                                            **
+************************************************
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[18:32:10] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.29.100
+  Duration: 00:00:58.93, start: 0.000000, bitrate: 101 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1824x914 [SAR 1:1 DAR 912:457], 98 kb/s, 30.02 fps, 30 tbr, 15360 tbn, 60 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[18:32:10] scan: decoding previews for title 1
+[18:32:11] scan: 10 previews, 1824x914, 30.017 fps, autocrop = 0/0/0/0, aspect 2.00:1, PAR 1:1
+[18:32:11] libhb: scan thread found 1 valid title(s)
+[18:32:11] Starting Task: Encoding Pass
+[18:32:11] Skipping crop/scale filter
+[18:32:11] job configuration:
+[18:32:11]  * source
+[18:32:11]    + /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+[18:32:11]    + title 1, start 00:00:0.00 stop 00:00:55.00
+[18:32:11]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[18:32:11]    + data rate: 101 kbps
+[18:32:11]  * destination
+[18:32:11]    + /home/nulven/ethwinter.m4v
+[18:32:11]    + container: MPEG-4 (libavformat)
+[18:32:11]      + align initial A/V stream timestamps
+[18:32:11]  * video track
+[18:32:11]    + decoder: h264
+[18:32:11]      + bitrate 98 kbps
+[18:32:11]    + filters
+[18:32:11]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[18:32:11]      + Decomb (mode=39)
+[18:32:11]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[18:32:11]        + frame rate: 30.017 fps -> peak rate limited to 30.000 fps
+[18:32:11]    + Output geometry
+[18:32:11]      + storage dimensions: 1824 x 914
+[18:32:11]      + pixel aspect ratio: 1 : 1
+[18:32:11]      + display dimensions: 1824 x 914
+[18:32:11]    + encoder: H.264 (libx264)
+[18:32:11]      + preset:  fast
+[18:32:11]      + profile: main
+[18:32:11]      + level:   4.0
+[18:32:11]      + quality: 22.00 (RF)
+[18:32:11]      + color profile: 1-1-1
+[18:32:11] sync: expecting 1680 video frames
+[18:32:11] encx264: min-keyint: 30, keyint: 300
+[18:32:11] encx264: encoding at constant RF 22.000000
+[18:32:11] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[18:32:11] sync: first pts video is 0
+[18:32:11] sync: Chapter 1 at frame 1 time 0
+[18:32:37] sync: reached video pts 4950000, exiting early
+[18:32:37] reader: done. 1 scr changes
+[18:32:37] work: average encoding speed for job is 63.613132 fps
+[18:32:37] comb detect: heavy 1 | light 4 | uncombed 1645 | total 1650
+[18:32:37] decomb: deinterlaced 1 | blended 4 | unfiltered 1645 | total 1650
+[18:32:37] vfr: 1650 frames output, 0 dropped and 0 duped for CFR/PFR
+[18:32:37] vfr: lost time: 0 (0 frames)
+[18:32:37] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[18:32:37] h264-decoder done: 1769 frames, 0 decoder errors
+[18:32:37] sync: got 1650 frames, 1680 expected
+[18:32:37] sync: framerate min 30.000 fps, max 30.017 fps, avg 30.006 fps
+x264 [info]: frame I:6     Avg QP: 7.35  size: 11761
+x264 [info]: frame P:427   Avg QP:16.13  size:   565
+x264 [info]: frame B:1217  Avg QP:18.43  size:    88
+x264 [info]: consecutive B-frames:  1.2%  0.7%  2.4% 95.8%
+x264 [info]: mb I  I16..4: 97.6%  0.0%  2.4%
+x264 [info]: mb P  I16..4:  0.9%  0.0%  0.1%  P16..4:  0.2%  0.0%  0.0%  0.0%  0.0%    skip:98.8%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.2%  0.0%  0.0%  direct: 0.0%  skip:99.7%  L0:45.6% L1:52.9% BI: 1.5%
+x264 [info]: coded y,uvDC,uvAC intra: 3.7% 3.7% 3.4% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 73% 26%  1%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 30% 25%  2%  4%  4%  4%  2%  4%
+x264 [info]: i8c dc,h,v,p: 95%  3%  2%  0%
+x264 [info]: Weighted P-Frames: Y:0.2% UV:0.0%
+x264 [info]: ref P L0: 78.6% 21.4%
+x264 [info]: ref B L0: 86.8% 13.2%
+x264 [info]: ref B L1: 97.0%  3.0%
+x264 [info]: kb/s:60.93
+[18:32:37] mux: track 0, 1650 frames, 418646 bytes, 60.86 kbps, fifo 2048
+[18:32:37] Finished work at: Fri Jan 29 18:32:37 2021
+
+[18:32:38] libhb: work result = 0
+[18:32:42] gtkgui: Preset: /General/Fast 1080p30
+[18:32:42] Starting work at: Fri Jan 29 18:32:42 2021
+
+[18:32:42] 1 job(s) to process
+[18:32:42] json job:
+{
+    "Audio": {
+        "AudioList": [],
+        "CopyMask": [],
+        "FallbackEncoder": 0
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 58,
+                    "Ticks": 5304060
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/nulven/ethwinter.m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 12,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 914,
+                    "width": 1824
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "ethwinter-2021-01-29_18.17.17"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4",
+        "Range": {
+            "End": 4950000,
+            "Start": 270000,
+            "Type": "time"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 1,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[18:32:42] CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+[18:32:42]  - Intel microarchitecture Kaby Lake
+[18:32:42]  - logical processor count: 8
+[18:32:42] hb_scan: path=/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4/) failed
+[18:32:42] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread: Encrypted DVD support unavailable.
+************************************************
+**                                            **
+**  No css library available. See             **
+**  /usr/share/doc/libdvdread4/README.css     **
+**  for more information.                     **
+**                                            **
+************************************************
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[18:32:42] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.29.100
+  Duration: 00:00:58.93, start: 0.000000, bitrate: 101 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1824x914 [SAR 1:1 DAR 912:457], 98 kb/s, 30.02 fps, 30 tbr, 15360 tbn, 60 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+[18:32:42] scan: decoding previews for title 1
+[18:32:42] scan: 10 previews, 1824x914, 30.017 fps, autocrop = 0/0/0/0, aspect 2.00:1, PAR 1:1
+[18:32:42] libhb: scan thread found 1 valid title(s)
+[18:32:42] Starting Task: Encoding Pass
+[18:32:42] Skipping crop/scale filter
+[18:32:42] job configuration:
+[18:32:42]  * source
+[18:32:42]    + /home/nulven/Documents/ethwinter-2021-01-29_18.17.17.mp4
+[18:32:42]    + title 1, start 00:00:3.00 stop 00:00:55.00
+[18:32:42]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[18:32:42]    + data rate: 101 kbps
+[18:32:42]  * destination
+[18:32:42]    + /home/nulven/ethwinter.m4v
+[18:32:42]    + container: MPEG-4 (libavformat)
+[18:32:42]      + align initial A/V stream timestamps
+[18:32:42]  * video track
+[18:32:42]    + decoder: h264
+[18:32:42]      + bitrate 98 kbps
+[18:32:42]    + filters
+[18:32:42]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[18:32:42]      + Decomb (mode=39)
+[18:32:42]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[18:32:42]        + frame rate: 30.017 fps -> peak rate limited to 30.000 fps
+[18:32:42]    + Output geometry
+[18:32:42]      + storage dimensions: 1824 x 914
+[18:32:42]      + pixel aspect ratio: 1 : 1
+[18:32:42]      + display dimensions: 1824 x 914
+[18:32:42]    + encoder: H.264 (libx264)
+[18:32:42]      + preset:  fast
+[18:32:42]      + profile: main
+[18:32:42]      + level:   4.0
+[18:32:42]      + quality: 22.00 (RF)
+[18:32:42]      + color profile: 1-1-1
+[18:32:42] sync: expecting 1590 video frames
+[18:32:42] encx264: min-keyint: 30, keyint: 300
+[18:32:42] encx264: encoding at constant RF 22.000000
+[18:32:42] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[18:32:43] sync: first pts video is 0
+[18:33:07] sync: reached video pts 4680182, exiting early
+[18:33:07] reader: done. 1 scr changes
+[18:33:08] work: average encoding speed for job is 63.594234 fps
+[18:33:08] comb detect: heavy 0 | light 1 | uncombed 1559 | total 1560
+[18:33:08] decomb: deinterlaced 0 | blended 1 | unfiltered 1559 | total 1560
+[18:33:08] vfr: 1560 frames output, 0 dropped and 0 duped for CFR/PFR
+[18:33:08] vfr: lost time: 0 (0 frames)
+[18:33:08] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[18:33:08] h264-decoder done: 1769 frames, 0 decoder errors
+[18:33:08] sync: got 1560 frames, 1590 expected
+[18:33:08] sync: framerate min 30.000 fps, max 30.017 fps, avg 30.005 fps
+x264 [info]: frame I:6     Avg QP: 7.08  size:  6377
+x264 [info]: frame P:402   Avg QP:16.17  size:   401
+x264 [info]: frame B:1152  Avg QP:18.09  size:    84
+x264 [info]: consecutive B-frames:  0.9%  1.0%  2.7% 95.4%
+x264 [info]: mb I  I16..4: 98.5%  0.0%  1.5%
+x264 [info]: mb P  I16..4:  0.5%  0.0%  0.1%  P16..4:  0.1%  0.0%  0.0%  0.0%  0.0%    skip:99.3%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.2%  0.0%  0.0%  direct: 0.0%  skip:99.8%  L0:49.7% L1:49.7% BI: 0.6%
+x264 [info]: coded y,uvDC,uvAC intra: 2.6% 3.2% 2.9% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 82% 17%  1%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 21% 27% 31%  3%  4%  4%  4%  3%  4%
+x264 [info]: i8c dc,h,v,p: 95%  3%  1%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 73.1% 26.9%
+x264 [info]: ref B L0: 89.4% 10.6%
+x264 [info]: ref B L1: 98.1%  1.9%
+x264 [info]: kb/s:45.59
+[18:33:08] mux: track 0, 1560 frames, 296110 bytes, 45.53 kbps, fifo 2048
+[18:33:08] Finished work at: Fri Jan 29 18:33:08 2021
+
+[18:33:08] libhb: work result = 0

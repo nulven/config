@@ -1,0 +1,5 @@
+2020/05/25-14:36:36.065 1123 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_nodejs.dev_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/25-14:37:09.785 dac Level-0 table #5: started
+2020/05/25-14:37:09.790 dac Level-0 table #5: 1662 bytes OK
+2020/05/25-14:37:09.796 dac Delete type=0 #3
+2020/05/25-14:37:09.796 dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

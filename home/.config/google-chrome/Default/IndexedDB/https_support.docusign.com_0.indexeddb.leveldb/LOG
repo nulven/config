@@ -1,0 +1,9 @@
+2020/04/11-22:07:48.245 13ca Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_support.docusign.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/11-22:07:48.246 13ca Recovering log #13
+2020/04/11-22:07:48.249 13ca Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_support.docusign.com_0.indexeddb.leveldb/000013.log 
+2020/04/11-22:07:48.249 13ca Delete type=2 #15
+2020/04/11-22:07:48.359 1259 Compacting 1@1 + 1@2 files
+2020/04/11-22:07:48.401 1259 Generated table #16@1: 2550 keys, 2133928 bytes
+2020/04/11-22:07:48.423 1259 Generated table #17@1: 2255 keys, 824338 bytes
+2020/04/11-22:07:48.423 1259 Compacted 1@1 + 1@2 files => 2958266 bytes
+2020/04/11-22:07:48.428 1259 compacted to: files[ 0 0 2 0 0 0 0 ]

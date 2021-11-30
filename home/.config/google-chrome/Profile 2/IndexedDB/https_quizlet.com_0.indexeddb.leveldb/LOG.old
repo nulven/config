@@ -1,0 +1,6 @@
+2021/11/04-18:19:48.306 12c28e Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_quizlet.com_0.indexeddb.leveldb since it was missing.
+2021/11/04-18:19:48.321 12c28e Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/04-18:19:50.692 12c28e Level-0 table #5: started
+2021/11/04-18:19:50.697 12c28e Level-0 table #5: 1559 bytes OK
+2021/11/04-18:19:50.702 12c28e Delete type=0 #3
+2021/11/04-18:19:50.702 12c28e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2020/06/19-00:29:10.875 369d Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_7e056b84e77eafdbee4f31a632899dab.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/19-00:29:10.875 369d Recovering log #10
+2020/06/19-00:29:10.875 369d Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_7e056b84e77eafdbee4f31a632899dab.safeframe.googlesyndication.com_0.indexeddb.leveldb/000010.log 
+2020/06/19-00:29:15.017 16cc Level-0 table #14: started
+2020/06/19-00:29:15.017 16cc Level-0 table #14: 0 bytes OK
+2020/06/19-00:29:15.024 16cc Delete type=0 #10
+2020/06/19-00:29:15.024 16cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/19-00:29:15.025 16cc Manual compaction at level-1 from (begin) .. (end); will stop at (end)

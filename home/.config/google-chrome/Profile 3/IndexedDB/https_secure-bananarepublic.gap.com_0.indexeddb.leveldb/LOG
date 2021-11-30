@@ -1,0 +1,5 @@
+2020/07/06-15:51:38.468 7742 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_secure-bananarepublic.gap.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/06-15:52:25.388 24c2 Level-0 table #5: started
+2020/07/06-15:52:25.396 24c2 Level-0 table #5: 3518 bytes OK
+2020/07/06-15:52:25.404 24c2 Delete type=0 #3
+2020/07/06-15:52:25.405 24c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

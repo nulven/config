@@ -1,0 +1,15 @@
+2021/11/18-15:01:21.700 4c76f Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/18-15:01:21.700 4c76f Recovering log #27
+2021/11/18-15:01:21.700 4c76f Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000027.log 
+2021/11/18-15:01:33.516 4a863 Level-0 table #32: started
+2021/11/18-15:01:33.520 4a863 Level-0 table #32: 190 bytes OK
+2021/11/18-15:01:33.524 4a863 Delete type=0 #27
+2021/11/18-15:01:33.525 4a863 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/18-15:01:33.525 4a863 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 208 : 1
+2021/11/18-15:01:33.525 4a863 Compacting 1@1 + 1@2 files
+2021/11/18-15:01:33.529 4a863 Generated table #33@1: 67 keys, 1144 bytes
+2021/11/18-15:01:33.529 4a863 Compacted 1@1 + 1@2 files => 1144 bytes
+2021/11/18-15:01:33.533 4a863 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/18-15:01:33.533 4a863 Delete type=2 #29
+2021/11/18-15:01:33.533 4a863 Delete type=2 #32
+2021/11/18-15:01:33.534 4a863 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 208 : 1 .. (end); will stop at (end)

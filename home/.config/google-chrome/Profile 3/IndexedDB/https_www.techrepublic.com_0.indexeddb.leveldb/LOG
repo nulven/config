@@ -1,0 +1,5 @@
+2020/07/30-08:47:24.143 4f53 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.techrepublic.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/30-08:47:44.450 2792 Level-0 table #5: started
+2020/07/30-08:47:44.454 2792 Level-0 table #5: 371 bytes OK
+2020/07/30-08:47:44.462 2792 Delete type=0 #3
+2020/07/30-08:47:44.462 2792 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

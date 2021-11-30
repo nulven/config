@@ -1,0 +1,15 @@
+2020/05/31-11:03:57.728 6158 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.freecodecamp.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/31-11:03:57.728 6158 Recovering log #19
+2020/05/31-11:03:57.728 6158 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.freecodecamp.org_0.indexeddb.leveldb/000019.log 
+2020/05/31-11:04:31.409 dac Level-0 table #24: started
+2020/05/31-11:04:31.419 dac Level-0 table #24: 1096 bytes OK
+2020/05/31-11:04:31.423 dac Delete type=0 #19
+2020/05/31-11:04:31.423 dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/31-11:04:31.423 dac Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xd0a,\xb4&wB\x00\x01B\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00f\x00r\x00e\x00e\x00c\x00o\x00d\x00e\x00c\x00a\x00m\x00p\x00.\x00o\x00r\x00g\x00/\x00f\x00o\x00r\x00u\x00m\x00/\x00w\x00h\x00o\x00s\x00o\x00n\x00l\x00i\x00n\x00e\x00/\x00g\x00e\x00t\x00.\x00j\x00s\x00o\x00n' @ 1342 : 1
+2020/05/31-11:04:31.423 dac Compacting 1@1 + 1@2 files
+2020/05/31-11:04:31.428 dac Generated table #25@1: 290 keys, 41658 bytes
+2020/05/31-11:04:31.428 dac Compacted 1@1 + 1@2 files => 41658 bytes
+2020/05/31-11:04:31.432 dac compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/31-11:04:31.433 dac Delete type=2 #21
+2020/05/31-11:04:31.433 dac Delete type=2 #24
+2020/05/31-11:04:31.433 dac Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xd0a,\xb4&wB\x00\x01B\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00f\x00r\x00e\x00e\x00c\x00o\x00d\x00e\x00c\x00a\x00m\x00p\x00.\x00o\x00r\x00g\x00/\x00f\x00o\x00r\x00u\x00m\x00/\x00w\x00h\x00o\x00s\x00o\x00n\x00l\x00i\x00n\x00e\x00/\x00g\x00e\x00t\x00.\x00j\x00s\x00o\x00n' @ 1342 : 1 .. (end); will stop at (end)

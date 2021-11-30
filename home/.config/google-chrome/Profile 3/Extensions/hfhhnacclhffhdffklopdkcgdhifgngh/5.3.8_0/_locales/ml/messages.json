@@ -1,0 +1,206 @@
+{
+   "ariaGrid3x3": {
+      "description": "Label for spoken feedback to read out grid-type: 3x3.",
+      "message": "3 ബൈ 3"
+   },
+   "ariaGrid4x4": {
+      "description": "Label for spoken feedback to read out grid-type: 4x4.",
+      "message": "4 ബൈ 4"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "തിരികെ പോവുക"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "ഇല്ലാതാക്കുക"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a selected item from the gallery. Expects a file name to be passed in.",
+      "message": "നിങ്ങൾക്ക് ശരിക്കും $file$ നീക്കം ചെയ്യണോ?",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg."
+         }
+      }
+   },
+   "deleteMultiConfirmationMsg": {
+      "description": "Confirmation message before removing multiple selected items from the gallery. Expects a file count to be passed in.",
+      "message": "നിങ്ങൾക്ക് ശരിക്കും $count$ ഇനങ്ങൾ നീക്കം ചെയ്യണോ?",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "20."
+         }
+      }
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "നിങ്ങളുടെ ക്യാമറ ഉപയോഗിച്ച് ചിത്രങ്ങൾ എടുക്കുക, വീഡിയോകൾ റെക്കോർഡ് ചെയ്യുക."
+   },
+   "dialogCancelButton": {
+      "description": "Label for the dismissing button in the dialog.",
+      "message": "റദ്ദാക്കുക"
+   },
+   "dialogOKButton": {
+      "description": "Label for the accepting button in the dialog.",
+      "message": "ശരി"
+   },
+   "errorMsgEmptyRecording": {
+      "description": "Error message shown when no data is recorded for a recording and it won't be added to the gallery.",
+      "message": "ഒന്നും റെക്കോർഡ് ചെയ്‌തില്ല"
+   },
+   "errorMsgFileSystemFailed": {
+      "description": "Error message shown when failing to read or write the file system.",
+      "message": "ഫയൽ സിസ്‌റ്റം പിശകുകൾ."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when exporting to an external directory failed. Expects a file name to be passed in.",
+      "message": "$file$ എക്‌സ്‌പോർട്ട് ചെയ്യാനായില്ല",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg"
+         }
+      }
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability.",
+      "message": "ക്യാമറ നിലവിൽ ലഭ്യമല്ല.\nക്യാമറ ശരിയായി കണക്റ്റ് ചെയ്‌തിട്ടുണ്ടോ എന്ന് പരിശോധിക്കുക."
+   },
+   "errorMsgRecordStartFailed": {
+      "description": "Error message shown when failing to start recording video.",
+      "message": "റെക്കോർഡിംഗ് ആരംഭിക്കാനായില്ല"
+   },
+   "errorMsgSaveFileFailed": {
+      "description": "Error message shown when saving/adding a image or video to the file system failed.",
+      "message": "ഫയൽ സംരക്ഷിക്കാനായില്ല"
+   },
+   "errorMsgTakePhotoFailed": {
+      "description": "Error message shown when failing to take photo.",
+      "message": "ഫോട്ടോ എടുക്കാനായില്ല"
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "ഡിസ്‌ക്കിലേക്ക് എക്‌സ്‌പോർട്ട് ചെയ്യുക"
+   },
+   "feedbackButton": {
+      "description": "Label for the feedback button.",
+      "message": "ഫീഡ്‍ബാക്ക് അയയ്ക്കുക"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "ഗാലറിയിലേക്ക് പോവുക"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "ഗാലറി ചിത്രങ്ങൾ"
+   },
+   "gridTypeButton": {
+      "description": "Label for the button of grid-type options.",
+      "message": "ഗ്രിഡ് തരം"
+   },
+   "helpButton": {
+      "description": "Label for the help button.",
+      "message": "സഹായം"
+   },
+   "labelGrid3x3": {
+      "description": "Label for for grid-type: 3x3.",
+      "message": "3 x 3"
+   },
+   "labelGrid4x4": {
+      "description": "Label for for grid-type: 4x4.",
+      "message": "4 x 4"
+   },
+   "labelGridGolden": {
+      "description": "Label for grid-type: golden ratio.",
+      "message": "ഗോൾഡൻ റേഷ്യോ"
+   },
+   "labelTimer10s": {
+      "description": "Label for timer-duration: 10 seconds.",
+      "message": "10 സെക്കൻഡ്"
+   },
+   "labelTimer3s": {
+      "description": "Label for timer-duration: 3 seconds.",
+      "message": "3 സെക്കൻഡ്"
+   },
+   "migratePicturesMsg": {
+      "description": "Message shown before moving all photos and videos stored in the Camera App to the Downloads folder.",
+      "message": "ക്യാമറ ഉപയോഗിച്ചെടുത്ത ഫോട്ടോകളും വീഡിയോകളും 'ഡൗൺലോഡുകൾ' ഫോൾഡറിലേക്ക് നീക്കും. നിങ്ങൾക്ക് അവ ഫയലുകളിൽ ആക്‌സസ് ചെയ്യാനാവും.\n\nസ്‌റ്റോറേജ് അനുമതികളുള്ള ആപ്പുകൾക്ക് നിങ്ങളുടെ ഫോട്ടോകളിലേക്കും വീഡിയോകളിലേക്കും ആക്‌സസ് ഉണ്ടായിരിക്കും."
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "ക്യാമറ"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "പ്രിന്‍റ് ചെയ്യുക"
+   },
+   "recordVideoStartButton": {
+      "description": "Label for the shutter button to start recording.",
+      "message": "റെക്കോര്‍ഡിംഗ് ആരംഭിക്കുക"
+   },
+   "recordVideoStopButton": {
+      "description": "Label for the shutter button to stop recording.",
+      "message": "റെക്കോർഡിംഗ് നിർത്തുക"
+   },
+   "settingsButton": {
+      "description": "Label for the settings button.",
+      "message": "ക്രമീകരണം"
+   },
+   "statusMsgCameraSwitched": {
+      "description": "Status message for spoken feedback when switching over to another camera.",
+      "message": "$camera$ സജീവമാണ്",
+      "placeholders": {
+         "camera": {
+            "content": "$1",
+            "example": "USB WebCam (12ab:5678) User-facing"
+         }
+      }
+   },
+   "statusMsgRecordingStopped": {
+      "description": "Status message for spoken feedback when video recording has been stopped.",
+      "message": "റെക്കോർഡ് ചെയ്യൽ നിർത്തി"
+   },
+   "switchCameraButton": {
+      "description": "Label for the button to switch to next connected camera. Eg. switching from front facing to back facing, or a camera connected via USB. The button is shown only when more than one camera is connected.",
+      "message": "അടുത്ത ക്യാമറയിലേക്ക് മാറുക"
+   },
+   "switchRecordVideoButton": {
+      "description": "Label for the button to switch to record video mode.",
+      "message": "വീഡിയോ റെക്കോർഡ് ചെയ്യുന്നതിലേക്ക് മാറുക"
+   },
+   "switchTakePhotoButton": {
+      "description": "Label for the button to switch to take photo mode.",
+      "message": "ഫോട്ടോ എടുക്കുന്നതിലേക്ക് മാറുക"
+   },
+   "takePhotoButton": {
+      "description": "Label for the shutter button to take photo.",
+      "message": "ഫോട്ടോ എടുക്കുക"
+   },
+   "takePhotoCancelButton": {
+      "description": "Label for the shutter button to cancel countdown timer and stop taking photo.",
+      "message": "ഫോട്ടോ എടുക്കുന്നത് നിർത്തുക"
+   },
+   "timerDurationButton": {
+      "description": "Label for the button of timer-duration options.",
+      "message": "ടൈമർ ദൈർഘ്യം"
+   },
+   "toggleGridButton": {
+      "description": "Label for the checkbox to toggle the grid shown on preview.",
+      "message": "ഗ്രിഡ്"
+   },
+   "toggleMicButton": {
+      "description": "Label for the checkbox to toggle the microphone for recording video.",
+      "message": "മൈക്രോഫോൺ"
+   },
+   "toggleMirrorButton": {
+      "description": "Label for the checkbox to toggle the preview mirroring. Eg. if mirroring is toggled on, preview will be flipped horizontally.",
+      "message": "മിററിംഗ്"
+   },
+   "toggleTimerButton": {
+      "description": "Label for the checkbox to toggle the countdown timer.",
+      "message": "ടൈമർ"
+   }
+}

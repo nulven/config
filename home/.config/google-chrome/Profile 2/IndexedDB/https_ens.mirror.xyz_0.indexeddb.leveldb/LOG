@@ -1,0 +1,6 @@
+2021/11/27-12:21:17.252 aaba Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_ens.mirror.xyz_0.indexeddb.leveldb since it was missing.
+2021/11/27-12:21:17.267 aaba Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_ens.mirror.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/27-12:21:19.594 bded Level-0 table #5: started
+2021/11/27-12:21:19.598 bded Level-0 table #5: 1227 bytes OK
+2021/11/27-12:21:19.603 bded Delete type=0 #3
+2021/11/27-12:21:19.604 bded Manual compaction at level-0 from (begin) .. (end); will stop at (end)

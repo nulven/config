@@ -1,0 +1,37 @@
+2020/08/25-02:17:38.306 5ee1 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.nordstromrack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/25-02:17:38.307 5ee1 Recovering log #65
+2020/08/25-02:17:38.307 5ee1 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.nordstromrack.com_0.indexeddb.leveldb/000065.log 
+2020/08/25-02:18:07.094 13d3 Level-0 table #71: started
+2020/08/25-02:18:07.097 13d3 Level-0 table #71: 610 bytes OK
+2020/08/25-02:18:07.102 13d3 Delete type=0 #65
+2020/08/25-02:18:07.102 13d3 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/08/25-02:18:07.103 13d3 Level-0 table #73: started
+2020/08/25-02:18:07.106 13d3 Level-0 table #73: 495 bytes OK
+2020/08/25-02:18:07.111 13d3 Delete type=0 #70
+2020/08/25-02:18:07.111 13d3 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 286 : 0
+2020/08/25-02:18:07.111 13d3 Compacting 1@0 + 1@1 files
+2020/08/25-02:18:07.115 13d3 Generated table #74@0: 4 keys, 242 bytes
+2020/08/25-02:18:07.115 13d3 Compacted 1@0 + 1@1 files => 242 bytes
+2020/08/25-02:18:07.119 13d3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/25-02:18:07.119 13d3 Delete type=2 #73
+2020/08/25-02:18:07.119 13d3 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 286 : 0 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/08/25-02:18:09.101 13d3 Level-0 table #76: started
+2020/08/25-02:18:09.112 13d3 Level-0 table #76: 212 bytes OK
+2020/08/25-02:18:09.117 13d3 Delete type=0 #72
+2020/08/25-02:18:09.117 13d3 Delete type=2 #71
+2020/08/25-02:18:09.117 13d3 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 287 : 0
+2020/08/25-02:18:09.118 13d3 Compacting 1@0 + 1@1 files
+2020/08/25-02:18:09.122 13d3 Generated table #77@0: 2 keys, 196 bytes
+2020/08/25-02:18:09.122 13d3 Compacted 1@0 + 1@1 files => 196 bytes
+2020/08/25-02:18:09.126 13d3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/25-02:18:09.127 13d3 Delete type=2 #76
+2020/08/25-02:18:09.127 13d3 Delete type=2 #74
+2020/08/25-02:18:09.127 13d3 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 287 : 0 .. (end); will stop at (end)
+2020/08/25-02:18:09.127 13d3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x03' @ 280 : 0
+2020/08/25-02:18:09.127 13d3 Compacting 1@1 + 1@2 files
+2020/08/25-02:18:09.131 13d3 Generated table #78@1: 4 keys, 221 bytes
+2020/08/25-02:18:09.131 13d3 Compacted 1@1 + 1@2 files => 221 bytes
+2020/08/25-02:18:09.136 13d3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/25-02:18:09.137 13d3 Delete type=2 #77
+2020/08/25-02:18:09.137 13d3 Delete type=2 #68
+2020/08/25-02:18:09.137 13d3 Manual compaction at level-1 from '\x00\x00\x00\x00\x03' @ 280 : 0 .. (end); will stop at (end)

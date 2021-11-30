@@ -1,0 +1,1 @@
+var storage={data:{},get:function(t){return storage.data[t]},set:function(t,a){delete storage.data[t],storage.data[t]=a},unset:function(t){delete storage.data[t]},clear:function(){for(var t in storage.data)delete storage.data[t]}};

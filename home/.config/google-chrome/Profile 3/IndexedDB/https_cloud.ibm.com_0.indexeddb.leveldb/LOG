@@ -1,0 +1,5 @@
+2020/05/18-02:32:24.227 2290 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_cloud.ibm.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/18-02:32:57.212 75c5 Level-0 table #5: started
+2020/05/18-02:32:57.222 75c5 Level-0 table #5: 1355 bytes OK
+2020/05/18-02:32:57.227 75c5 Delete type=0 #3
+2020/05/18-02:32:57.228 75c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

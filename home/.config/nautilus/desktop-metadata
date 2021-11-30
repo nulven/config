@@ -1,0 +1,29 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1601824926
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1601824926
+nautilus-icon-position=56,146
+icon-scale=1
+
+[UBUNTU 18_0.volume]
+nautilus-icon-position-timestamp=1584770208
+nautilus-icon-position=56,146
+icon-scale=1
+
+[iPhone.volume]
+nautilus-icon-position=56,26
+icon-scale=1
+nautilus-icon-position-timestamp=1585094318
+
+[iPad.volume]
+nautilus-icon-position=56,10
+icon-scale=1
+nautilus-icon-position-timestamp=1585104899
+
+[SAMSUNG Android.volume]
+nautilus-icon-position=56,446
+icon-scale=1
+nautilus-icon-position-timestamp=1585884238

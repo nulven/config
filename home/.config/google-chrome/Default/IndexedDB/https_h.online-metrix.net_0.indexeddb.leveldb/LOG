@@ -1,0 +1,15 @@
+2020/06/25-09:09:00.480 59a Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/25-09:09:00.480 59a Recovering log #4
+2020/06/25-09:09:00.480 59a Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/000004.log 
+2020/06/25-09:09:11.003 1539 Level-0 table #8: started
+2020/06/25-09:09:11.007 1539 Level-0 table #8: 190 bytes OK
+2020/06/25-09:09:11.012 1539 Delete type=0 #4
+2020/06/25-09:09:11.012 1539 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/25-09:09:11.012 1539 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 61 : 1
+2020/06/25-09:09:11.012 1539 Compacting 1@1 + 1@2 files
+2020/06/25-09:09:11.017 1539 Generated table #9@1: 20 keys, 788 bytes
+2020/06/25-09:09:11.017 1539 Compacted 1@1 + 1@2 files => 788 bytes
+2020/06/25-09:09:11.022 1539 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/25-09:09:11.022 1539 Delete type=2 #8
+2020/06/25-09:09:11.022 1539 Delete type=2 #5
+2020/06/25-09:09:11.023 1539 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 61 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/08/14-10:24:17.409 5949 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/14-10:24:37.511 122a Level-0 table #5: started
+2020/08/14-10:24:37.522 122a Level-0 table #5: 114492 bytes OK
+2020/08/14-10:24:37.526 122a Delete type=0 #3
+2020/08/14-10:24:37.527 122a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

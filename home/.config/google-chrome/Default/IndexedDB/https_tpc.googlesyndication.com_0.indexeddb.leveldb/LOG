@@ -1,0 +1,8 @@
+2020/07/15-22:23:12.043 1724 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/15-22:23:12.043 1724 Recovering log #48
+2020/07/15-22:23:12.044 1724 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_tpc.googlesyndication.com_0.indexeddb.leveldb/000048.log 
+2020/07/15-22:23:15.252 1a34 Level-0 table #53: started
+2020/07/15-22:23:15.252 1a34 Level-0 table #53: 0 bytes OK
+2020/07/15-22:23:15.259 1a34 Delete type=0 #48
+2020/07/15-22:23:15.260 1a34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/15-22:23:15.260 1a34 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

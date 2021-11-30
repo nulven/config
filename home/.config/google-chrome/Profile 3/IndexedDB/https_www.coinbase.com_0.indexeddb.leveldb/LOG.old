@@ -1,0 +1,5 @@
+2021/02/08-18:36:24.439 76aed Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.coinbase.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/08-19:24:24.874 91be1 Level-0 table #5: started
+2021/02/08-19:24:24.879 91be1 Level-0 table #5: 71462 bytes OK
+2021/02/08-19:24:24.884 91be1 Delete type=0 #3
+2021/02/08-19:24:24.884 91be1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

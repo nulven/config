@@ -1,0 +1,5 @@
+bijective
+conjugacy
+differentially
+homomorphism
+checksum_v1 = 3d7648d02981559804656d108d06beef

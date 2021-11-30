@@ -1,0 +1,8 @@
+2020/07/06-16:21:38.756 1826 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www2.hm.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/06-16:21:38.757 1826 Recovering log #7
+2020/07/06-16:21:38.757 1826 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www2.hm.com_0.indexeddb.leveldb/000007.log 
+2020/07/06-23:43:14.479 24c2 Level-0 table #12: started
+2020/07/06-23:43:14.480 24c2 Level-0 table #12: 0 bytes OK
+2020/07/06-23:43:14.485 24c2 Delete type=0 #7
+2020/07/06-23:43:14.485 24c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/06-23:43:14.486 24c2 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

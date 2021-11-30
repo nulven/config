@@ -1,0 +1,7 @@
+2020/06/02-11:16:45.331 1b75 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/02-11:16:45.332 1b75 Recovering log #3
+2020/06/02-11:16:45.333 1b75 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2020/06/02-11:19:34.296 1a9b Level-0 table #5: started
+2020/06/02-11:19:34.309 1a9b Level-0 table #5: 17432 bytes OK
+2020/06/02-11:19:34.314 1a9b Delete type=0 #3
+2020/06/02-11:19:34.315 1a9b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

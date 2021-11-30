@@ -1,0 +1,6 @@
+2021/11/03-15:01:46.743 73c08 Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_decider.com_0.indexeddb.leveldb since it was missing.
+2021/11/03-15:01:46.753 73c08 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_decider.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/03-15:02:23.827 73bff Level-0 table #5: started
+2021/11/03-15:02:23.834 73bff Level-0 table #5: 2439 bytes OK
+2021/11/03-15:02:23.842 73bff Delete type=0 #3
+2021/11/03-15:02:23.843 73bff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

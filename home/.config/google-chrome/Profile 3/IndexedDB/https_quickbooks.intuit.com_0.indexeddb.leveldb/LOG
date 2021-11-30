@@ -1,0 +1,15 @@
+2020/07/06-15:01:56.567 6b29 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_quickbooks.intuit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/06-15:01:56.567 6b29 Recovering log #19
+2020/07/06-15:01:56.567 6b29 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_quickbooks.intuit.com_0.indexeddb.leveldb/000019.log 
+2020/07/06-15:11:49.421 24c2 Level-0 table #24: started
+2020/07/06-15:11:49.429 24c2 Level-0 table #24: 1642 bytes OK
+2020/07/06-15:11:49.434 24c2 Delete type=0 #19
+2020/07/06-15:11:49.434 24c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/06-15:11:49.434 24c2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x001\x009\x001\x007\x005\x009\x005\x008' @ 532 : 1
+2020/07/06-15:11:49.434 24c2 Compacting 1@1 + 1@2 files
+2020/07/06-15:11:49.438 24c2 Generated table #25@1: 24 keys, 851 bytes
+2020/07/06-15:11:49.438 24c2 Compacted 1@1 + 1@2 files => 851 bytes
+2020/07/06-15:11:49.443 24c2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/06-15:11:49.443 24c2 Delete type=2 #21
+2020/07/06-15:11:49.443 24c2 Delete type=2 #24
+2020/07/06-15:11:49.444 24c2 Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x001\x009\x001\x007\x005\x009\x005\x008' @ 532 : 1 .. (end); will stop at (end)

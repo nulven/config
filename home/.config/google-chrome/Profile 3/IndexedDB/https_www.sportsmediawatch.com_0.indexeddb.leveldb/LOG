@@ -1,0 +1,17 @@
+2021/02/08-18:41:13.930 782b1 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.sportsmediawatch.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/08-18:41:22.322 782b1 Level-0 table #5: started
+2021/02/08-18:41:22.338 782b1 Level-0 table #5: 181305 bytes OK
+2021/02/08-18:41:22.345 782b1 Delete type=0 #3
+2021/02/08-18:41:22.346 782b1 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/02/08-18:41:41.449 91751 Level-0 table #7: started
+2021/02/08-18:41:41.453 91751 Level-0 table #7: 237 bytes OK
+2021/02/08-18:41:41.458 91751 Delete type=0 #4
+2021/02/08-18:41:41.458 91751 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/08-18:41:41.458 91751 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02T\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 561 : 0
+2021/02/08-18:41:41.458 91751 Compacting 1@1 + 1@2 files
+2021/02/08-18:41:41.476 91751 Generated table #8@1: 99 keys, 175150 bytes
+2021/02/08-18:41:41.476 91751 Compacted 1@1 + 1@2 files => 175150 bytes
+2021/02/08-18:41:41.482 91751 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/08-18:41:41.483 91751 Delete type=2 #7
+2021/02/08-18:41:41.483 91751 Delete type=2 #5
+2021/02/08-18:41:41.483 91751 Manual compaction at level-1 from '\x00\x00\x00\x002\x02T\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 561 : 0 .. (end); will stop at (end)

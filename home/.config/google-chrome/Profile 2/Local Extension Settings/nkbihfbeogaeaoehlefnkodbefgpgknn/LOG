@@ -1,0 +1,26 @@
+2021/11/30-07:15:58.712 ba5 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2021/11/30-07:15:58.713 ba5 Recovering log #17570
+2021/11/30-07:15:58.721 ba5 Level-0 table #17573: started
+2021/11/30-07:15:58.733 ba5 Level-0 table #17573: 1071331 bytes OK
+2021/11/30-07:15:58.738 ba5 Delete type=0 #17570
+2021/11/30-07:34:09.302 4c59 Level-0 table #17576: started
+2021/11/30-07:34:09.319 4c59 Level-0 table #17576: 1073712 bytes OK
+2021/11/30-07:34:09.324 4c59 Delete type=0 #17574
+2021/11/30-07:34:09.325 4c59 Compacting 4@0 + 1@1 files
+2021/11/30-07:34:09.336 4c59 Generated table #17577@0: 2 keys, 134147 bytes
+2021/11/30-07:34:09.336 4c59 Compacted 4@0 + 1@1 files => 134147 bytes
+2021/11/30-07:34:09.343 4c59 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/30-07:34:09.343 4c59 Delete type=2 #17571
+2021/11/30-07:34:09.343 4c59 Delete type=2 #17567
+2021/11/30-07:34:09.343 4c59 Delete type=2 #17576
+2021/11/30-07:34:09.343 4c59 Delete type=2 #17569
+2021/11/30-07:34:09.343 4c59 Delete type=2 #17573
+2021/11/30-08:46:20.852 5f38 Level-0 table #17579: started
+2021/11/30-08:46:20.873 5f38 Level-0 table #17579: 1071553 bytes OK
+2021/11/30-08:46:20.877 5f38 Delete type=0 #17575
+2021/11/30-10:10:20.335 becb Level-0 table #17581: started
+2021/11/30-10:10:20.354 becb Level-0 table #17581: 1069911 bytes OK
+2021/11/30-10:10:20.359 becb Delete type=0 #17578
+2021/11/30-10:10:42.152 920b Level-0 table #17583: started
+2021/11/30-10:10:42.171 920b Level-0 table #17583: 1071454 bytes OK
+2021/11/30-10:10:42.175 920b Delete type=0 #17580

@@ -1,0 +1,15 @@
+2020/06/12-17:41:15.826 7920 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/12-17:41:15.827 7920 Recovering log #7
+2020/06/12-17:41:15.827 7920 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/000007.log 
+2020/06/13-15:22:32.852 31ee Level-0 table #12: started
+2020/06/13-15:22:32.863 31ee Level-0 table #12: 25502 bytes OK
+2020/06/13-15:22:32.868 31ee Delete type=0 #7
+2020/06/13-15:22:32.869 31ee Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/13-15:22:32.869 31ee Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01`\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00f\x00i\x00g\x00m\x00a\x00.\x00c\x00o\x00m\x00/\x00f\x00i\x00l\x00e\x00/\x00f\x00O\x00Q\x001\x00W\x008\x005\x00G\x00H\x001\x00F\x00C\x005\x00z\x00r\x00S\x00b\x00a\x00b\x00C\x00M\x00O\x00/\x00i\x00m\x00a\x00g\x00e\x00/\x00f\x005\x006\x007\x008\x007\x00a\x00d\x007\x001\x00d\x00f\x00b\x00f\x000\x005\x009\x000\x009\x00f\x003\x00a\x00e\x00d\x005\x007\x003\x00a\x000\x004\x005\x005\x00d\x007\x001\x005\x00f\x009\x006\x00f' @ 16025 : 1
+2020/06/13-15:22:32.869 31ee Compacting 1@1 + 1@2 files
+2020/06/13-15:22:32.879 31ee Generated table #13@1: 952 keys, 87568 bytes
+2020/06/13-15:22:32.879 31ee Compacted 1@1 + 1@2 files => 87568 bytes
+2020/06/13-15:22:32.884 31ee compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/13-15:22:32.884 31ee Delete type=2 #9
+2020/06/13-15:22:32.884 31ee Delete type=2 #12
+2020/06/13-15:22:32.885 31ee Manual compaction at level-1 from '\x00\x01\x01\x02\x01`\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00f\x00i\x00g\x00m\x00a\x00.\x00c\x00o\x00m\x00/\x00f\x00i\x00l\x00e\x00/\x00f\x00O\x00Q\x001\x00W\x008\x005\x00G\x00H\x001\x00F\x00C\x005\x00z\x00r\x00S\x00b\x00a\x00b\x00C\x00M\x00O\x00/\x00i\x00m\x00a\x00g\x00e\x00/\x00f\x005\x006\x007\x008\x007\x00a\x00d\x007\x001\x00d\x00f\x00b\x00f\x000\x005\x009\x000\x009\x00f\x003\x00a\x00e\x00d\x005\x007\x003\x00a\x000\x004\x005\x005\x00d\x007\x001\x005\x00f\x009\x006\x00f' @ 16025 : 1 .. (end); will stop at (end)

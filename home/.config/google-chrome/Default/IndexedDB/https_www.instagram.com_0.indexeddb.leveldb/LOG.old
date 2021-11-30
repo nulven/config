@@ -1,0 +1,5 @@
+2020/05/19-23:56:15.669 1782 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/19-23:56:36.324 75c5 Level-0 table #5: started
+2020/05/19-23:56:36.327 75c5 Level-0 table #5: 804 bytes OK
+2020/05/19-23:56:36.334 75c5 Delete type=0 #3
+2020/05/19-23:56:36.334 75c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,23 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/background.js" ]
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "differential_fingerprint": "1.c1a822ab7f4d31e7ade6310c1a4c8265db20f5d07ec4088ace9e10779d905d23",
+   "icons": {
+      "128": "images/camera_app_icons_128.png",
+      "48": "images/camera_app_icons_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3oA1Ox8PiRORjuFDgJeWcwnzZDPHUzuH6fymTrx8KPybhfd6XIYFXvilSsRnsGKPslN+BXke3HWC4/MoB2HM2pNGmsQ+jNyTh2dgk4ISdZYRLfqjxr846/245dkznCJLYAZr72Lk+vRZUyYBcLNNox8jRV5ZF16+8uPPUsUiqbQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "60.0.0.0",
+   "name": "__MSG_name__",
+   "permissions": [ "browser", "videoCapture", "audioCapture", "storage", "unlimitedStorage", "idle", "chromeosInfoPrivate", "fileManagerPrivate", "fileSystem.requestDownloads", {
+      "fileSystem": [ "write", "directory" ]
+   } ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.3.8"
+}

@@ -1,0 +1,7 @@
+2020/07/31-09:51:21.097 422d Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.imdb.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/31-09:51:21.097 422d Recovering log #3
+2020/07/31-09:51:21.098 422d Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.imdb.com_0.indexeddb.leveldb/000003.log 
+2020/07/31-09:51:29.636 11bb Level-0 table #5: started
+2020/07/31-09:51:29.643 11bb Level-0 table #5: 2758 bytes OK
+2020/07/31-09:51:29.648 11bb Delete type=0 #3
+2020/07/31-09:51:29.648 11bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

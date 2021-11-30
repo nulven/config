@@ -1,0 +1,1 @@
+var ds=function(n){var e,d=n.split("."),a=d.length;2<a&&(e=d[a-2],a=d[a-1],-1==tlds.indexOf("."+e+"."+a)&&(n=e+"."+a)),api.domainSearch(n,function(e){e&&e.leads&&0<e.leads.length?ds_render(n,e.name,e.industry,e.logo,e.count,e.city,e.country,e.area,e.leads):e.quota?render("ds_quota_reached"):render("ds_no_results")})};

@@ -1,0 +1,20 @@
+{
+   "background": {
+      "scripts": [ "GlanceClient.js" ]
+   },
+   "description": "Glance Networks, Inc. Visual Engagement Platform.",
+   "differential_fingerprint": "1.a375107146efee9581d7d0f0c4f61087eb37b45d3abd79e35f30e687e0dc5e2a",
+   "externally_connectable": {
+      "matches": [ "*://*.glancedev.net/*", "*://*.myglance.org/*", "*://*.glanceweb.net/*", "*://*.glance.net/*", "*://*.myglance.net/*", "*://*.salesforce.com/*", "*://*.force.com/*", "*://*.visualforce.com/*", "*://*.documentforce.com/*", "*://*.salesforce-communities.com/*", "*://*.zendesk.com/*", "*://*.meetingzone.net/*", "*://*.meetingzone.com/*", "*://*.lucidmeetings.com/*", "*://*.counterpath.com/*", "*://*.apple.com/*", "*://*.gomoxie.com/*", "*://*.sap.com/*", "*://*.gs.com/*" ]
+   },
+   "icons": {
+      "128": "gicon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgRJUM2jKue6LoMyofiA25hoxMcXQLm0BU4b6H+hjbPW7n0waY9RogKSbSdNI0CisG0xIDr9BVsHwQ/ah1BkUGKE4kH8HXzYGvXpxHBI9BaLUcvZKB6DVXrtf9vAkfUCkG5SNB94gsyIBKv1566qUXoCSbMBpzW72g18Cl6L8Eq1p2hYk7Fx1blMw/yMI47AXjYo+3Q5agiXby8BTBj5+OHLOoLIVw81LqGI+orTPi5RCbFmbGQZmG3JE+X1b/vAaCBay2lKU1DhdiCYsNz0oSFKbpMR2FS+c1smyInT9T9bMQxbRvtk8AT9CM4oqbcTRSCNNsuYag7tM/M0CY3jucQIDAQAB",
+   "manifest_version": 2,
+   "name": "Glance Networks",
+   "permissions": [ "nativeMessaging" ],
+   "short_name": "Glance",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7"
+}

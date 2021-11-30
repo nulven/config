@@ -1,0 +1,18 @@
+{
+   "browser_action": {
+      "default_popup": "index.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "Debug Node in Chrome devtools",
+   "icons": {
+      "128": "./assets/icon128.png",
+      "32": "./assets/icon32.png",
+      "64": "./assets/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApDQfT010r8AMWN7/iIekGmIE4fbF3mvWli8zMCrQAsbOYyziUYkjHgBDRryaTmHalwfRdQ9QX9c1TSpiUJokKMLjmPH+/v/DPoVM511PaTm2EotvVYALVezY9xAjeKJMotAR4zO4OWnJfejnxmieGwhR0t/r4al8q2PLk2CmTk5ugENlApuCjy2SnaM1jjC7VZhOZ6O9u/GVNUqOsgRkn845ktndzlCdsuRc+a3o/gwgy7hx1l/7BcA0lugMVcCMWC+b35VRXs4rFuzEbM3G1nq+Aya+ooSKLd/J9SJIVs+2glN6PpD2lV3AumhAAnq2GOSBior7FuLCVK+zwSUXBQIDAQAB",
+   "manifest_version": 2,
+   "name": "Node Debugger",
+   "permissions": [ "activeTab", "tabs", "http://*/", "https://*/", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.6.0"
+}

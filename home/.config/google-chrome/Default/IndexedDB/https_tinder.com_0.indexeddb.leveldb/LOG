@@ -1,0 +1,5 @@
+2020/06/22-01:38:45.467 3663 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_tinder.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/22-01:47:31.711 1042 Level-0 table #5: started
+2020/06/22-01:47:31.727 1042 Level-0 table #5: 248645 bytes OK
+2020/06/22-01:47:31.733 1042 Delete type=0 #3
+2020/06/22-01:47:31.734 1042 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

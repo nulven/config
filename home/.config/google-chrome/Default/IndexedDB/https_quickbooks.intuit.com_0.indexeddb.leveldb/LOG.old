@@ -1,0 +1,5 @@
+2020/06/25-09:08:56.405 59a Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_quickbooks.intuit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/25-09:10:26.866 1539 Level-0 table #5: started
+2020/06/25-09:10:26.870 1539 Level-0 table #5: 1548 bytes OK
+2020/06/25-09:10:26.875 1539 Delete type=0 #3
+2020/06/25-09:10:26.875 1539 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

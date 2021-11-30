@@ -1,0 +1,6 @@
+2021/11/14-13:48:30.207 fffd Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_discourse.nodered.org_0.indexeddb.leveldb since it was missing.
+2021/11/14-13:48:30.219 fffd Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_discourse.nodered.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/14-13:49:06.445 14e86 Level-0 table #5: started
+2021/11/14-13:49:06.449 14e86 Level-0 table #5: 3270 bytes OK
+2021/11/14-13:49:06.453 14e86 Delete type=0 #3
+2021/11/14-13:49:06.453 14e86 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

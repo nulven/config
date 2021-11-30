@@ -1,0 +1,6 @@
+2021/11/09-00:44:42.389 6306f Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.bloomberg.com_0.indexeddb.leveldb since it was missing.
+2021/11/09-00:44:42.410 6306f Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.bloomberg.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/09-00:45:14.893 6306f Level-0 table #5: started
+2021/11/09-00:45:14.897 6306f Level-0 table #5: 869 bytes OK
+2021/11/09-00:45:14.902 6306f Delete type=0 #3
+2021/11/09-00:45:14.902 6306f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

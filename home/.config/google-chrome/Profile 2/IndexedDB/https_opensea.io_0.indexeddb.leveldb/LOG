@@ -1,0 +1,7 @@
+2021/11/14-12:01:19.051 fe3 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_opensea.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/14-12:01:19.052 fe3 Recovering log #3
+2021/11/14-12:01:19.053 fe3 Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_opensea.io_0.indexeddb.leveldb/000003.log 
+2021/11/14-14:28:08.080 1d4a8 Level-0 table #5: started
+2021/11/14-14:28:08.084 1d4a8 Level-0 table #5: 1244 bytes OK
+2021/11/14-14:28:08.088 1d4a8 Delete type=0 #3
+2021/11/14-14:28:08.089 1d4a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

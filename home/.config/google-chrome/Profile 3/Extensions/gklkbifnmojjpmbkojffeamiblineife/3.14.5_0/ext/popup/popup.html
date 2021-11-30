@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Skrapp Enrich Chrome Extension</title>
+    <link rel="stylesheet" href="css/fa/css/all.min.css">
+    <link rel="stylesheet" href="css/popup.css">
+</head>
+
+<views style="display : none">
+
+    <view name="loader">
+        <div class="cssload-container">
+            <div class="cssload-speeding-wheel ">
+                <img style="width: 46px;" src="./img/brand_icon.png"></img>
+            </div>
+        </div>
+    </view>
+    <view name="error">
+        <div class="message">
+        <img src="../../img/error-mark.png"/>
+        <p>An error has occurred, please try again later.</p>
+        </div>
+    </view>
+    <view name="login" class="login">
+        <p class="info">
+           You are not logged in yet.
+           <br>
+           <br>
+           <a class="info-a"  href="https://skrapp.io/login" target="_blank">Login</a>
+           <br>
+           <br>
+           Don't have an account yet?
+           <br>
+           <br>
+           <a class="info-a"  href="https://skrapp.io/signup" target="_blank">Signup</a>
+        </p>
+    </view>
+
+    <view name="ds_quota_reached">
+      <p class="ds_message">You have reached your email quota.<br>We invite you to upgrade your account.<br><a href="https://skrapp.io/pricing" target="_blank">Upgrade my account</a>
+      </p>
+    </view>
+    <view name="ds_no_results">
+      <p class="ds_message" style="margin-top: 25%; color: #9c9c9c">No results found.</p>
+    </view>
+    <view name="ds_leads">
+       <div class="domain-data">
+           <img>
+           <p>#{domain} <span style="line-height: 26px; margin-top: -3px; font-size: 11px; text-align: right">#{industry}<br>#{count}</span></p>
+           <p class="hq" style="line-height: 19px; font-size: 11px; text-align: left; font-weight: 500;"></p>
+       </div>
+       <div class="leads">
+         <ul></ul>
+       </div>
+       <div class="lds_actions">
+         <a target="_blank"><i class="fas fa-external-link-alt" style="margin-right : 4px"></i> View results in Web Application</a>
+      </div>
+    </view>
+
+    <view name="no_li">
+      <div>
+        <p class="info split" style="margin-top: 12%">
+          Skrapp Enrich web extension does not support the integration with Linkedin
+          </br>
+          <a href="https://skrapp.io/extension-split" target="_blank" style="position: relative; top: 21px">Learn more</a>
+        </p>
+      </div>
+    </view>
+    <view name="p_data_quota">
+        <div class="p_data">
+            <div class="p_data_left">
+                <img class="imgUrl">
+            </div>
+            <div class="p_data_right">
+                <p class="name">{name}</p>
+                <p class="title">{title}</p>
+                <p class="company">{company}</p>
+                <p class="location">{location}</p>
+            </div>
+        </div>
+        <div class="p_data_email">
+            <p class="email quota_reached">
+               You have reached your email quota. We invite you to upgrade your account.
+               <a href="https://skrapp.io/pricing" target="_blank">Upgrade my account</a>
+            </p>
+        </div>
+        <div class="p_actions">
+            <button class="save">Save</button>
+        </div>
+      </view>
+</views>
+
+<body>
+
+<div class="body">
+    <div class="header">
+      <img src="./img/brand_icon.png" alt="Skrapp Enrich Chrome Extension">
+      <a href="https://skrapp.io/app" target="_blank">Web</a>
+      <a href="https://skrapp.io/knowledge" target="_blank">Help</a>
+      <a href="https://skrapp.io/tutorials" target="_blank">Learn</a>
+    </div>
+    <div class="view">
+    </div>
+    <div class="footer">
+        <p class="name"></p>
+        <p>Credits: <span class="credit"></span></p>
+    </div>
+</div>
+
+</body>
+<script src="../common/lib/jquery-3.6.0.min.js"></script>
+<script src="../common/api.js"></script>
+<script src="../common/opts_checker.js"></script>
+<script src="../common/http.js"></script>
+<script src="../common/constants.js"></script>
+<script src="js/login.js"></script>
+<script src="js/render.js"></script>
+<script src="js/ds/tlds.js"></script>
+<script src="js/ds/ds.js"></script>
+<script src="js/main.js"></script>
+</html>

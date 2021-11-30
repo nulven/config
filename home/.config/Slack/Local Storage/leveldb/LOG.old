@@ -1,0 +1,21 @@
+2021/11/03-19:30:11.795 9c62c Reusing MANIFEST /home/nulven/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/11/03-19:30:11.797 9c62c Recovering log #3553
+2021/11/03-19:30:11.797 9c62c Reusing old log /home/nulven/.config/Slack/Local Storage/leveldb/003553.log 
+2021/11/03-19:31:13.465 9c72e Level-0 table #3557: started
+2021/11/03-19:31:13.477 9c72e Level-0 table #3557: 12580 bytes OK
+2021/11/03-19:31:13.485 9c72e Delete type=0 #3553
+2021/11/03-19:36:13.464 9c72e Level-0 table #3559: started
+2021/11/03-19:36:13.470 9c72e Level-0 table #3559: 17288 bytes OK
+2021/11/03-19:36:13.476 9c72e Delete type=0 #3556
+2021/11/04-18:53:00.202 12cdf3 Level-0 table #3561: started
+2021/11/04-18:53:00.209 12cdf3 Level-0 table #3561: 10096 bytes OK
+2021/11/04-18:53:00.215 12cdf3 Delete type=0 #3558
+2021/11/04-18:53:00.215 12cdf3 Compacting 4@0 + 1@1 files
+2021/11/04-18:53:00.222 12cdf3 Generated table #3562@0: 163 keys, 14169 bytes
+2021/11/04-18:53:00.222 12cdf3 Compacted 4@0 + 1@1 files => 14169 bytes
+2021/11/04-18:53:00.226 12cdf3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/04-18:53:00.227 12cdf3 Delete type=2 #3561
+2021/11/04-18:53:00.227 12cdf3 Delete type=2 #3557
+2021/11/04-18:53:00.227 12cdf3 Delete type=2 #3559
+2021/11/04-18:53:00.227 12cdf3 Delete type=2 #3551
+2021/11/04-18:53:00.227 12cdf3 Delete type=2 #3554

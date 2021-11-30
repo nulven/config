@@ -1,0 +1,6 @@
+2021/11/23-16:18:50.405 1c0c0 Reusing MANIFEST /home/nulven/.config/Ledger Live/Local Storage/leveldb/MANIFEST-000001
+2021/11/23-16:18:50.405 1c0c0 Recovering log #11
+2021/11/23-16:18:50.405 1c0c0 Reusing old log /home/nulven/.config/Ledger Live/Local Storage/leveldb/000011.log 
+2021/11/24-09:57:07.590 203e7 Level-0 table #15: started
+2021/11/24-09:57:07.597 203e7 Level-0 table #15: 14860 bytes OK
+2021/11/24-09:57:07.602 203e7 Delete type=0 #11

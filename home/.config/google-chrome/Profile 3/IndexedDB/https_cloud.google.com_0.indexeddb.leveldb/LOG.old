@@ -1,0 +1,15 @@
+2020/05/21-20:33:38.150 1b7c Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_cloud.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/21-20:33:38.150 1b7c Recovering log #4
+2020/05/21-20:33:38.150 1b7c Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_cloud.google.com_0.indexeddb.leveldb/000004.log 
+2020/05/21-20:34:25.000 dac Level-0 table #8: started
+2020/05/21-20:34:25.011 dac Level-0 table #8: 844 bytes OK
+2020/05/21-20:34:25.017 dac Delete type=0 #4
+2020/05/21-20:34:25.017 dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/21-20:34:25.017 dac Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x01\x02\x00e\x00n\x00\x01\x13\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00p\x00r\x00e\x00f\x00e\x00r\x00e\x00n\x00c\x00e' @ 857 : 1
+2020/05/21-20:34:25.017 dac Compacting 1@1 + 1@2 files
+2020/05/21-20:34:25.022 dac Generated table #9@1: 30 keys, 820 bytes
+2020/05/21-20:34:25.022 dac Compacted 1@1 + 1@2 files => 820 bytes
+2020/05/21-20:34:25.027 dac compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/21-20:34:25.028 dac Delete type=2 #8
+2020/05/21-20:34:25.028 dac Delete type=2 #5
+2020/05/21-20:34:25.028 dac Manual compaction at level-1 from '\x00\x01\x01 \x01\x02\x00e\x00n\x00\x01\x13\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00p\x00r\x00e\x00f\x00e\x00r\x00e\x00n\x00c\x00e' @ 857 : 1 .. (end); will stop at (end)

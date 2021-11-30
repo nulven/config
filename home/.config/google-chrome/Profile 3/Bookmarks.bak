@@ -1,0 +1,48 @@
+{
+   "checksum": "0bd63869abd636eaf5640860d9d09240",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13236452451363927",
+            "guid": "d23cdf59-8ca1-46b0-b048-485375c92141",
+            "id": "5",
+            "name": "(8) highcrown-app on Expo Developer Tools",
+            "type": "url",
+            "url": "http://localhost:19002/"
+         }, {
+            "date_added": "13243530229988820",
+            "guid": "6e89d04f-8f60-443b-b2e4-ee4c49b2d782",
+            "id": "7",
+            "name": "Calendar",
+            "type": "url",
+            "url": "https://calendar.google.com/calendar/r"
+         } ],
+         "date_added": "13230762107245838",
+         "date_modified": "13243530229988820",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13230762107245848",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13230762107245851",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgKtvjlS4BQAhgKtvjlS4BQAiFAlpZnmZVLgFABACGRq020lIZJP1MhgKFggCETsdEJ9UuAUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmAq2+OVLgFACGAq2+OVLgFADIYChYIAhE7HRCfVLgFABgAIQAAAAAAAAAAIABIye/38u0ucMnv9/LtLhIAIAEqGC9waEtyYUJrWndzTVNQRld6Y2xaRlE9PRKuAQgBEqkBEk5aOkFEcXRBWnp4OEFaN1RYbUlHUUhYZVBaYytobm1UNlJaazQ3WWgyUWRKU1FUZ3ZoRyswNDJNbzYyUkt5MElCcjN0Y1pVaHN2NlN3VW8YACAAKAAwk+7zmYnX6AI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WiYiJIAAAAAAAAAAI8g9ILPPbsXCS7VfBdrLDZEfiemn+yrnOXYvfxKsAggFEqcCChxYRnFSL3lnRnR3VXU5MW1sUHdvZDhkNFBRM0E9EqYBWjpBRHF0QVp6d2VJNm0xZUlaS2JKWllxbkIrVXZZbHNTYnQzMmJUTVRMUkxyUmpxYno0TmM4SUpwV05GT3pXUnNsQUpvdUZtRnVCUVZ4aXpBMVRuY2pZdThwWTVCWTlJdXROemlLamwvVTlNQ0pPVngyaHZxalM4TDhrS0VvUktOam5pR2Nlcjc5d0N2cXlraVJMS1h4dm4xZzBEMG04MUdiWXc9PRgAIAMoAzDozOXLyYruAjim+NXKqi5AsfjVyqouShw4R2Q1bHBuOXVCZEs1Tm9pV2xSS2dmZU9hK1k9Wh4iHHcyR2IvblN0SWI0N3k1TFgveFJBaHZyOC9WWT1lvd74MRKsAggHEqcCChwwejdOZGN1WEllNytGMDZ0UVVBbktKNjFIb0k9EqYBWjpBRHF0QVp6d2VJNm0xZUlaS2JKWllxbkIrVXZZbHNTYnQzMmJUTVRMUkxyUmpxYno0SmQ0aGZqL3dwQlhiYnJWdWxmRkw1ZGFZZlBxMWNlWnAyZHl4T2RzbFNVNGhZZG5WQWdXL2ZaREZ1bkI4U0VodmlVUklNVWZYdE9xQTg3SVA5Ry9KdzZQdG11Y1JLNFJsR21UdWRRc2tlWHBHUFlyK2c9PRgAIAQoBDDozOXLyYruAjjmoc/5xC5ApOPP+cQuShx1eHBOdFpnU3AyQUxRYndldmRTUW9TUElHWTA9Wh4iHHkwRUxPQldhTFdkVEk2VWl3Z1JDNWp1NytDWT1lTr21cxLGAQgCEsEBEmZaOkFEcXRBWnpWMEhMWUx5Z1hsWExNYWJlR1pQSndVVXBvYXlMZ1FSRUwwTmlkZHdCc1hkMzZpWGFOb1hGdXRwUER1Zmd4UXg4azZMVmJoTWZuVlQ0Z0tWd29tdyswV0M0NHJ3PT0YACAAKAAwk+7zmYnX6AI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WiYiJIAAAAAAAAAAXa8Vw6w0pdSNaQisxD2Hmv5SU6pdQNb6akROfxLGAQgDEsEBEmZaOkFEcXRBWnpESjZRbVB0N2ljTGFJdnY3WjViVnhPMnNFUHRsUjZTcC8zMXlvNHdRZUlGN1FsTmhhU1VHOC9icG43YnFGU2pzY21BNFVBdmJhK3pNVlFXcGU5aWtLT01QU3JRPT0YACAAKAAwk+7zmYnX6AI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WiYiJIAAAAAAAAAAyuUyJZJM6JBvwhQBDA0Ye9OjjBV7CAge32fMfxgBILPw9/LtLg==",
+   "version": 1
+}

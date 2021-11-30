@@ -1,0 +1,14 @@
+2020/03/26-11:06:34.596 158b Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_jhubluejays.zoom.us_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/26-11:06:43.030 edd Level-0 table #5: started
+2020/03/26-11:06:43.079 edd Level-0 table #5: 2677457 bytes OK
+2020/03/26-11:06:43.086 edd Delete type=0 #3
+2020/03/26-11:06:43.167 edd Level-0 table #7: started
+2020/03/26-11:06:43.217 4650 Current memtable full; waiting...
+2020/03/26-11:06:43.220 edd Level-0 table #7: 3276028 bytes OK
+2020/03/26-11:06:43.230 edd Delete type=0 #4
+2020/03/26-11:06:43.231 edd Level-0 table #9: started
+2020/03/26-11:06:43.281 edd Level-0 table #9: 2183747 bytes OK
+2020/03/26-11:06:43.288 edd Delete type=0 #6
+2020/03/26-11:06:43.292 edd Level-0 table #11: started
+2020/03/26-11:06:43.322 edd Level-0 table #11: 2183747 bytes OK
+2020/03/26-11:06:43.326 edd Delete type=0 #8

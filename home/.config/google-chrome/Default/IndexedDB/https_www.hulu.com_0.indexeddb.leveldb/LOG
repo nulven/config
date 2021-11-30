@@ -1,0 +1,5 @@
+2020/05/26-11:07:13.802 3c19 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.hulu.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/26-11:07:45.919 dac Level-0 table #5: started
+2020/05/26-11:07:45.924 dac Level-0 table #5: 1661 bytes OK
+2020/05/26-11:07:45.931 dac Delete type=0 #3
+2020/05/26-11:07:45.931 dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

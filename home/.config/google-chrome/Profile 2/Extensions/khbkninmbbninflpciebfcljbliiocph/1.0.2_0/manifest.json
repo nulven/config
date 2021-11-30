@@ -1,0 +1,28 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+
+   },
+   "content_scripts": [ {
+      "css": [ "contentscript.css" ],
+      "js": [ "contentscript.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "Handshake Login",
+   "differential_fingerprint": "1.9e832dcb873207bf0ae6c5e7103eedac36f4c24060ee39b27e7c31e9ccfeab93",
+   "icons": {
+      "128": "./assets/logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA45YZCmIvdqIXRFAIz28bM4LVliIdiYspom2HzWVgnaNA955hM7Sr8al6SnaRsWljV5fOdkal/bKtwSxQWEYzV0fK7EKddnSuxteuiD50huaNZRxtQJGkRpoSwgUp04jPz6uuwRwXCce+rNw/q57piC56ERltnNhUAS6PK9TGAY1okCRjrqPh3ALR1XJHgovSjTn2f7mJKMhkPp7WDopobW+oKEB1USoOK4Vm8pRD4y21H4axD78o9D9KdKQ55ugmvL61kPabKnw7TPERhkTQirjmLRIIzjhTfbYNeEVxKp54S3zXwQIhktXKODO4ETjWrwyBJ2tf4/vwkkE7CFKm6QIDAQAB",
+   "manifest_version": 2,
+   "name": "Handshake Login",
+   "permissions": [ "storage" ],
+   "short_name": "HandshakeLogin",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2",
+   "web_accessible_resources": [ "*" ]
+}

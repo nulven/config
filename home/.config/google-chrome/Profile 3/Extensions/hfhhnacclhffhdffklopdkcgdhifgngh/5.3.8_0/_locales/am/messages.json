@@ -1,0 +1,206 @@
+{
+   "ariaGrid3x3": {
+      "description": "Label for spoken feedback to read out grid-type: 3x3.",
+      "message": "3 በ3"
+   },
+   "ariaGrid4x4": {
+      "description": "Label for spoken feedback to read out grid-type: 4x4.",
+      "message": "4 በ4"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "ተመለስ"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "ሰርዝ"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a selected item from the gallery. Expects a file name to be passed in.",
+      "message": "እርግጠኛ ነዎት $file$ን ማስወገድ ይፈልጋሉ?",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg."
+         }
+      }
+   },
+   "deleteMultiConfirmationMsg": {
+      "description": "Confirmation message before removing multiple selected items from the gallery. Expects a file count to be passed in.",
+      "message": "እርግጠኛ ነዎት $count$ ንጥሎችን ማስወገድ ይፈልጋሉ?",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "20."
+         }
+      }
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "በካሜራዎ ፎቶዎችን ያንሱ እና ቪዲዮዎችን ይቅረጹ።"
+   },
+   "dialogCancelButton": {
+      "description": "Label for the dismissing button in the dialog.",
+      "message": "ይቅር"
+   },
+   "dialogOKButton": {
+      "description": "Label for the accepting button in the dialog.",
+      "message": "እሺ"
+   },
+   "errorMsgEmptyRecording": {
+      "description": "Error message shown when no data is recorded for a recording and it won't be added to the gallery.",
+      "message": "ምንም አልተቀረጸም"
+   },
+   "errorMsgFileSystemFailed": {
+      "description": "Error message shown when failing to read or write the file system.",
+      "message": "የፋይል ሥርዓት ስህተቶች።"
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when exporting to an external directory failed. Expects a file name to be passed in.",
+      "message": "$file$ን ወደ ውጭ መላክ አልተቻለም",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg"
+         }
+      }
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability.",
+      "message": "የእርስዎ ካሜራ አሁን ላይ ሊገኝ አይችልም።\nካሜራው በአግባቡ መገናኘቱን እባክዎ ይፈትሹ።"
+   },
+   "errorMsgRecordStartFailed": {
+      "description": "Error message shown when failing to start recording video.",
+      "message": "መቅረጽ መጀመር አልተቻለም"
+   },
+   "errorMsgSaveFileFailed": {
+      "description": "Error message shown when saving/adding a image or video to the file system failed.",
+      "message": "ፋይሉን ማስቀመጥ አልተሳካም"
+   },
+   "errorMsgTakePhotoFailed": {
+      "description": "Error message shown when failing to take photo.",
+      "message": "ፎቶን ማንሳት አልተቻለም"
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "ወደ ዲስክ ላክ"
+   },
+   "feedbackButton": {
+      "description": "Label for the feedback button.",
+      "message": "ግብረመልስ ላክ"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "ወደ ማዕከለ-ሥዕላት ሂድ"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "የማዕከለ-ሥዕላት ምስሎች"
+   },
+   "gridTypeButton": {
+      "description": "Label for the button of grid-type options.",
+      "message": "የፍርግርግ ዓይነት"
+   },
+   "helpButton": {
+      "description": "Label for the help button.",
+      "message": "እገዛ"
+   },
+   "labelGrid3x3": {
+      "description": "Label for for grid-type: 3x3.",
+      "message": "3 x 3"
+   },
+   "labelGrid4x4": {
+      "description": "Label for for grid-type: 4x4.",
+      "message": "4 x 4"
+   },
+   "labelGridGolden": {
+      "description": "Label for grid-type: golden ratio.",
+      "message": "ወርቃማ ውድር"
+   },
+   "labelTimer10s": {
+      "description": "Label for timer-duration: 10 seconds.",
+      "message": "10 ሰከንዶች"
+   },
+   "labelTimer3s": {
+      "description": "Label for timer-duration: 3 seconds.",
+      "message": "3 ሰከንዶች"
+   },
+   "migratePicturesMsg": {
+      "description": "Message shown before moving all photos and videos stored in the Camera App to the Downloads folder.",
+      "message": "በካሜራው የተነሱ ፎቶዎች ወይም የተቀረጹ ቪዲዮዎች ወደ የውርዶች አቃፊው ይወሰዳሉ። በፋይሎች ውስጥ ሊደርሱባቸው ይችላሉ።\n\nየማከማቻ ፈቃዶች ያላቸው መተግበሪያዎች የእርስዎን ፎቶዎች እና ቪዲዮዎች መዳረሻ ይኖራቸዋል።"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "ካሜራ"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "አትም"
+   },
+   "recordVideoStartButton": {
+      "description": "Label for the shutter button to start recording.",
+      "message": "መቅረጽ ጀምር"
+   },
+   "recordVideoStopButton": {
+      "description": "Label for the shutter button to stop recording.",
+      "message": "መቅረጽ አቁም"
+   },
+   "settingsButton": {
+      "description": "Label for the settings button.",
+      "message": "ቅንብሮች"
+   },
+   "statusMsgCameraSwitched": {
+      "description": "Status message for spoken feedback when switching over to another camera.",
+      "message": "$camera$ ገቢር",
+      "placeholders": {
+         "camera": {
+            "content": "$1",
+            "example": "USB WebCam (12ab:5678) User-facing"
+         }
+      }
+   },
+   "statusMsgRecordingStopped": {
+      "description": "Status message for spoken feedback when video recording has been stopped.",
+      "message": "ቀረጻ ቆሟል"
+   },
+   "switchCameraButton": {
+      "description": "Label for the button to switch to next connected camera. Eg. switching from front facing to back facing, or a camera connected via USB. The button is shown only when more than one camera is connected.",
+      "message": "ወደ ቀጣዩ ካሜራ ቀይር"
+   },
+   "switchRecordVideoButton": {
+      "description": "Label for the button to switch to record video mode.",
+      "message": "ቪዲዮ ለመቅረጽ ቀይር"
+   },
+   "switchTakePhotoButton": {
+      "description": "Label for the button to switch to take photo mode.",
+      "message": "ፎቶ ለማንሳት ይቀይሩ"
+   },
+   "takePhotoButton": {
+      "description": "Label for the shutter button to take photo.",
+      "message": "ፎቶ ያንሱ"
+   },
+   "takePhotoCancelButton": {
+      "description": "Label for the shutter button to cancel countdown timer and stop taking photo.",
+      "message": "ፎቶን ማንሳት አቁም"
+   },
+   "timerDurationButton": {
+      "description": "Label for the button of timer-duration options.",
+      "message": "የጊዜ ቆጣሪ ቆይታ"
+   },
+   "toggleGridButton": {
+      "description": "Label for the checkbox to toggle the grid shown on preview.",
+      "message": "ፍርግርግ"
+   },
+   "toggleMicButton": {
+      "description": "Label for the checkbox to toggle the microphone for recording video.",
+      "message": "ማይክሮፎን"
+   },
+   "toggleMirrorButton": {
+      "description": "Label for the checkbox to toggle the preview mirroring. Eg. if mirroring is toggled on, preview will be flipped horizontally.",
+      "message": "ማስተላለፍ"
+   },
+   "toggleTimerButton": {
+      "description": "Label for the checkbox to toggle the countdown timer.",
+      "message": "የሰዓት ቆጣሪ"
+   }
+}

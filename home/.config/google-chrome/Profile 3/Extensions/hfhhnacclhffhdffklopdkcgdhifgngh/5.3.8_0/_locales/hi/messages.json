@@ -1,0 +1,206 @@
+{
+   "ariaGrid3x3": {
+      "description": "Label for spoken feedback to read out grid-type: 3x3.",
+      "message": "3 गुणा 3"
+   },
+   "ariaGrid4x4": {
+      "description": "Label for spoken feedback to read out grid-type: 4x4.",
+      "message": "4 गुणा 4"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "वापस जाएं"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "मिटाएं"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a selected item from the gallery. Expects a file name to be passed in.",
+      "message": "क्या आप वाकई $file$ को हटाना चाहते हैं?",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg."
+         }
+      }
+   },
+   "deleteMultiConfirmationMsg": {
+      "description": "Confirmation message before removing multiple selected items from the gallery. Expects a file count to be passed in.",
+      "message": "क्या आप वाकई $count$ आइटम हटाना चाहते हैं?",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "20."
+         }
+      }
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "अपने कैमरे से फ़ोटो खींचें और वीडियो रिकॉर्ड करें."
+   },
+   "dialogCancelButton": {
+      "description": "Label for the dismissing button in the dialog.",
+      "message": "अभी नहीं"
+   },
+   "dialogOKButton": {
+      "description": "Label for the accepting button in the dialog.",
+      "message": "ठीक"
+   },
+   "errorMsgEmptyRecording": {
+      "description": "Error message shown when no data is recorded for a recording and it won't be added to the gallery.",
+      "message": "कुछ भी रिकॉर्ड नहीं हुआ"
+   },
+   "errorMsgFileSystemFailed": {
+      "description": "Error message shown when failing to read or write the file system.",
+      "message": "फ़ाइल सिस्टम की गड़बड़ियां."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when exporting to an external directory failed. Expects a file name to be passed in.",
+      "message": "$file$ एक्सपोर्ट नहीं की जा सकती",
+      "placeholders": {
+         "file": {
+            "content": "$1",
+            "example": "IMG_20160520_000000.jpg"
+         }
+      }
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability.",
+      "message": "आपका कैमरा फ़िलहाल उपलब्ध नहीं है.\nकृपया देखें कि कैमरा ठीक तरह से कनेक्ट है या नहीं."
+   },
+   "errorMsgRecordStartFailed": {
+      "description": "Error message shown when failing to start recording video.",
+      "message": "रिकॉर्डिंग शुरू नहीं की जा सकी"
+   },
+   "errorMsgSaveFileFailed": {
+      "description": "Error message shown when saving/adding a image or video to the file system failed.",
+      "message": "फ़ाइल सेव नहीं की जा सकी"
+   },
+   "errorMsgTakePhotoFailed": {
+      "description": "Error message shown when failing to take photo.",
+      "message": "फ़ोटो नहीं खींची जा सकी"
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "डिस्क में ले जाएं"
+   },
+   "feedbackButton": {
+      "description": "Label for the feedback button.",
+      "message": "फ़ीडबैक भेजें"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "गैलरी में जाएं"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "गैलरी की इमेज"
+   },
+   "gridTypeButton": {
+      "description": "Label for the button of grid-type options.",
+      "message": "ग्रिड प्रकार"
+   },
+   "helpButton": {
+      "description": "Label for the help button.",
+      "message": "सहायता"
+   },
+   "labelGrid3x3": {
+      "description": "Label for for grid-type: 3x3.",
+      "message": "3 x 3"
+   },
+   "labelGrid4x4": {
+      "description": "Label for for grid-type: 4x4.",
+      "message": "4 x 4"
+   },
+   "labelGridGolden": {
+      "description": "Label for grid-type: golden ratio.",
+      "message": "स्वर्ण अनुपात"
+   },
+   "labelTimer10s": {
+      "description": "Label for timer-duration: 10 seconds.",
+      "message": "10 सेकंड"
+   },
+   "labelTimer3s": {
+      "description": "Label for timer-duration: 3 seconds.",
+      "message": "तीन सेकंड"
+   },
+   "migratePicturesMsg": {
+      "description": "Message shown before moving all photos and videos stored in the Camera App to the Downloads folder.",
+      "message": "कैमरे से ली गईं फ़ोटो और वीडियो 'डाउनलोड' फ़ोल्डर में ले जाए जाएंगे. आप 'फ़ाइल' में जाकर उन्हें एक्सेस कर सकते हैं.\n\nमेमोरी की अनुमतियों वाले ऐप्लिकेशन आपकी फ़ोटो और वीडियो एक्सेस कर पाएंगे."
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "कैमरा"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "प्रिंट करें"
+   },
+   "recordVideoStartButton": {
+      "description": "Label for the shutter button to start recording.",
+      "message": "रिकॉर्ड करना शुरू करें"
+   },
+   "recordVideoStopButton": {
+      "description": "Label for the shutter button to stop recording.",
+      "message": "रिकॉर्ड करना बंद करें"
+   },
+   "settingsButton": {
+      "description": "Label for the settings button.",
+      "message": "सेटिंग"
+   },
+   "statusMsgCameraSwitched": {
+      "description": "Status message for spoken feedback when switching over to another camera.",
+      "message": "$camera$ चालू है",
+      "placeholders": {
+         "camera": {
+            "content": "$1",
+            "example": "USB WebCam (12ab:5678) User-facing"
+         }
+      }
+   },
+   "statusMsgRecordingStopped": {
+      "description": "Status message for spoken feedback when video recording has been stopped.",
+      "message": "रिकॉर्डिंग रूक गई है"
+   },
+   "switchCameraButton": {
+      "description": "Label for the button to switch to next connected camera. Eg. switching from front facing to back facing, or a camera connected via USB. The button is shown only when more than one camera is connected.",
+      "message": "अगले कैमरे का इस्तेमाल करें"
+   },
+   "switchRecordVideoButton": {
+      "description": "Label for the button to switch to record video mode.",
+      "message": "वीडियो रिकॉर्डिंग मोड पर जाएं"
+   },
+   "switchTakePhotoButton": {
+      "description": "Label for the button to switch to take photo mode.",
+      "message": "फ़ोटो खींचने वाले मोड पर जाएं"
+   },
+   "takePhotoButton": {
+      "description": "Label for the shutter button to take photo.",
+      "message": "फ़ोटो लें"
+   },
+   "takePhotoCancelButton": {
+      "description": "Label for the shutter button to cancel countdown timer and stop taking photo.",
+      "message": "फ़ोटो न खींचें"
+   },
+   "timerDurationButton": {
+      "description": "Label for the button of timer-duration options.",
+      "message": "टाइमर का कुल समय"
+   },
+   "toggleGridButton": {
+      "description": "Label for the checkbox to toggle the grid shown on preview.",
+      "message": "ग्रिड"
+   },
+   "toggleMicButton": {
+      "description": "Label for the checkbox to toggle the microphone for recording video.",
+      "message": "माइक्रोफ़ोन"
+   },
+   "toggleMirrorButton": {
+      "description": "Label for the checkbox to toggle the preview mirroring. Eg. if mirroring is toggled on, preview will be flipped horizontally.",
+      "message": "मिररिंग"
+   },
+   "toggleTimerButton": {
+      "description": "Label for the checkbox to toggle the countdown timer.",
+      "message": "टाइमर"
+   }
+}

@@ -1,0 +1,6 @@
+2021/11/13-09:50:33.128 17e9de Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.thermofisher.com_0.indexeddb.leveldb since it was missing.
+2021/11/13-09:50:33.139 17e9de Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.thermofisher.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/13-09:53:36.813 17e9df Level-0 table #5: started
+2021/11/13-09:53:36.817 17e9df Level-0 table #5: 1394 bytes OK
+2021/11/13-09:53:36.822 17e9df Delete type=0 #3
+2021/11/13-09:53:36.822 17e9df Manual compaction at level-0 from (begin) .. (end); will stop at (end)

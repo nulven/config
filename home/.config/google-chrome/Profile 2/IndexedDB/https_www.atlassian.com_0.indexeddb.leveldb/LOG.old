@@ -1,0 +1,6 @@
+2021/10/26-13:38:35.051 1156e1 Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb since it was missing.
+2021/10/26-13:38:35.066 1156e1 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/26-13:38:41.304 115912 Level-0 table #5: started
+2021/10/26-13:38:41.307 115912 Level-0 table #5: 1022 bytes OK
+2021/10/26-13:38:41.313 115912 Delete type=0 #3
+2021/10/26-13:38:41.313 1156e2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

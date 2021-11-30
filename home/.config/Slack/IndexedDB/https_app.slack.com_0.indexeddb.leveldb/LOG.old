@@ -1,0 +1,15 @@
+2021/11/15-09:55:42.399 cb2d Reusing MANIFEST /home/nulven/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/15-09:55:42.401 cb2d Recovering log #8099
+2021/11/15-09:55:42.404 cb2d Reusing old log /home/nulven/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/008099.log 
+2021/11/16-20:27:17.628 120d72 Level-0 table #8104: started
+2021/11/16-20:27:17.633 120d72 Level-0 table #8104: 54680 bytes OK
+2021/11/16-20:27:17.638 120d72 Delete type=0 #8099
+2021/11/16-20:27:17.639 120d72 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/16-20:27:17.643 120d72 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01(\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x00P\x00K\x007\x00E\x00A\x00G\x00U\x00B\x00-\x00U\x00P\x00W\x00M\x009\x003\x00U\x00R\x00W' @ 362079 : 0
+2021/11/16-20:27:17.643 120d72 Compacting 1@1 + 1@2 files
+2021/11/16-20:27:17.647 120d72 Generated table #8105@1: 39 keys, 1287 bytes
+2021/11/16-20:27:17.647 120d72 Compacted 1@1 + 1@2 files => 1287 bytes
+2021/11/16-20:27:17.651 120d72 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/16-20:27:17.652 120d72 Delete type=2 #8104
+2021/11/16-20:27:17.652 120d72 Delete type=2 #8101
+2021/11/16-20:27:17.652 120d72 Manual compaction at level-1 from '\x00\x01\x01\x03\x01(\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x00P\x00K\x007\x00E\x00A\x00G\x00U\x00B\x00-\x00U\x00P\x00W\x00M\x009\x003\x00U\x00R\x00W' @ 362079 : 0 .. (end); will stop at (end)

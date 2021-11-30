@@ -1,0 +1,15 @@
+2021/11/03-20:27:08.146 a1a4f Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.coinbase.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/03-20:27:08.147 a1a4f Recovering log #4
+2021/11/03-20:27:08.177 a1a4f Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.coinbase.com_0.indexeddb.leveldb/000004.log 
+2021/11/03-20:31:43.876 a4b14 Level-0 table #8: started
+2021/11/03-20:31:43.900 a4b14 Level-0 table #8: 754266 bytes OK
+2021/11/03-20:31:43.905 a4b14 Delete type=0 #4
+2021/11/03-20:31:43.906 a4b14 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/03-20:31:43.906 a4b14 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\xc8\x15\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00-\x00k\x00e\x00y\x00v\x00a\x00l' @ 19046 : 1
+2021/11/03-20:31:43.906 a4b14 Compacting 1@1 + 1@2 files
+2021/11/03-20:31:43.923 a4b14 Generated table #9@1: 631 keys, 83072 bytes
+2021/11/03-20:31:43.923 a4b14 Compacted 1@1 + 1@2 files => 83072 bytes
+2021/11/03-20:31:43.931 a4b14 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/03-20:31:43.931 a4b14 Delete type=2 #8
+2021/11/03-20:31:43.931 a4b14 Delete type=2 #5
+2021/11/03-20:31:43.932 a4b14 Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x15\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00-\x00k\x00e\x00y\x00v\x00a\x00l' @ 19046 : 1 .. (end); will stop at (end)

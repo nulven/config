@@ -1,0 +1,5 @@
+2020/06/20-09:14:35.277 1be5 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.hertz.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/21-20:12:26.766 fff Level-0 table #5: started
+2020/06/21-20:12:26.770 fff Level-0 table #5: 4940 bytes OK
+2020/06/21-20:12:26.774 fff Delete type=0 #3
+2020/06/21-20:12:26.775 fff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

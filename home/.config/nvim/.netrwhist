@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/nulven/zk-message-board/.github'
+let g:netrw_dirhist_9='/home/nulven/starknet-dai-bridge/node_modules/hardhat/internal'
+let g:netrw_dirhist_8='/home/nulven/starknet-dai-bridge/artifacts/contracts/Greeter.sol'
+let g:netrw_dirhist_7='/home/nulven/starknet-dai-bridge/artifacts/hardhat/console.sol'
+let g:netrw_dirhist_6='/home/nulven/solc-select'
+let g:netrw_dirhist_5='/home/nulven/ApkProjects'
+let g:netrw_dirhist_4='/home/nulven/CairoMarketplace'
+let g:netrw_dirhist_3='/home/nulven'
+let g:netrw_dirhist_2='/home/nulven/CairoMarketplace'
+let g:netrw_dirhist_1='/home/nulven/EthDataMarketplace/circuits'

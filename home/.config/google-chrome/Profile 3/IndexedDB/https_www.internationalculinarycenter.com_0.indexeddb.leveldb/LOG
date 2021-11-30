@@ -1,0 +1,5 @@
+2020/07/27-17:58:45.573 bab Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.internationalculinarycenter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/27-17:59:07.871 186f Level-0 table #5: started
+2020/07/27-17:59:07.875 186f Level-0 table #5: 1332 bytes OK
+2020/07/27-17:59:07.882 186f Delete type=0 #3
+2020/07/27-17:59:07.882 186f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/08/13-16:05:08.140 bb8 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.buffalowildwings.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/13-17:07:53.021 122a Level-0 table #5: started
+2020/08/13-17:07:53.035 122a Level-0 table #5: 1133 bytes OK
+2020/08/13-17:07:53.040 122a Delete type=0 #3
+2020/08/13-17:07:53.041 122a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

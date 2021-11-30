@@ -1,0 +1,8 @@
+2020/06/19-00:29:20.223 369b Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.prevention.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/19-00:29:20.224 369b Recovering log #4
+2020/06/19-00:29:20.224 369b Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.prevention.com_0.indexeddb.leveldb/000004.log 
+2020/06/19-00:29:23.898 16cc Level-0 table #8: started
+2020/06/19-00:29:23.898 16cc Level-0 table #8: 0 bytes OK
+2020/06/19-00:29:23.903 16cc Delete type=0 #4
+2020/06/19-00:29:23.903 16cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/19-00:29:23.903 16cc Manual compaction at level-1 from (begin) .. (end); will stop at (end)

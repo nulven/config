@@ -1,0 +1,15 @@
+2020/05/26-02:17:16.946 5fe9 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_hackersandslackers.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/26-02:17:16.947 5fe9 Recovering log #7
+2020/05/26-02:17:16.947 5fe9 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_hackersandslackers.com_0.indexeddb.leveldb/000007.log 
+2020/05/26-02:18:33.703 dac Level-0 table #12: started
+2020/05/26-02:18:33.714 dac Level-0 table #12: 4901 bytes OK
+2020/05/26-02:18:33.719 dac Delete type=0 #7
+2020/05/26-02:18:33.720 dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/26-02:18:33.720 dac Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01'\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00y\x00o\x00u\x00r\x00-\x00f\x00i\x00r\x00s\x00t\x00-\x00f\x00l\x00a\x00s\x00k\x00-\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n' @ 374 : 1
+2020/05/26-02:18:33.720 dac Compacting 1@1 + 1@2 files
+2020/05/26-02:18:33.725 dac Generated table #13@1: 62 keys, 3327 bytes
+2020/05/26-02:18:33.725 dac Compacted 1@1 + 1@2 files => 3327 bytes
+2020/05/26-02:18:33.730 dac compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/26-02:18:33.730 dac Delete type=2 #9
+2020/05/26-02:18:33.730 dac Delete type=2 #12
+2020/05/26-02:18:33.731 dac Manual compaction at level-1 from '\x00\x01\x01\x02\x01'\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00y\x00o\x00u\x00r\x00-\x00f\x00i\x00r\x00s\x00t\x00-\x00f\x00l\x00a\x00s\x00k\x00-\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n' @ 374 : 1 .. (end); will stop at (end)

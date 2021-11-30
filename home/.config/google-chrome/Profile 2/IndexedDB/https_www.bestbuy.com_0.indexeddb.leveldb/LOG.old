@@ -1,0 +1,7 @@
+2021/11/16-14:36:03.640 e7ea8 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.bestbuy.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/16-14:36:03.640 e7ea8 Recovering log #3
+2021/11/16-14:36:03.640 e7ea8 Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.bestbuy.com_0.indexeddb.leveldb/000003.log 
+2021/11/16-14:36:14.009 e78e9 Level-0 table #5: started
+2021/11/16-14:36:14.013 e78e9 Level-0 table #5: 1297 bytes OK
+2021/11/16-14:36:14.017 e78e9 Delete type=0 #3
+2021/11/16-14:36:14.017 e78e9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

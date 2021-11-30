@@ -1,0 +1,4 @@
+2021/11/29-14:52:14.873 5 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/Local Storage/leveldb/MANIFEST-000001
+2021/11/29-14:52:14.874 5 Recovering log #6
+2021/11/29-14:52:14.875 5 (ignoring error) /home/nulven/.config/google-chrome/Profile 2/Local Storage/leveldb/000006.log: dropping 8990 bytes; Corruption: checksum mismatch
+2021/11/29-14:52:14.875 5 Reusing old log /home/nulven/.config/google-chrome/Profile 2/Local Storage/leveldb/000006.log 

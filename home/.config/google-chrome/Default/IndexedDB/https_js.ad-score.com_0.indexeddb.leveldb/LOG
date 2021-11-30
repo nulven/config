@@ -1,0 +1,9 @@
+2020/03/27-02:48:14.796 1e30 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/27-02:48:14.938 1ff9 Level-0 table #5: started
+2020/03/27-02:48:14.942 1ff9 Level-0 table #5: 1059 bytes OK
+2020/03/27-02:48:14.953 1ff9 Delete type=0 #3
+2020/03/27-02:48:14.954 1ff9 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/03/27-02:48:23.263 1ff9 Level-0 table #7: started
+2020/03/27-02:48:23.268 1ff9 Level-0 table #7: 516 bytes OK
+2020/03/27-02:48:23.273 1ff9 Delete type=0 #4
+2020/03/27-02:48:23.273 1ff9 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

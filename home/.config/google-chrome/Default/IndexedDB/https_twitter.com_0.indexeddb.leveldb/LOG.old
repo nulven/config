@@ -1,0 +1,15 @@
+2020/08/07-11:17:46.839 3d25 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/07-11:17:46.840 3d25 Recovering log #11
+2020/08/07-11:17:46.840 3d25 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000011.log 
+2020/08/07-11:18:25.317 2b2a Level-0 table #16: started
+2020/08/07-11:18:25.321 2b2a Level-0 table #16: 207 bytes OK
+2020/08/07-11:18:25.326 2b2a Delete type=0 #11
+2020/08/07-11:18:25.326 2b2a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/07-11:18:25.326 2b2a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 181 : 1
+2020/08/07-11:18:25.326 2b2a Compacting 1@1 + 1@2 files
+2020/08/07-11:18:25.331 2b2a Generated table #17@1: 32 keys, 651 bytes
+2020/08/07-11:18:25.331 2b2a Compacted 1@1 + 1@2 files => 651 bytes
+2020/08/07-11:18:25.336 2b2a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/07-11:18:25.336 2b2a Delete type=2 #13
+2020/08/07-11:18:25.336 2b2a Delete type=2 #16
+2020/08/07-11:18:25.336 2b2a Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 181 : 1 .. (end); will stop at (end)

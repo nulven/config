@@ -1,0 +1,15 @@
+2020/07/24-19:33:49.343 21b8 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_dashboard.stripe.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/24-19:33:49.344 21b8 Recovering log #15
+2020/07/24-19:33:49.344 21b8 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_dashboard.stripe.com_0.indexeddb.leveldb/000015.log 
+2020/07/24-19:34:21.356 1b69 Level-0 table #20: started
+2020/07/24-19:34:21.366 1b69 Level-0 table #20: 405 bytes OK
+2020/07/24-19:34:21.371 1b69 Delete type=0 #15
+2020/07/24-19:34:21.371 1b69 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/24-19:34:21.371 1b69 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x013\x00s\x00t\x00r\x00i\x00p\x00e\x00_\x00a\x00c\x00c\x00o\x00u\x00n\x00t\x00:\x002\x00d\x005\x003\x001\x00c\x009\x009\x00-\x00b\x00b\x00d\x009\x00-\x004\x003\x008\x006\x00-\x00b\x007\x00f\x00e\x00-\x008\x003\x001\x001\x004\x00a\x007\x008\x001\x00b\x00a\x00d' @ 120 : 0
+2020/07/24-19:34:21.371 1b69 Compacting 1@1 + 1@2 files
+2020/07/24-19:34:21.375 1b69 Generated table #21@1: 22 keys, 825 bytes
+2020/07/24-19:34:21.376 1b69 Compacted 1@1 + 1@2 files => 825 bytes
+2020/07/24-19:34:21.380 1b69 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/24-19:34:21.380 1b69 Delete type=2 #17
+2020/07/24-19:34:21.380 1b69 Delete type=2 #20
+2020/07/24-19:34:21.381 1b69 Manual compaction at level-1 from '\x00\x01\x01\x02\x013\x00s\x00t\x00r\x00i\x00p\x00e\x00_\x00a\x00c\x00c\x00o\x00u\x00n\x00t\x00:\x002\x00d\x005\x003\x001\x00c\x009\x009\x00-\x00b\x00b\x00d\x009\x00-\x004\x003\x008\x006\x00-\x00b\x007\x00f\x00e\x00-\x008\x003\x001\x001\x004\x00a\x007\x008\x001\x00b\x00a\x00d' @ 120 : 0 .. (end); will stop at (end)

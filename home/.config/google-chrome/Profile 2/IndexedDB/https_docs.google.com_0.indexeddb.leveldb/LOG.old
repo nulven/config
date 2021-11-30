@@ -1,0 +1,38 @@
+2021/11/30-08:45:38.954 61af Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/30-08:45:38.954 61af Recovering log #3
+2021/11/30-08:45:38.955 61af Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2021/11/30-08:47:47.948 6906 Level-0 table #5: started
+2021/11/30-08:47:47.958 6906 Level-0 table #5: 86068 bytes OK
+2021/11/30-08:47:47.965 6906 Delete type=0 #3
+2021/11/30-08:47:47.965 6906 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/30-08:50:02.273 6611 Level-0 table #7: started
+2021/11/30-08:50:02.294 6611 Level-0 table #7: 1387000 bytes OK
+2021/11/30-08:50:02.300 6611 Delete type=0 #4
+2021/11/30-08:50:04.447 6611 Compacting 1@1 + 1@2 files
+2021/11/30-08:50:04.490 6611 Generated table #8@1: 1652 keys, 1017131 bytes
+2021/11/30-08:50:04.490 6611 Compacted 1@1 + 1@2 files => 1017131 bytes
+2021/11/30-08:50:04.495 6611 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/30-08:50:04.495 6611 Delete type=2 #7
+2021/11/30-08:50:04.495 6611 Delete type=2 #5
+2021/11/30-09:07:11.898 920b Level-0 table #10: started
+2021/11/30-09:07:11.918 920b Level-0 table #10: 1327859 bytes OK
+2021/11/30-09:07:11.923 920b Delete type=0 #6
+2021/11/30-09:07:12.610 893b Compacting 1@1 + 1@2 files
+2021/11/30-09:07:12.652 893b Generated table #11@1: 2837 keys, 2032667 bytes
+2021/11/30-09:07:12.653 893b Compacted 1@1 + 1@2 files => 2032667 bytes
+2021/11/30-09:07:12.661 893b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/30-10:10:24.452 b973 Level-0 table #13: started
+2021/11/30-10:10:24.463 b973 Level-0 table #13: 434848 bytes OK
+2021/11/30-10:10:24.468 b973 Delete type=0 #9
+2021/11/30-10:10:24.468 b973 Delete type=2 #8
+2021/11/30-10:10:24.468 b973 Delete type=2 #10
+2021/11/30-10:10:24.469 b973 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/30-10:10:24.469 b973 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x10\x02\x01,\x001\x00y\x00g\x00T\x00q\x00L\x008\x004\x00G\x00z\x00W\x00Y\x00s\x00P\x00I\x003\x00d\x00a\x00f\x00k\x00w\x00U\x00n\x005\x00Q\x00T\x006\x00I\x00D\x00G\x001\x00U\x00g\x00W\x00D\x00Y\x00V\x00i\x00H\x003\x00N\x00z\x006\x00E' @ 22876 : 1
+2021/11/30-10:10:24.469 b973 Compacting 1@1 + 1@2 files
+2021/11/30-10:10:24.509 b973 Generated table #14@1: 1956 keys, 2135538 bytes
+2021/11/30-10:10:24.516 b973 Generated table #15@1: 1251 keys, 233137 bytes
+2021/11/30-10:10:24.516 b973 Compacted 1@1 + 1@2 files => 2368675 bytes
+2021/11/30-10:10:24.520 b973 compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/11/30-10:10:24.521 b973 Delete type=2 #13
+2021/11/30-10:10:24.521 b973 Delete type=2 #11
+2021/11/30-10:10:24.521 b973 Manual compaction at level-1 from '\x00\x02\x10\x02\x01,\x001\x00y\x00g\x00T\x00q\x00L\x008\x004\x00G\x00z\x00W\x00Y\x00s\x00P\x00I\x003\x00d\x00a\x00f\x00k\x00w\x00U\x00n\x005\x00Q\x00T\x006\x00I\x00D\x00G\x001\x00U\x00g\x00W\x00D\x00Y\x00V\x00i\x00H\x003\x00N\x00z\x006\x00E' @ 22876 : 1 .. (end); will stop at (end)

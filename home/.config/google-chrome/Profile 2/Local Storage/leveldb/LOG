@@ -1,0 +1,8 @@
+2021/11/30-07:15:52.491 5 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/Local Storage/leveldb/MANIFEST-000001
+2021/11/30-07:15:52.493 5 Recovering log #6
+2021/11/30-07:15:52.493 5 (ignoring error) /home/nulven/.config/google-chrome/Profile 2/Local Storage/leveldb/000006.log: dropping 25490 bytes; Corruption: checksum mismatch
+2021/11/30-07:15:52.493 5 (ignoring error) /home/nulven/.config/google-chrome/Profile 2/Local Storage/leveldb/000006.log: dropping 1160 bytes; Corruption: missing start of fragmented record(2)
+2021/11/30-07:15:52.495 5 Reusing old log /home/nulven/.config/google-chrome/Profile 2/Local Storage/leveldb/000006.log 
+2021/11/30-08:50:32.102 13 Level-0 table #10: started
+2021/11/30-08:50:32.111 13 Level-0 table #10: 23416 bytes OK
+2021/11/30-08:50:32.118 13 Delete type=0 #6

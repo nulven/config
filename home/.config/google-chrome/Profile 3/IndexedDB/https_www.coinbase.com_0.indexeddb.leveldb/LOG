@@ -1,0 +1,15 @@
+2021/02/10-11:57:42.467 3e725 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.coinbase.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/10-11:57:42.467 3e725 Recovering log #4
+2021/02/10-11:57:42.467 3e725 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.coinbase.com_0.indexeddb.leveldb/000004.log 
+2021/02/10-11:58:17.914 3eb07 Level-0 table #8: started
+2021/02/10-11:58:17.920 3eb07 Level-0 table #8: 19129 bytes OK
+2021/02/10-11:58:17.925 3eb07 Delete type=0 #4
+2021/02/10-11:58:17.926 3eb07 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/10-11:58:17.926 3eb07 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01J\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00a\x00s\x00s\x00e\x00t\x00s\x00.\x00c\x00o\x00i\x00n\x00b\x00a\x00s\x00e\x00.\x00c\x00o\x00m\x00/\x00e\x00a\x00r\x00n\x00/\x00c\x00a\x00m\x00p\x00a\x00i\x00g\x00n\x00s\x00/\x00t\x00h\x00e\x00-\x00g\x00r\x00a\x00p\x00h\x00/\x00a\x00s\x00s\x00e\x00t\x00-\x00l\x00o\x00g\x00o\x00.\x00s\x00v\x00g' @ 2089 : 1
+2021/02/10-11:58:17.926 3eb07 Compacting 1@1 + 1@2 files
+2021/02/10-11:58:17.935 3eb07 Generated table #9@1: 209 keys, 32566 bytes
+2021/02/10-11:58:17.935 3eb07 Compacted 1@1 + 1@2 files => 32566 bytes
+2021/02/10-11:58:17.940 3eb07 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/10-11:58:17.940 3eb07 Delete type=2 #8
+2021/02/10-11:58:17.940 3eb07 Delete type=2 #5
+2021/02/10-11:58:17.941 3eb07 Manual compaction at level-1 from '\x00\x02\x01\x02\x01J\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00a\x00s\x00s\x00e\x00t\x00s\x00.\x00c\x00o\x00i\x00n\x00b\x00a\x00s\x00e\x00.\x00c\x00o\x00m\x00/\x00e\x00a\x00r\x00n\x00/\x00c\x00a\x00m\x00p\x00a\x00i\x00g\x00n\x00s\x00/\x00t\x00h\x00e\x00-\x00g\x00r\x00a\x00p\x00h\x00/\x00a\x00s\x00s\x00e\x00t\x00-\x00l\x00o\x00g\x00o\x00.\x00s\x00v\x00g' @ 2089 : 1 .. (end); will stop at (end)

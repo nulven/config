@@ -1,0 +1,1 @@
+!function(){var e=document.getElementById("access_key");console.log("here"),e&&chrome.storage.sync.set({accessKey:e.value})}();

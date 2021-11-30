@@ -1,0 +1,6 @@
+2021/07/05-15:38:20.267 2bf9cb Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/05-15:38:20.267 2bf9cb Recovering log #204
+2021/07/05-15:38:20.282 2bf9cb Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000204.log 
+2021/07/05-15:38:38.052 2c300a Level-0 table #209: started
+2021/07/05-15:38:38.070 2c300a Level-0 table #209: 1777111 bytes OK
+2021/07/05-15:38:38.077 2c300a Delete type=0 #204

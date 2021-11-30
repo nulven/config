@@ -1,0 +1,8 @@
+2020/09/02-10:23:47.960 29db Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/02-10:23:47.960 29db Recovering log #4
+2020/09/02-10:23:47.960 29db Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000004.log 
+2020/09/02-10:24:00.441 12a2 Level-0 table #8: started
+2020/09/02-10:24:00.441 12a2 Level-0 table #8: 0 bytes OK
+2020/09/02-10:24:00.452 12a2 Delete type=0 #4
+2020/09/02-10:24:00.452 12a2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/02-10:24:00.453 12a2 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/06/19-00:27:53.149 3b74 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_e46db7b3dd4983f9f0611dde367e40b0.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/19-00:27:56.744 16cc Level-0 table #5: started
+2020/06/19-00:27:56.749 16cc Level-0 table #5: 460 bytes OK
+2020/06/19-00:27:56.755 16cc Delete type=0 #3
+2020/06/19-00:27:56.756 16cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2020/05/19-00:12:13.672 7fc5 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_app.snov.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/19-00:12:13.672 7fc5 Recovering log #4
+2020/05/19-00:12:13.672 7fc5 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_app.snov.io_0.indexeddb.leveldb/000004.log 
+2020/05/19-00:12:31.454 75c5 Level-0 table #8: started
+2020/05/19-00:12:31.454 75c5 Level-0 table #8: 0 bytes OK
+2020/05/19-00:12:31.461 75c5 Delete type=0 #4
+2020/05/19-00:12:31.462 75c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/19-00:12:31.462 75c5 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

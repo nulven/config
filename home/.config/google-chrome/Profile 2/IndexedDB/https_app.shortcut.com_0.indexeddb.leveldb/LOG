@@ -1,0 +1,6 @@
+2021/11/09-22:23:57.463 3d4c8 Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_app.shortcut.com_0.indexeddb.leveldb since it was missing.
+2021/11/09-22:23:57.476 3d4c8 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_app.shortcut.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/09-22:24:33.110 3f907 Level-0 table #5: started
+2021/11/09-22:24:33.116 3f907 Level-0 table #5: 10768 bytes OK
+2021/11/09-22:24:33.121 3f907 Delete type=0 #3
+2021/11/09-22:24:33.122 3f907 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

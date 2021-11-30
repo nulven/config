@@ -1,0 +1,15 @@
+2021/05/08-15:54:16.434 26d62 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/chrome-extension_nkbihfbeogaeaoehlefnkodbefgpgknn_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/08-15:54:16.434 26d62 Recovering log #4
+2021/05/08-15:54:16.437 26d62 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/chrome-extension_nkbihfbeogaeaoehlefnkodbefgpgknn_0.indexeddb.leveldb/000004.log 
+2021/05/12-14:21:22.908 3697a5 Level-0 table #8: started
+2021/05/12-14:21:22.922 3697a5 Level-0 table #8: 123558 bytes OK
+2021/05/12-14:21:22.928 3697a5 Delete type=0 #4
+2021/05/12-14:21:22.930 3697a5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/12-14:21:22.930 3697a5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01;\x00c\x00a\x00c\x00h\x00e\x00d\x00F\x00e\x00t\x00c\x00h\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00p\x00i\x00.\x00m\x00e\x00t\x00a\x00s\x00w\x00a\x00p\x00.\x00c\x00o\x00d\x00e\x00f\x00i\x00.\x00n\x00e\x00t\x00w\x00o\x00r\x00k\x00/\x00f\x00e\x00a\x00t\x00u\x00r\x00e\x00F\x00l\x00a\x00g' @ 38504 : 1
+2021/05/12-14:21:22.930 3697a5 Compacting 1@1 + 1@2 files
+2021/05/12-14:21:22.960 3697a5 Generated table #9@1: 31 keys, 1147 bytes
+2021/05/12-14:21:22.961 3697a5 Compacted 1@1 + 1@2 files => 1147 bytes
+2021/05/12-14:21:22.965 3697a5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/12-14:21:22.965 3697a5 Delete type=2 #8
+2021/05/12-14:21:22.965 3697a5 Delete type=2 #5
+2021/05/12-14:21:22.966 3697a5 Manual compaction at level-1 from '\x00\x01\x01\x02\x01;\x00c\x00a\x00c\x00h\x00e\x00d\x00F\x00e\x00t\x00c\x00h\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00p\x00i\x00.\x00m\x00e\x00t\x00a\x00s\x00w\x00a\x00p\x00.\x00c\x00o\x00d\x00e\x00f\x00i\x00.\x00n\x00e\x00t\x00w\x00o\x00r\x00k\x00/\x00f\x00e\x00a\x00t\x00u\x00r\x00e\x00F\x00l\x00a\x00g' @ 38504 : 1 .. (end); will stop at (end)

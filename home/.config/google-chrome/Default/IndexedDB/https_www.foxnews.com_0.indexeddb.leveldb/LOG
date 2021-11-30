@@ -1,0 +1,7 @@
+2020/06/10-11:26:15.579 3e1d Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.foxnews.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/10-11:26:15.579 3e1d Recovering log #3
+2020/06/10-11:26:15.580 3e1d Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.foxnews.com_0.indexeddb.leveldb/000003.log 
+2020/06/10-11:26:52.711 18eb Level-0 table #5: started
+2020/06/10-11:26:52.716 18eb Level-0 table #5: 7776 bytes OK
+2020/06/10-11:26:52.721 18eb Delete type=0 #3
+2020/06/10-11:26:52.722 18eb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

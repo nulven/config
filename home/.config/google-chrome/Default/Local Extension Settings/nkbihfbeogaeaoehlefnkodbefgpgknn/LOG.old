@@ -1,0 +1,18 @@
+2021/09/08-20:22:15.501 d64d4 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2021/09/08-20:22:15.501 d64d4 Recovering log #114
+2021/09/08-20:22:15.505 d64d4 Reusing old log /home/nulven/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/000114.log 
+2021/09/08-20:22:21.279 d78c5 Level-0 table #118: started
+2021/09/08-20:22:21.310 d78c5 Level-0 table #118: 2197313 bytes OK
+2021/09/08-20:22:21.315 d78c5 Delete type=0 #114
+2021/09/08-20:22:21.316 d78c5 Compacting 4@0 + 1@1 files
+2021/09/08-20:22:21.340 d78c5 Generated table #119@0: 2 keys, 818949 bytes
+2021/09/08-20:22:21.340 d78c5 Compacted 4@0 + 1@1 files => 818949 bytes
+2021/09/08-20:22:21.344 d78c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/08-20:22:21.345 d78c5 Delete type=2 #115
+2021/09/08-20:22:21.345 d78c5 Delete type=2 #110
+2021/09/08-20:22:21.345 d78c5 Delete type=2 #118
+2021/09/08-20:22:21.345 d78c5 Delete type=2 #108
+2021/09/08-20:22:21.345 d78c5 Delete type=2 #113
+2021/09/08-20:22:31.640 d79e6 Level-0 table #121: started
+2021/09/08-20:22:31.668 d79e6 Level-0 table #121: 1637063 bytes OK
+2021/09/08-20:22:31.673 d79e6 Delete type=0 #117

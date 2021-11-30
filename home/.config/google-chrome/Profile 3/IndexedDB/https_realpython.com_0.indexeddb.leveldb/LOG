@@ -1,0 +1,15 @@
+2020/07/22-10:23:10.527 1a25 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_realpython.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/22-10:23:10.527 1a25 Recovering log #19
+2020/07/22-10:23:10.527 1a25 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_realpython.com_0.indexeddb.leveldb/000019.log 
+2020/07/24-12:55:59.884 1b69 Level-0 table #24: started
+2020/07/24-12:55:59.889 1b69 Level-0 table #24: 5824 bytes OK
+2020/07/24-12:55:59.894 1b69 Delete type=0 #19
+2020/07/24-12:55:59.895 1b69 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/24-12:55:59.895 1b69 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 1270 : 1
+2020/07/24-12:55:59.895 1b69 Compacting 1@1 + 1@2 files
+2020/07/24-12:55:59.899 1b69 Generated table #25@1: 99 keys, 2152 bytes
+2020/07/24-12:55:59.899 1b69 Compacted 1@1 + 1@2 files => 2152 bytes
+2020/07/24-12:55:59.905 1b69 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/24-12:55:59.905 1b69 Delete type=2 #21
+2020/07/24-12:55:59.905 1b69 Delete type=2 #24
+2020/07/24-12:55:59.906 1b69 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 1270 : 1 .. (end); will stop at (end)

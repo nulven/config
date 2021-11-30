@@ -1,0 +1,6 @@
+2021/02/24-15:49:17.266 32c651 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/chrome-extension_nkbihfbeogaeaoehlefnkodbefgpgknn_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/24-15:49:17.267 32c651 Recovering log #3
+2021/02/24-15:49:17.313 32c651 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/chrome-extension_nkbihfbeogaeaoehlefnkodbefgpgknn_0.indexeddb.leveldb/000003.log 
+2021/03/07-21:14:19.269 93817 Level-0 table #5: started
+2021/03/07-21:14:19.316 93817 Level-0 table #5: 639478 bytes OK
+2021/03/07-21:14:19.325 93817 Delete type=0 #3

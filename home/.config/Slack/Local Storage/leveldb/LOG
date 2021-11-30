@@ -1,0 +1,45 @@
+2021/11/15-09:55:39.507 cb07 Reusing MANIFEST /home/nulven/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/11/15-09:55:39.508 cb07 Recovering log #3560
+2021/11/15-09:55:39.508 cb07 Reusing old log /home/nulven/.config/Slack/Local Storage/leveldb/003560.log 
+2021/11/15-09:56:41.550 cc33 Level-0 table #3565: started
+2021/11/15-09:56:41.561 cc33 Level-0 table #3565: 13448 bytes OK
+2021/11/15-09:56:41.567 cc33 Delete type=0 #3560
+2021/11/15-12:34:41.550 38124 Level-0 table #3567: started
+2021/11/15-12:34:41.561 38124 Level-0 table #3567: 12497 bytes OK
+2021/11/15-12:34:41.566 38124 Delete type=0 #3564
+2021/11/15-17:59:41.556 7140c Level-0 table #3569: started
+2021/11/15-17:59:41.564 7140c Level-0 table #3569: 10031 bytes OK
+2021/11/15-17:59:41.569 7140c Delete type=0 #3566
+2021/11/16-09:46:41.469 b7752 Level-0 table #3571: started
+2021/11/16-09:46:41.481 b7752 Level-0 table #3571: 7215 bytes OK
+2021/11/16-09:46:41.488 b7752 Delete type=0 #3568
+2021/11/16-09:46:41.489 b7752 Compacting 4@0 + 1@1 files
+2021/11/16-09:46:41.496 b7752 Generated table #3572@0: 163 keys, 14251 bytes
+2021/11/16-09:46:41.496 b7752 Compacted 4@0 + 1@1 files => 14251 bytes
+2021/11/16-09:46:41.502 b7752 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/16-09:46:41.502 b7752 Delete type=2 #3565
+2021/11/16-09:46:41.502 b7752 Delete type=2 #3562
+2021/11/16-09:46:41.502 b7752 Delete type=2 #3567
+2021/11/16-09:46:41.502 b7752 Delete type=2 #3569
+2021/11/16-09:46:41.502 b7752 Delete type=2 #3571
+2021/11/16-16:37:41.457 fb6a4 Level-0 table #3574: started
+2021/11/16-16:37:41.468 fb6a4 Level-0 table #3574: 7210 bytes OK
+2021/11/16-16:37:41.475 fb6a4 Delete type=0 #3570
+2021/11/16-20:28:41.446 12129b Level-0 table #3576: started
+2021/11/16-20:28:41.451 12129b Level-0 table #3576: 13471 bytes OK
+2021/11/16-20:28:41.457 12129b Delete type=0 #3573
+2021/11/17-04:14:18.780 16a7eb Level-0 table #3578: started
+2021/11/17-04:14:18.813 16a7eb Level-0 table #3578: 7220 bytes OK
+2021/11/17-04:14:18.846 16a7eb Delete type=0 #3575
+2021/11/17-11:05:18.792 19c104 Level-0 table #3580: started
+2021/11/17-11:05:18.797 19c104 Level-0 table #3580: 7219 bytes OK
+2021/11/17-11:05:18.802 19c104 Delete type=0 #3577
+2021/11/17-11:05:18.834 19c104 Compacting 4@0 + 1@1 files
+2021/11/17-11:05:18.839 19c104 Generated table #3581@0: 164 keys, 14295 bytes
+2021/11/17-11:05:18.839 19c104 Compacted 4@0 + 1@1 files => 14295 bytes
+2021/11/17-11:05:18.844 19c104 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/17-11:05:18.844 19c104 Delete type=2 #3580
+2021/11/17-11:05:18.844 19c104 Delete type=2 #3578
+2021/11/17-11:05:18.844 19c104 Delete type=2 #3576
+2021/11/17-11:05:18.844 19c104 Delete type=2 #3574
+2021/11/17-11:05:18.844 19c104 Delete type=2 #3572

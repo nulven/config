@@ -1,0 +1,7 @@
+2020/05/19-01:14:56.076 f17 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/19-01:14:56.076 f17 Recovering log #3
+2020/05/19-01:14:56.076 f17 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log 
+2020/05/19-01:15:59.165 75c5 Level-0 table #5: started
+2020/05/19-01:15:59.169 75c5 Level-0 table #5: 822 bytes OK
+2020/05/19-01:15:59.174 75c5 Delete type=0 #3
+2020/05/19-01:15:59.175 75c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

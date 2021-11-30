@@ -1,0 +1,15 @@
+2020/07/08-10:55:59.337 3dc9 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_diethood.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/08-10:55:59.338 3dc9 Recovering log #10
+2020/07/08-10:55:59.338 3dc9 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_diethood.com_0.indexeddb.leveldb/000010.log 
+2020/07/08-10:56:31.360 24c2 Level-0 table #14: started
+2020/07/08-10:56:31.364 24c2 Level-0 table #14: 773 bytes OK
+2020/07/08-10:56:31.368 24c2 Delete type=0 #10
+2020/07/08-10:56:31.368 24c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/08-10:56:31.368 24c2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\xc8\x04\x00u\x00s\x00e\x00r' @ 26 : 1
+2020/07/08-10:56:31.368 24c2 Compacting 1@1 + 1@2 files
+2020/07/08-10:56:31.372 24c2 Generated table #15@1: 21 keys, 532 bytes
+2020/07/08-10:56:31.372 24c2 Compacted 1@1 + 1@2 files => 532 bytes
+2020/07/08-10:56:31.379 24c2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/08-10:56:31.379 24c2 Delete type=2 #14
+2020/07/08-10:56:31.379 24c2 Delete type=2 #5
+2020/07/08-10:56:31.380 24c2 Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x04\x00u\x00s\x00e\x00r' @ 26 : 1 .. (end); will stop at (end)

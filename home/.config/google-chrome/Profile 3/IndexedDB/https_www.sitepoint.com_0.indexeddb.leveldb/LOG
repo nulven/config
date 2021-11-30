@@ -1,0 +1,5 @@
+2021/01/10-19:13:28.522 d1e63 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.sitepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/10-19:14:03.971 d1e62 Level-0 table #5: started
+2021/01/10-19:14:03.986 d1e62 Level-0 table #5: 81004 bytes OK
+2021/01/10-19:14:03.991 d1e62 Delete type=0 #3
+2021/01/10-19:14:03.992 d1e62 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

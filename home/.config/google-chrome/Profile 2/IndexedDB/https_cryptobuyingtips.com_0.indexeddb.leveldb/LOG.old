@@ -1,0 +1,7 @@
+2021/11/02-12:59:22.098 6cea7 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_cryptobuyingtips.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/02-12:59:22.098 6cea7 Recovering log #3
+2021/11/02-12:59:22.098 6cea7 Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_cryptobuyingtips.com_0.indexeddb.leveldb/000003.log 
+2021/11/02-13:00:22.434 6a7e2 Level-0 table #5: started
+2021/11/02-13:00:22.439 6a7e2 Level-0 table #5: 1736 bytes OK
+2021/11/02-13:00:22.446 6a7e2 Delete type=0 #3
+2021/11/02-13:00:22.446 6a7e2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

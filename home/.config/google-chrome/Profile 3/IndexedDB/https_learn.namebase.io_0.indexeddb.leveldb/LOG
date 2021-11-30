@@ -1,0 +1,15 @@
+2020/08/19-14:49:55.702 3303 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_learn.namebase.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/19-14:49:55.702 3303 Recovering log #15
+2020/08/19-14:49:55.702 3303 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_learn.namebase.io_0.indexeddb.leveldb/000015.log 
+2020/08/19-16:25:21.331 189a Level-0 table #20: started
+2020/08/19-16:25:21.335 189a Level-0 table #20: 1092 bytes OK
+2020/08/19-16:25:21.344 189a Delete type=0 #15
+2020/08/19-16:25:21.344 189a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/19-16:25:21.344 189a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x003\x007\x000\x009\x008\x004\x009\x000\x005' @ 164 : 1
+2020/08/19-16:25:21.344 189a Compacting 1@1 + 1@2 files
+2020/08/19-16:25:21.348 189a Generated table #21@1: 18 keys, 550 bytes
+2020/08/19-16:25:21.348 189a Compacted 1@1 + 1@2 files => 550 bytes
+2020/08/19-16:25:21.353 189a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/19-16:25:21.353 189a Delete type=2 #17
+2020/08/19-16:25:21.353 189a Delete type=2 #20
+2020/08/19-16:25:21.353 189a Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x003\x007\x000\x009\x008\x004\x009\x000\x005' @ 164 : 1 .. (end); will stop at (end)

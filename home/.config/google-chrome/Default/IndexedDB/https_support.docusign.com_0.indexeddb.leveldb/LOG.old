@@ -1,0 +1,18 @@
+2020/04/11-22:07:01.500 13ca Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_support.docusign.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/11-22:07:01.500 13ca Recovering log #6
+2020/04/11-22:07:01.504 13ca Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_support.docusign.com_0.indexeddb.leveldb/000006.log 
+2020/04/11-22:07:02.767 1259 Level-0 table #11: started
+2020/04/11-22:07:02.780 1259 Level-0 table #11: 1142557 bytes OK
+2020/04/11-22:07:02.788 1259 Delete type=0 #6
+2020/04/11-22:07:02.789 1259 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/04/11-22:07:02.913 1259 Compacting 1@1 + 1@2 files
+2020/04/11-22:07:02.936 1259 Generated table #12@1: 1683 keys, 1664020 bytes
+2020/04/11-22:07:02.937 1259 Compacted 1@1 + 1@2 files => 1664020 bytes
+2020/04/11-22:07:02.941 1259 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/04/11-22:07:02.997 1259 Level-0 table #14: started
+2020/04/11-22:07:03.020 1259 Level-0 table #14: 1386806 bytes OK
+2020/04/11-22:07:03.025 1259 Delete type=2 #11
+2020/04/11-22:07:03.025 1259 Delete type=2 #8
+2020/04/11-22:07:03.025 1259 Delete type=0 #10
+2020/04/11-22:07:41.899 1259 Compacting 1@1 + 1@2 files
+2020/04/11-22:07:41.924 1259 compacted to: files[ 0 1 1 0 0 0 0 ]

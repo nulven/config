@@ -1,0 +1,15 @@
+2021/02/10-16:42:59.262 ee51 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/10-16:42:59.262 ee51 Recovering log #117
+2021/02/10-16:42:59.262 ee51 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000117.log 
+2021/02/10-17:50:56.945 1aa77 Level-0 table #122: started
+2021/02/10-17:50:56.955 1aa77 Level-0 table #122: 2186 bytes OK
+2021/02/10-17:50:56.960 1aa77 Delete type=0 #117
+2021/02/10-17:50:56.960 1aa77 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/10-17:50:56.960 1aa77 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 2950 : 1
+2021/02/10-17:50:56.960 1aa77 Compacting 1@1 + 1@2 files
+2021/02/10-17:50:56.965 1aa77 Generated table #123@1: 136 keys, 7786 bytes
+2021/02/10-17:50:56.965 1aa77 Compacted 1@1 + 1@2 files => 7786 bytes
+2021/02/10-17:50:56.969 1aa77 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/10-17:50:56.969 1aa77 Delete type=2 #122
+2021/02/10-17:50:56.969 1aa77 Delete type=2 #119
+2021/02/10-17:50:56.969 1aa77 Manual compaction at level-1 from '\x00\x04\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 2950 : 1 .. (end); will stop at (end)

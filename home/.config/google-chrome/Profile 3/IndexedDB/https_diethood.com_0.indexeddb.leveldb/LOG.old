@@ -1,0 +1,8 @@
+2020/07/08-10:55:21.077 3cc1 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_diethood.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/08-10:55:21.077 3cc1 Recovering log #7
+2020/07/08-10:55:21.077 3cc1 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_diethood.com_0.indexeddb.leveldb/000007.log 
+2020/07/08-10:55:27.967 24c2 Level-0 table #11: started
+2020/07/08-10:55:27.968 24c2 Level-0 table #11: 0 bytes OK
+2020/07/08-10:55:27.979 24c2 Delete type=0 #7
+2020/07/08-10:55:27.979 24c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/08-10:55:27.979 24c2 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

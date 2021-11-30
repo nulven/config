@@ -1,0 +1,8 @@
+2020/03/21-02:32:05.074 2159 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_community.perforce.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/21-02:32:06.695 12fe Level-0 table #5: started
+2020/03/21-02:32:06.704 12fe Level-0 table #5: 271484 bytes OK
+2020/03/21-02:32:06.710 12fe Delete type=0 #3
+2020/03/21-02:32:06.711 12fe Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/03/21-02:32:07.904 12fe Level-0 table #7: started
+2020/03/21-02:32:07.925 12fe Level-0 table #7: 1464426 bytes OK
+2020/03/21-02:32:07.930 12fe Delete type=0 #4

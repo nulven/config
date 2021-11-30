@@ -1,0 +1,5 @@
+2020/05/23-21:29:07.847 c8f Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/23-21:29:10.135 dac Level-0 table #5: started
+2020/05/23-21:29:10.138 dac Level-0 table #5: 831 bytes OK
+2020/05/23-21:29:10.146 dac Delete type=0 #3
+2020/05/23-21:29:10.146 dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

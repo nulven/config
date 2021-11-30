@@ -1,0 +1,7 @@
+2021/11/01-13:06:38.008 c7d Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/01-13:06:38.008 c7d Recovering log #3
+2021/11/01-13:06:38.038 c7d Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/000003.log 
+2021/11/01-13:34:07.913 7cac Level-0 table #5: started
+2021/11/01-13:34:07.953 7cac Level-0 table #5: 614448 bytes OK
+2021/11/01-13:34:07.959 7cac Delete type=0 #3
+2021/11/01-13:34:07.960 7cac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

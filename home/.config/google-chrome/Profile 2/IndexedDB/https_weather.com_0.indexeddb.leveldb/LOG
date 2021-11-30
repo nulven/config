@@ -1,0 +1,6 @@
+2021/11/11-17:33:11.867 454de Creating DB /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_weather.com_0.indexeddb.leveldb since it was missing.
+2021/11/11-17:33:11.893 454de Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_weather.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/11-17:33:40.428 4784b Level-0 table #5: started
+2021/11/11-17:33:40.432 4784b Level-0 table #5: 1247 bytes OK
+2021/11/11-17:33:40.437 4784b Delete type=0 #3
+2021/11/11-17:33:40.437 4784b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

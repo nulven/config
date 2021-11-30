@@ -1,0 +1,30 @@
+[Print Settings]
+cover-after=none
+print-at=now
+print-at-time=
+duplex=simplex
+cups-Duplex=None
+cups-job-sheets=none,none
+evince-print-setting-page-size=false
+cups-cupsPrintQuality=Normal
+cups-MediaType=Stationery
+cups-job-priority=50
+evince-print-setting-page-scale=1
+media-type=Stationery
+evince-print-setting-page-autorotate=true
+cover-before=none
+printer=HP_OfficeJet_Pro_8020_series_86ADEA_
+cups-number-up=1
+
+output-basename=w9-form
+
+[Page Setup]
+PPDName=Letter
+DisplayName=US Letter
+Width=215.89999389648438
+Height=279.39999389648438
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

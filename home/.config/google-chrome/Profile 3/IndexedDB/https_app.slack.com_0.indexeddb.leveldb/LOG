@@ -1,0 +1,16 @@
+2020/05/18-19:13:53.722 18b4 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/18-19:15:40.886 75c5 Level-0 table #5: started
+2020/05/18-19:15:40.904 75c5 Level-0 table #5: 1109236 bytes OK
+2020/05/18-19:15:40.908 75c5 Delete type=0 #3
+2020/05/18-19:15:42.970 75c5 Level-0 table #7: started
+2020/05/18-19:15:42.984 75c5 Level-0 table #7: 64019 bytes OK
+2020/05/18-19:15:42.989 75c5 Delete type=0 #4
+2020/05/18-19:15:42.990 75c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/18-19:15:42.990 75c5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01*\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x003\x00D\x00N\x00L\x00D\x00K\x00M\x00-\x00W\x000\x001\x003\x00U\x008\x001\x00N\x009\x00K\x007' @ 73 : 1
+2020/05/18-19:15:42.990 75c5 Compacting 1@1 + 1@2 files
+2020/05/18-19:15:43.029 75c5 Generated table #8@1: 21 keys, 398450 bytes
+2020/05/18-19:15:43.029 75c5 Compacted 1@1 + 1@2 files => 398450 bytes
+2020/05/18-19:15:43.034 75c5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/18-19:15:43.034 75c5 Delete type=2 #7
+2020/05/18-19:15:43.034 75c5 Delete type=2 #5
+2020/05/18-19:15:43.034 75c5 Manual compaction at level-1 from '\x00\x01\x01\x02\x01*\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x003\x00D\x00N\x00L\x00D\x00K\x00M\x00-\x00W\x000\x001\x003\x00U\x008\x001\x00N\x009\x00K\x007' @ 73 : 1 .. (end); will stop at (end)

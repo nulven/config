@@ -1,0 +1,5 @@
+2020/06/14-15:07:48.583 4472 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_forum.ionicframework.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/14-15:08:08.426 14d3 Level-0 table #5: started
+2020/06/14-15:08:08.434 14d3 Level-0 table #5: 68420 bytes OK
+2020/06/14-15:08:08.441 14d3 Delete type=0 #3
+2020/06/14-15:08:08.441 14d3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

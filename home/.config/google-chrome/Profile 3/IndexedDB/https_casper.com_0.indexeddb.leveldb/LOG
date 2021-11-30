@@ -1,0 +1,15 @@
+2020/08/10-11:06:41.809 4f1a Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_casper.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/10-11:06:41.809 4f1a Recovering log #4
+2020/08/10-11:06:41.809 4f1a Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_casper.com_0.indexeddb.leveldb/000004.log 
+2020/08/10-11:07:14.760 2b2a Level-0 table #8: started
+2020/08/10-11:07:14.764 2b2a Level-0 table #8: 992 bytes OK
+2020/08/10-11:07:14.768 2b2a Delete type=0 #4
+2020/08/10-11:07:14.768 2b2a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/10-11:07:14.769 2b2a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x005\x006\x009\x005\x002\x003\x003\x007' @ 114 : 1
+2020/08/10-11:07:14.769 2b2a Compacting 1@1 + 1@2 files
+2020/08/10-11:07:14.772 2b2a Generated table #9@1: 22 keys, 757 bytes
+2020/08/10-11:07:14.772 2b2a Compacted 1@1 + 1@2 files => 757 bytes
+2020/08/10-11:07:14.777 2b2a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/10-11:07:14.777 2b2a Delete type=2 #8
+2020/08/10-11:07:14.777 2b2a Delete type=2 #5
+2020/08/10-11:07:14.777 2b2a Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x005\x006\x009\x005\x002\x003\x003\x007' @ 114 : 1 .. (end); will stop at (end)

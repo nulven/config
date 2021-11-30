@@ -1,0 +1,15 @@
+2020/08/25-02:11:07.806 4218 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/25-02:11:07.806 4218 Recovering log #374
+2020/08/25-02:11:07.806 4218 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/000374.log 
+2020/08/25-02:11:33.630 13d3 Level-0 table #379: started
+2020/08/25-02:11:33.637 13d3 Level-0 table #379: 2578 bytes OK
+2020/08/25-02:11:33.643 13d3 Delete type=0 #374
+2020/08/25-02:11:33.643 13d3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/25-02:11:33.644 13d3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00p\x05NGBwB\x00\x01\x14\x00P\x00B\x00Q\x004\x00X\x00H\x00P\x00Y\x000\x00N\x00D\x00X\x00S\x00Q\x00H\x00T\x004\x005\x00D\x00T' @ 3338 : 1
+2020/08/25-02:11:33.644 13d3 Compacting 1@1 + 1@2 files
+2020/08/25-02:11:33.648 13d3 Generated table #380@1: 28 keys, 782 bytes
+2020/08/25-02:11:33.648 13d3 Compacted 1@1 + 1@2 files => 782 bytes
+2020/08/25-02:11:33.654 13d3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/25-02:11:33.654 13d3 Delete type=2 #379
+2020/08/25-02:11:33.654 13d3 Delete type=2 #376
+2020/08/25-02:11:33.655 13d3 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00p\x05NGBwB\x00\x01\x14\x00P\x00B\x00Q\x004\x00X\x00H\x00P\x00Y\x000\x00N\x00D\x00X\x00S\x00Q\x00H\x00T\x004\x005\x00D\x00T' @ 3338 : 1 .. (end); will stop at (end)

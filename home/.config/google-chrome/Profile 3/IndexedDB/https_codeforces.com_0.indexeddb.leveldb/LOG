@@ -1,0 +1,15 @@
+2020/05/23-21:29:17.583 d9c Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/23-21:29:17.583 d9c Recovering log #4
+2020/05/23-21:29:17.583 d9c Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/000004.log 
+2020/05/23-21:29:19.596 dac Level-0 table #8: started
+2020/05/23-21:29:19.600 dac Level-0 table #8: 474 bytes OK
+2020/05/23-21:29:19.604 dac Delete type=0 #4
+2020/05/23-21:29:19.604 dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/23-21:29:19.605 dac Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0b\x007\x000\x00a\x007\x00c\x002\x008\x00f\x003\x00d\x00e' @ 50 : 1
+2020/05/23-21:29:19.605 dac Compacting 1@1 + 1@2 files
+2020/05/23-21:29:19.608 dac Generated table #9@1: 20 keys, 610 bytes
+2020/05/23-21:29:19.608 dac Compacted 1@1 + 1@2 files => 610 bytes
+2020/05/23-21:29:19.613 dac compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/23-21:29:19.613 dac Delete type=2 #8
+2020/05/23-21:29:19.613 dac Delete type=2 #5
+2020/05/23-21:29:19.613 dac Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0b\x007\x000\x00a\x007\x00c\x002\x008\x00f\x003\x00d\x00e' @ 50 : 1 .. (end); will stop at (end)

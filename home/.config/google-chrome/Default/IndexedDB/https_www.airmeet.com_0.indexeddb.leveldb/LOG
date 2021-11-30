@@ -1,0 +1,5 @@
+2020/07/31-16:46:20.157 1149 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.airmeet.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/31-16:46:29.593 11bb Level-0 table #5: started
+2020/07/31-16:46:29.597 11bb Level-0 table #5: 1944 bytes OK
+2020/07/31-16:46:29.601 11bb Delete type=0 #3
+2020/07/31-16:46:29.601 11bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

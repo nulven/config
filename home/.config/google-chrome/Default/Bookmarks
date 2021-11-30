@@ -1,0 +1,61 @@
+{
+   "checksum": "67e2acdff88992480bbab929f9b2dab2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13180631483747606",
+            "guid": "7015ba9f-1fef-4169-8735-d3e7ce6e9f5b",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13205536701263607"
+            },
+            "name": "MIT Mail",
+            "type": "url",
+            "url": "https://owa.exchange.mit.edu/owa/"
+         }, {
+            "date_added": "13180631494534335",
+            "guid": "b8649c86-e1fb-4d0e-8468-3466f813df12",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13205272962449515"
+            },
+            "name": "Firehose",
+            "type": "url",
+            "url": "https://firehose.guide/#"
+         }, {
+            "date_added": "13207171176207034",
+            "guid": "91c9873d-4b6f-4513-bf35-d8446f8ba6c2",
+            "id": "9",
+            "name": "WebHome \u003C Infolab \u003C Foswiki",
+            "type": "url",
+            "url": "https://projects.csail.mit.edu/cgi-bin/wiki/view/Infolab/WebHome"
+         } ],
+         "date_added": "13229243246224785",
+         "date_modified": "13231042884339056",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13229243246224790",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13229243246224791",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgkAqoPZ1sEFACEAqoPZ1sEFADIYChYIAhH4wvPo1sEFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJAKqD2dbBBQAhAKqD2dbBBQAyGAoWCAIR+MLz6NbBBQAYACEAAAAAAAAAACAASMWDruyUL3ChyMTC0S4SACABKhhMZXRjdkp4WWE4Rk1kaWtDN2hyNmVnPT0SrgEIARKpARJOWjpBRHF0QVp6QUNXR3dFc1FOemsyL3dBRHhSVUx2WjZIVDBLQ3hQUXF4UUkxZHNnaEJwMXgyNjFzbmFuNEpCQlBGV1RCT3NwZkxlbG1WGAAgACgAMMCl8I7vqugCOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVomIiSAAAAAAAAAAOBh/E+b5lrGWQijogKD54GFQTUVYb7n0ydxbn8SxgEIAhLBARJmWjpBRHF0QVp5dnllN0hwQURLb0ZIWGZLZ1FOakx5bWpHV1JpUXFmbHZ4NWhkNVQrWnRmZkVjc1hsS2dVaGVGUkM2R0FVOUc5OXFoMUg3dzRLZnMzbFQzNzVDMWJvd2JZN3ZVUT09GAAgACgAMMCl8I7vqugCOABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVomIiSAAAAAAAAAAAF6ajbtaC3KbcTGo27jEQ1cmahP9PloKis4jH8SrQIIBRKoAgocYU10VTAwNWRhWjVRTEtCWE42R3RhcjU2Wk9vPRKmAVo6QURxdEFaeGF3WE5xcEdWdENqRThYSWhSeGxOTStKNWVoQklQem1qUjRxOThCTER3NFp6b3ZTY1ZRS29hOVhvQSt1aU9kZXdGRzExMWpxRXVvS3Mwd0hMSEg0eVQ5a0RaY084ZTZ0UDlRTUlCdURZdTc0UjBuejFOUitldVlTMzc5OHpzbWFXeTN2NXBhVTdkZlN1Q2hLOGpSYUhjWU95aW5BPT0YACAhKCEwv4e02O+s7AI45LqU0dosQObaxcG/LkocdWFKTHlhcFBIajNwK2YyRjd4NjI0aVp5TnFvPVofIh3vckl3bWhRRWkwM2RsOC9DYjhnNzdDbXBtYWNzPWWoPihoEq0CCAcSqAIKHEpqUEhzbWVjRHliYUROcDhERndpaEVJeGVDZz0SpgFaOkFEcXRBWnhhd1hOcXBHVnRDakU4WEloUnhsTk0rSjVlaEJJUHptalI0cTk4QkxEdzRTVEtRVmVNaVcvK0RaUFIvQUxGaCtDRVg2cERZMGZVMXBVNW05TjU3SDk0ZmFqUkRKQW12Ylpkcks0bWtQRlh5NGNYemh5K2hhQWVrZ00reEVEdWtVdkhPQVduN2w4eXJoa0EzVGNLZ0RFZDJOYzdpZz09GAAgBigGML+HtNjvrOwCOIaPldHaLEDxqNm0qS5KHHZPcHE1QU1uSDg4d1dhNGZNVll3eEVaeVUxRT1aHyId9ytJcTI1ZmN3T1hLaE95QzNzeUs1NXFjcHlPZz1lv/3STBKvAggJEqoCChxtbE85cnBLWm1iVUpaemMxM244M0dWeEJKZW89EqYBWjpBRHF0QVp4YXdYTnFwR1Z0Q2pFOFhJaFJ4bE5NK0o1ZWhCSVB6bWpSNHE5OEJMRHc0UTZuTXZKUllob21RSm1xRndTMUJ4MU5KSUJ4ZFVvQ2hmVTkvT0cxc2YxaDBhdDJHYzJnNlVEeVVnU3VRMVcrTE44WGovbm9NMU1hcFNQTUxXR0NRNU9lQ1R5cDJaa3JqL2hlSFFPZ2pCTTB5M3RNZWc9PRgAIAYoBjC/h7TY76zsAjiQ3qLAvS1A8qjZtKkuShxuT1R3QmtPTHE2RmxtS3RRVWVhRW5RSDlnTVU9WiEiH///+1lwRzBIWElwQnlmb2lPTG9TRlNMbHl2RFltYz1l/sDgzBLGAQgDEsEBEmZaOkFEcXRBWncvV01GOHcvWDFWN2t1ZjlYQU9jN3laY21DYlRWdFJJMU51VGpKTGVYS2ZkR0pRQnk0bUk0T29mdkhqS2FxSEQxdHN3d2J4enVZSk5ZeWxzdFhYVFFPSlIrV3R3PT0YACAAKAAwwKXwju+q6AI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WiYiJIAAAAAAAAAAvnI/7d0IkHXDmfPOSNDr42g0JHj75sDgFJZ9fxgBIJqEruyULw==",
+   "version": 1
+}

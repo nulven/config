@@ -1,0 +1,15 @@
+2021/09/08-20:22:13.168 d78d8 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/09/08-20:22:13.172 d78d8 Recovering log #9979
+2021/09/08-20:22:13.173 d78d8 Reusing old log /home/nulven/.config/google-chrome/Default/Sync Data/LevelDB/009979.log 
+2021/09/08-20:24:55.641 d79e6 Level-0 table #9983: started
+2021/09/08-20:24:55.652 d79e6 Level-0 table #9983: 100872 bytes OK
+2021/09/08-20:24:55.665 d79e6 Delete type=0 #9979
+2021/09/08-20:24:55.668 d79e6 Compacting 4@0 + 1@1 files
+2021/09/08-20:24:55.677 d79e6 Generated table #9984@0: 342 keys, 23065 bytes
+2021/09/08-20:24:55.677 d79e6 Compacted 4@0 + 1@1 files => 23065 bytes
+2021/09/08-20:24:55.681 d79e6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/08-20:24:55.681 d79e6 Delete type=2 #9980
+2021/09/08-20:24:55.681 d79e6 Delete type=2 #9983
+2021/09/08-20:24:55.681 d79e6 Delete type=2 #9974
+2021/09/08-20:24:55.681 d79e6 Delete type=2 #9971
+2021/09/08-20:24:55.682 d79e6 Delete type=2 #9977

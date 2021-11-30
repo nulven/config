@@ -1,0 +1,24 @@
+2021/11/30-08:44:41.652 54c6 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/30-08:44:41.653 54c6 Recovering log #1486
+2021/11/30-08:44:41.653 54c6 Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/001486.log 
+2021/11/30-08:46:51.521 5f38 Level-0 table #1491: started
+2021/11/30-08:46:51.543 5f38 Level-0 table #1491: 1721046 bytes OK
+2021/11/30-08:46:51.552 5f38 Delete type=0 #1486
+2021/11/30-08:46:51.554 5f38 Compacting 1@1 + 7@2 files
+2021/11/30-08:46:51.592 5f38 Generated table #1492@1: 6944 keys, 2133073 bytes
+2021/11/30-08:46:51.637 5f38 Generated table #1493@1: 2060 keys, 2121151 bytes
+2021/11/30-08:46:51.665 5f38 Generated table #1494@1: 2038 keys, 2120409 bytes
+2021/11/30-08:46:51.697 5f38 Generated table #1495@1: 1979 keys, 2119816 bytes
+2021/11/30-08:46:51.731 5f38 Generated table #1496@1: 2128 keys, 2120062 bytes
+2021/11/30-08:46:51.759 5f38 Generated table #1497@1: 2056 keys, 2123770 bytes
+2021/11/30-08:46:51.789 5f38 Generated table #1498@1: 14650 keys, 1834089 bytes
+2021/11/30-08:46:51.789 5f38 Compacted 1@1 + 7@2 files => 14572370 bytes
+2021/11/30-08:46:51.798 5f38 compacted to: files[ 0 0 7 0 0 0 0 ]
+2021/11/30-08:46:51.798 5f38 Delete type=2 #1491
+2021/11/30-08:46:51.798 5f38 Delete type=2 #1484
+2021/11/30-08:46:51.798 5f38 Delete type=2 #1488
+2021/11/30-08:46:51.798 5f38 Delete type=2 #1479
+2021/11/30-08:46:51.798 5f38 Delete type=2 #1480
+2021/11/30-08:46:51.798 5f38 Delete type=2 #1483
+2021/11/30-08:46:51.798 5f38 Delete type=2 #1482
+2021/11/30-08:46:51.798 5f38 Delete type=2 #1481

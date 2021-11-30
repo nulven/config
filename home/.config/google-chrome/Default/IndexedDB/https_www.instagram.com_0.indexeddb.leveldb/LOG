@@ -1,0 +1,15 @@
+2020/06/10-11:40:41.169 40b7 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/10-11:40:41.169 40b7 Recovering log #4
+2020/06/10-11:40:41.169 40b7 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000004.log 
+2020/06/10-11:40:49.299 18eb Level-0 table #8: started
+2020/06/10-11:40:49.309 18eb Level-0 table #8: 188 bytes OK
+2020/06/10-11:40:49.314 18eb Delete type=0 #4
+2020/06/10-11:40:49.314 18eb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/10-11:40:49.315 18eb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x02' @ 45 : 1
+2020/06/10-11:40:49.315 18eb Compacting 1@1 + 1@2 files
+2020/06/10-11:40:49.319 18eb Generated table #9@1: 18 keys, 479 bytes
+2020/06/10-11:40:49.319 18eb Compacted 1@1 + 1@2 files => 479 bytes
+2020/06/10-11:40:49.323 18eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/10-11:40:49.324 18eb Delete type=2 #8
+2020/06/10-11:40:49.324 18eb Delete type=2 #5
+2020/06/10-11:40:49.324 18eb Manual compaction at level-1 from '\x00\x00\x00\x00\x02' @ 45 : 1 .. (end); will stop at (end)

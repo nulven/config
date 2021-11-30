@@ -1,0 +1,15 @@
+2021/11/29-11:37:02.321 3910 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/29-11:37:02.321 3910 Recovering log #57
+2021/11/29-11:37:02.324 3910 Reusing old log /home/nulven/.config/google-chrome/Profile 2/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000057.log 
+2021/11/29-13:05:34.021 13746 Level-0 table #63: started
+2021/11/29-13:05:34.054 13746 Level-0 table #63: 846641 bytes OK
+2021/11/29-13:05:34.062 13746 Delete type=0 #57
+2021/11/29-13:05:34.062 13746 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/29-13:05:34.063 13746 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 46543 : 1
+2021/11/29-13:05:34.063 13746 Compacting 1@1 + 1@2 files
+2021/11/29-13:05:34.074 13746 Generated table #64@1: 60 keys, 1398 bytes
+2021/11/29-13:05:34.074 13746 Compacted 1@1 + 1@2 files => 1398 bytes
+2021/11/29-13:05:34.079 13746 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/29-13:05:34.080 13746 Delete type=2 #63
+2021/11/29-13:05:34.080 13746 Delete type=2 #60
+2021/11/29-13:05:34.080 13746 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 46543 : 1 .. (end); will stop at (end)

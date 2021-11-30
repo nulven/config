@@ -1,0 +1,8 @@
+2020/06/25-09:08:59.832 50b Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_pf.intuit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/25-09:08:59.833 50b Recovering log #14
+2020/06/25-09:08:59.833 50b Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_pf.intuit.com_0.indexeddb.leveldb/000014.log 
+2020/06/25-09:09:12.150 1539 Level-0 table #19: started
+2020/06/25-09:09:12.150 1539 Level-0 table #19: 0 bytes OK
+2020/06/25-09:09:12.157 1539 Delete type=0 #14
+2020/06/25-09:09:12.157 1539 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/25-09:09:12.157 1539 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

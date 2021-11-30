@@ -1,0 +1,1 @@
+login.init(function(n){chrome.tabs.query({active:!0,lastFocusedWindow:!0,currentWindow:!0},function(n){n=new URL(n[0].url),n&&n.pathname,n=n?n.hostname:"";-1<(n=n&&n.replace("www.","")).indexOf("linkedin")?render("no_li",!1,!1,!1,"200"):ds(n)})});

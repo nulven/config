@@ -1,0 +1,8 @@
+2021/02/04-11:52:29.031 124719 Reusing MANIFEST /home/nulven/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/04-11:52:29.032 124719 Recovering log #656
+2021/02/04-11:52:29.032 124719 Reusing old log /home/nulven/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000656.log 
+2021/02/04-11:52:31.062 124719 Level-0 table #660: started
+2021/02/04-11:52:31.062 124719 Level-0 table #660: 0 bytes OK
+2021/02/04-11:52:31.068 124719 Delete type=0 #656
+2021/02/04-11:52:31.068 124719 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/04-11:52:31.068 124719 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

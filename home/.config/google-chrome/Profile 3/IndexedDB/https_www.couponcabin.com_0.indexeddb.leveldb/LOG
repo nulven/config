@@ -1,0 +1,37 @@
+2020/08/20-14:06:15.639 5e84 Reusing MANIFEST /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.couponcabin.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/20-14:06:15.639 5e84 Recovering log #15
+2020/08/20-14:06:15.639 5e84 Reusing old log /home/nulven/.config/google-chrome/Profile 3/IndexedDB/https_www.couponcabin.com_0.indexeddb.leveldb/000015.log 
+2020/08/20-14:06:21.998 189a Level-0 table #21: started
+2020/08/20-14:06:22.006 189a Level-0 table #21: 601 bytes OK
+2020/08/20-14:06:22.014 189a Delete type=0 #15
+2020/08/20-14:06:22.014 189a Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/08/20-14:06:22.014 189a Level-0 table #23: started
+2020/08/20-14:06:22.018 189a Level-0 table #23: 486 bytes OK
+2020/08/20-14:06:22.023 189a Delete type=0 #20
+2020/08/20-14:06:22.023 189a Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 96 : 0
+2020/08/20-14:06:22.023 189a Compacting 1@0 + 1@1 files
+2020/08/20-14:06:22.027 189a Generated table #24@0: 4 keys, 259 bytes
+2020/08/20-14:06:22.027 189a Compacted 1@0 + 1@1 files => 259 bytes
+2020/08/20-14:06:22.031 189a compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/20-14:06:22.031 189a Delete type=2 #23
+2020/08/20-14:06:22.032 189a Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 96 : 0 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/08/20-14:06:24.005 189a Level-0 table #26: started
+2020/08/20-14:06:24.010 189a Level-0 table #26: 218 bytes OK
+2020/08/20-14:06:24.015 189a Delete type=2 #21
+2020/08/20-14:06:24.015 189a Delete type=0 #22
+2020/08/20-14:06:24.016 189a Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 97 : 0
+2020/08/20-14:06:24.016 189a Compacting 1@0 + 1@1 files
+2020/08/20-14:06:24.020 189a Generated table #27@0: 2 keys, 196 bytes
+2020/08/20-14:06:24.020 189a Compacted 1@0 + 1@1 files => 196 bytes
+2020/08/20-14:06:24.025 189a compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/20-14:06:24.025 189a Delete type=2 #26
+2020/08/20-14:06:24.025 189a Delete type=2 #24
+2020/08/20-14:06:24.026 189a Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 97 : 0 .. (end); will stop at (end)
+2020/08/20-14:06:24.026 189a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x03' @ 90 : 0
+2020/08/20-14:06:24.026 189a Compacting 1@1 + 1@2 files
+2020/08/20-14:06:24.030 189a Generated table #28@1: 4 keys, 221 bytes
+2020/08/20-14:06:24.030 189a Compacted 1@1 + 1@2 files => 221 bytes
+2020/08/20-14:06:24.035 189a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/20-14:06:24.036 189a Delete type=2 #18
+2020/08/20-14:06:24.036 189a Delete type=2 #27
+2020/08/20-14:06:24.036 189a Manual compaction at level-1 from '\x00\x00\x00\x00\x03' @ 90 : 0 .. (end); will stop at (end)
